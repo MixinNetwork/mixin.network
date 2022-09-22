@@ -1,0 +1,14 @@
+"project_id": "15"
+"api_token_env": "CROWDIN_PERSONAL_TOKEN"
+"base_path": "."
+"base_url": "https://pando.crowdin.com"
+
+"preserve_hierarchy": false
+
+files:
+  [
+    {
+      "source": "/docs/.vuepress/theme/lang/en-US.json",
+      "translation": "/docs/.vuepress/theme/lang/%locale%.json",
+    },
+  ]

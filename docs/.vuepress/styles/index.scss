@@ -1,0 +1,167 @@
+@use "./article.scss";
+
+@font-face {
+  font-family: "Satoshi";
+  src: url("/fonts/Satoshi-Variable.ttf") format("truetype-variations");
+  font-weight: 1 999;
+}
+
+:root {
+  --c-brand: #000;
+  --c-brand-light: #222;
+
+  --content-width: 1280px;
+
+  --c-text-accent: #3d74e1;
+
+  html,
+  body {
+    font-family: "Satoshi", sans-serif;
+  }
+
+  h2 {
+    border: none;
+  }
+
+  #app {
+    overflow-y: hidden;
+  }
+
+  .navbar {
+    border-bottom: none;
+    padding-left: 1.5rem;
+    padding-right: 4rem;
+    .toggle-sidebar-button {
+      right: 1rem;
+      left: auto;
+      z-index: 1;
+    }
+
+    .navbar-item {
+      font-weight: bold;
+    }
+
+    .navbar-item > a:hover,
+    .navbar-item > a.router-link-active {
+      border-bottom: none;
+      color: #3d74e1;
+    }
+  }
+
+  .navbar .logo {
+    height: 20px !important;
+    display: inline-block;
+    vertical-align: text-bottom;
+  }
+
+  .page {
+    padding-bottom: 0;
+  }
+
+  .button {
+    min-width: 164px;
+    height: 60px;
+    border-radius: 73px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none !important;
+
+    &.block {
+      width: 100%;
+    }
+
+    &.blue {
+      background: #3d74e1;
+      color: #fff;
+    }
+
+    &.primary {
+      background: #000;
+      color: #fff;
+    }
+
+    &.primary-alt {
+      background: #ffffff;
+      color: #000;
+    }
+
+    span {
+      height: 20px;
+      vertical-align: middle;
+      line-height: 20px;
+    }
+
+    .button-icon {
+      width: 20px;
+      height: 20px;
+      display: block;
+      background-color: transparent;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+
+    .button-label {
+      margin-left: 8px;
+    }
+  }
+
+  .entry {
+    outline: none;
+    padding: 20px;
+    &.solo {
+      border-radius: 32px;
+      border: none;
+      background: white;
+      height: 60px;
+    }
+  }
+
+  .icon-apple-white {
+    background-image: url("/images/icons/icon-apple-white.svg");
+  }
+  .icon-windows-white {
+    background-image: url("/images/icons/icon-windows-white.svg");
+  }
+  .icon-linux-white {
+    background-image: url("/images/icons/icon-linux-white.svg");
+  }
+  .icon-apple-black {
+    background-image: url("/images/icons/icon-apple-black.svg");
+  }
+  .icon-android-black {
+    background-image: url("/images/icons/icon-android-black.svg");
+  }
+  .icon-arrow-blue {
+    background-image: url("/images/icons/icon-arrow-blue.svg");
+  }
+  .icon-doc-blue {
+    background-image: url("/images/icons/icon-doc-blue.svg");
+  }
+  .icon-plus-white {
+    background-image: url("/images/icons/plus-white.svg");
+  }
+  .icon-wallet-purple {
+    background-image: url("/images/icons/icon-wallet-purple.svg");
+  }
+  .icon-arrows-blue {
+    background-image: url("/images/icons/icon-arrows-blue.svg");
+  }
+  .icon-lightning-orange {
+    background-image: url("/images/icons/icon-lightning-orange.svg");
+  }
+
+  .blue--text {
+    color: #3d74e1;
+  }
+
+  .black--text {
+    color: #000;
+  }
+
+  .white--text {
+    color: #fff;
+  }
+}

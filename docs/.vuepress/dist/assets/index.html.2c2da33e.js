@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b7b0fa64","path":"/pages/team/","title":"Team","lang":"en-US","frontmatter":{"title":"Team","description":"Security, privacy and decentralization first","sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"pages/team/README.md"}');export{e as data};

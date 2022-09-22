@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as a,a as o,r as e}from"./app.08699dbc.js";const p={};function l(r,i){const n=e("comm-slogan"),s=e("dapps-collections"),c=e("dapps-list");return _(),a("div",null,[o(n,{prefix:"\u5728 Mixin \u4E0A\u767C\u73FE dApps",suffix:""}),o(s),o(c)])}var d=t(p,[["render",l],["__file","index.html.vue"]]);export{d as default};

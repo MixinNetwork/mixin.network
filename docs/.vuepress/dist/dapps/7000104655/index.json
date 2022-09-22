@@ -1,0 +1,18 @@
+{
+  "id": "7000104655",
+  "client_id": "8e7e3101-3a2f-469d-bd07-7c1454b6ebab",
+  "launch_url": "https://catkin.pando.im/",
+  "intro_url": "https://catkin.pando.im/",
+  "developer": {
+    "name": "Pando",
+    "url": "https://pando.im"
+  },
+  "name": {
+    "en": "Pando Catkin"
+  },
+  "text": {
+    "en": ["Best place in Mixin Ecosystem where you can get FREE coins and token!"]
+  },
+  "category": "faucet",
+  "languages": ["en", "ja", "zh", "de", "es", "ko"]
+}
