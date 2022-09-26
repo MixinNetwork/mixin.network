@@ -18,10 +18,10 @@
             <img :src="explorer.icon" :alt="explorer.text" />
           </div>
           <div class="explorer-content">
-            <div class="explorer-name text-base font-bold">
+            <div class="explorer-name text-base font-black mb-1">
               {{ explorer.text }}
             </div>
-            <div class="explorer-text text-xs opacity-60">
+            <div class="explorer-text text-sm opacity-60">
               {{ explorer.desc }}
             </div>
           </div>
@@ -41,43 +41,44 @@ export default {
     explorers() {
       return [
         {
-          name: "blockchair",
-          text: i18n.$t("network.explorers.blockchair.title"),
-          text: i18n.$t("network.explorers.blockchair.desc"),
-          url: "https://blockchair.com/mixin",
-          icon: "/images/network/explorer-blockchair.png",
+          name: "viewblock",
+          text: i18n.$t("network.explorers.viewblock.title"),
+          desc: i18n.$t("network.explorers.viewblock.desc"),
+          url: "https://v2.viewblock.io/zh-CN/mixin",
+          icon: "/images/network/explorer-viewblock.png",
+          color: "deep-blue",
         },
         {
           name: "mvm",
           text: i18n.$t("network.explorers.mvm.title"),
-          text: i18n.$t("network.explorers.mvm.desc"),
+          desc: i18n.$t("network.explorers.mvm.desc"),
           url: "https://scan.mvm.dev",
           icon: "/images/network/explorer-mvm.svg",
           color: "purple",
         },
         {
-          name: "space",
-          text: i18n.$t("network.explorers.space.title"),
-          text: i18n.$t("network.explorers.space.desc"),
-          url: "https://mixin-nodes.mixin.fan",
-          icon: "/images/network/explorer-space.svg",
-          color: "deep-blue",
-        },
-        {
           name: "nodes",
           text: i18n.$t("network.explorers.node.title"),
-          text: i18n.$t("network.explorers.node.desc"),
-          url: "https://mixin-nodes.pando.im",
-          icon: "/images/network/explorer-snapshots.svg",
+          desc: i18n.$t("network.explorers.node.desc"),
+          url: "https://nodes.mixin.network/#/",
+          icon: "/images/network/explorer-space.svg",
           color: "red",
         },
         {
           name: "snapshots",
           text: i18n.$t("network.explorers.snapshots.title"),
-          text: i18n.$t("network.explorers.snapshots.desc"),
+          desc: i18n.$t("network.explorers.snapshots.desc"),
           url: "https://mixin.one/snapshots",
           icon: "/images/network/explorer-snapshots.svg",
           color: "blue",
+        },
+        {
+          name: "blockchair",
+          text: i18n.$t("network.explorers.blockchair.title"),
+          desc: i18n.$t("network.explorers.blockchair.desc"),
+          url: "https://blockchair.com/mixin",
+          icon: "/images/network/explorer-blockchair.png",
+          color: "brozen",
         },
       ];
     },
@@ -113,6 +114,10 @@ export default {
       }
       &.red {
         background: linear-gradient(102.26deg, #f14f8a 6.11%, #fb5b5b 98.11%);
+        color: white;
+      }
+      &.brozen {
+        background: linear-gradient(102.26deg, #d1a162 6.11%, #9e704b 98.11%);
         color: white;
       }
       &.purple {

@@ -1,7 +1,17 @@
 <template>
-  <div class="text-center py-20">
+  <div class="text-center py-10 md:py-20">
     <div class="entries">
-      <div class="hlight-entry grid gap-4 grid-cols-1 md:grid-cols-2 mb-40">
+      <div
+        class="
+          hlight-entry
+          grid
+          gap-4
+          grid-cols-1
+          md:grid-cols-2
+          mb-16
+          md:mb-40
+        "
+      >
         <div class="entry-content text-left md:pr-10">
           <div>
             <h2 class="entry-title text-2xl md:text-5xl font-black">
@@ -37,10 +47,10 @@
       </div>
 
       <div class="hlight-entry grid gap-4 grid-cols-1 md:grid-cols-2">
-        <div class="py-0">
+        <div class="py-0 order-2 md:order-1">
           <img src="/images/home/entry-ecosystem.png" />
         </div>
-        <div class="entry-content text-left md:pl-10">
+        <div class="entry-content text-left md:pl-10 order-1 md:order-2">
           <div>
             <h2 class="entry-title text-2xl md:text-5xl font-black">
               {{ $t("home.entry.ecosystem.title") }}
@@ -84,7 +94,7 @@ export default {
     position: relative;
     .button-wrapper {
       position: absolute;
-      bottom: 40px;
+      bottom: 80px;
       width: 100%;
       .button {
         margin: 0 auto;
