@@ -20,7 +20,7 @@ export function genLocales() {
       messages: locale.messages,
 
       navbar: [
-        { text: locale.messages['nav.ecosystem'], link: `${locale.base}ecosystem` },
+        { text: locale.messages['nav.ecosystem'], link: `${locale.base}dapps` },
         { text: locale.messages['nav.developers'], link: `${locale.base}developers` },
         { text: locale.messages['nav.network'], link: `${locale.base}network` },
         { text: locale.messages['nav.messenger'], link: `${locale.base}messenger` },
