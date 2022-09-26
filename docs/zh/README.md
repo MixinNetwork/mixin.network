@@ -38,5 +38,9 @@ events:
 
 <home-features />
 
+<home-hlight-entries />
+
+<home-wallets />
+
 <home-events />
 

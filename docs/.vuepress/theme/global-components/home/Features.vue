@@ -1,9 +1,20 @@
 <template>
   <div class="text-center py-8">
-    <h2 class="text-2xl md:text-4xl font-bold">
+    <h2 class="text-2xl md:text-5xl font-black">
       {{ $t("home.features.title") }}
     </h2>
-    <div class="features grid gap-4 grid-cols-1 md:grid-cols-5 text-left mt-10">
+    <div
+      class="
+        features
+        grid
+        gap-4
+        grid-cols-1
+        md:grid-cols-5
+        text-left
+        mt-10
+        md:mt-20
+      "
+    >
       <div class="feature md:col-span-2 pt-8">
         <div>
           <h3 class="feature-title text-lg font-bold px-8">

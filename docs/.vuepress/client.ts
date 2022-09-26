@@ -8,6 +8,8 @@ import CommSubscribe from './theme/global-components/common/Subscribe.vue'
 
 import HomeStat from './theme/global-components/home/Stat.vue'
 import HomeEvents from './theme/global-components/home/Events.vue'
+import HomeWallets from './theme/global-components/home/Wallets.vue'
+import HomeHlightEntries from './theme/global-components/home/HlightEntries.vue'
 
 import MessengerHero from './theme/global-components/messenger/Hero.vue'
 import MessengerFeatures from './theme/global-components/messenger/Features.vue'
@@ -35,6 +37,8 @@ export default defineClientConfig({
     app.component('home-features', HomeFeatures);
     app.component('home-stat', HomeStat);
     app.component('home-events', HomeEvents);
+    app.component('home-wallets', HomeWallets);
+    app.component('home-hlight-entries', HomeHlightEntries);
 
     app.component('messenger-hero', MessengerHero);
     app.component('messenger-features', MessengerFeatures);

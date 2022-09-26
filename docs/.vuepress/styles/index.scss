@@ -10,6 +10,9 @@
   --c-brand: #000;
   --c-brand-light: #222;
 
+  --c-text: #000;
+  --c-text-light: #000;
+
   --content-width: 1280px;
 
   --c-text-accent: #3d74e1;
@@ -164,4 +167,8 @@
   .white--text {
     color: #fff;
   }
+}
+
+.section-title {
+  // margin-bottom: 40px !important;
 }

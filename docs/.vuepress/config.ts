@@ -2,15 +2,16 @@
 const { CustomTheme } = require('./theme')
 const { themeDataPlugin } = require('@vuepress/plugin-theme-data')
 import { sitemapPlugin } from "vuepress-plugin-sitemap2";
+const { genLocales } = require("./config/locales");
 
-const {enUS, zhTW} = require("./theme/lang");
 
 module.exports = {
   title: "Mixin.network",
 
   head: [
     ['script', {src: '/scripts/tailwindcss.js' }],
-    ['meta', {name: 'color-scheme', content: 'light only'}]
+    ['meta', {name: 'color-scheme', content: 'light only'}],
+    ['link', { type: 'image/icon', rel: 'icon', href: '/favicon.ico' }],
   ],
   locales: {
     // The key is the path for the locale to be nested under.
@@ -45,44 +46,8 @@ module.exports = {
 
       themeData: {
 
-        locales: {
-          '/': {
-            selectLanguageName: 'English',
+        locales: genLocales(),
 
-            selectLanguageText: 'English',
-
-            logo: "/images/logo.svg",
-
-            messages: enUS,
-
-            navbar: [
-              { text: 'Ecosystem', link: '/dapps' },
-              { text: 'Developers', link: '/developers' },
-              { text: 'Network', link: '/network' },
-              { text: 'Messenger', link: '/messenger' },
-              { text: 'Community', link: '/community' },
-              { text: 'Blog', link: '/blog' },
-            ],
-          },
-          '/zh/': {
-            selectLanguageName: '中文',
-
-            selectLanguageText: '中文',
-
-            logo: "/images/logo.svg",
-
-            messages: zhTW,
-
-            navbar: [
-              { text: '生態系統', link: '/zh/dapps' },
-              { text: '開發者', link: '/zh/developers' },
-              { text: 'Network', link: '/zh/network' },
-              { text: 'Messenger', link: '/zh/messenger' },
-              { text: '社區', link: '/zh/community' },
-              { text: '部落格', link: '/blog' },
-            ],
-          },
-        },
         social: [
           {
             name: 'twitter',

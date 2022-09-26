@@ -1,20 +1,20 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /blog/
-  "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
-  // path: /dapps/
-  "v-79cd3652": () => import(/* webpackChunkName: "v-79cd3652" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/dapps/index.html.js").then(({ data }) => data),
-  // path: /messenger/
-  "v-7286f735": () => import(/* webpackChunkName: "v-7286f735" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/messenger/index.html.js").then(({ data }) => data),
   // path: /community/
   "v-20f71d1f": () => import(/* webpackChunkName: "v-20f71d1f" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/community/index.html.js").then(({ data }) => data),
+  // path: /dapps/
+  "v-79cd3652": () => import(/* webpackChunkName: "v-79cd3652" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/dapps/index.html.js").then(({ data }) => data),
+  // path: /blog/
+  "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
   // path: /developers/
   "v-2549d2cd": () => import(/* webpackChunkName: "v-2549d2cd" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/developers/index.html.js").then(({ data }) => data),
-  // path: /network/
-  "v-24f2d5ba": () => import(/* webpackChunkName: "v-24f2d5ba" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/network/index.html.js").then(({ data }) => data),
+  // path: /messenger/
+  "v-7286f735": () => import(/* webpackChunkName: "v-7286f735" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/messenger/index.html.js").then(({ data }) => data),
   // path: /news/
   "v-1500d063": () => import(/* webpackChunkName: "v-1500d063" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/index.html.js").then(({ data }) => data),
+  // path: /network/
+  "v-24f2d5ba": () => import(/* webpackChunkName: "v-24f2d5ba" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/network/index.html.js").then(({ data }) => data),
   // path: /zh/
   "v-2d0ad528": () => import(/* webpackChunkName: "v-2d0ad528" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/index.html.js").then(({ data }) => data),
   // path: /pages/carrers/
@@ -39,6 +39,8 @@ export const pagesData = {
   "v-17712aa4": () => import(/* webpackChunkName: "v-17712aa4" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/messenger/index.html.js").then(({ data }) => data),
   // path: /zh/network/
   "v-273dce2e": () => import(/* webpackChunkName: "v-273dce2e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/network/index.html.js").then(({ data }) => data),
+  // path: /dapps/collections/2022-08-pando/
+  "v-a7a437ae": () => import(/* webpackChunkName: "v-a7a437ae" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/dapps/collections/2022-08-pando/index.html.js").then(({ data }) => data),
   // path: /blog/2021/mixin-joins-avalanche-validator-ecosystem-to-provide-staking-services-to-users/
   "v-b46c1564": () => import(/* webpackChunkName: "v-b46c1564" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2021/mixin-joins-avalanche-validator-ecosystem-to-provide-staking-services-to-users/index.html.js").then(({ data }) => data),
   // path: /blog/2021/mixin-network-established-strategic-partnership-with-saito/
@@ -83,8 +85,6 @@ export const pagesData = {
   "v-2dfa7d9e": () => import(/* webpackChunkName: "v-2dfa7d9e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/mixinwalletbot-is-launching-on-telegram/index.html.js").then(({ data }) => data),
   // path: /blog/2022/the-intro-of-mixin/
   "v-76b9202c": () => import(/* webpackChunkName: "v-76b9202c" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/the-intro-of-mixin/index.html.js").then(({ data }) => data),
-  // path: /dapps/collections/2022-08-pando/
-  "v-a7a437ae": () => import(/* webpackChunkName: "v-a7a437ae" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/dapps/collections/2022-08-pando/index.html.js").then(({ data }) => data),
   // path: /zh/dapps/collections/2022-08-pando/
   "v-72a14a58": () => import(/* webpackChunkName: "v-72a14a58" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/dapps/collections/2022-08-pando/index.html.js").then(({ data }) => data),
   // path: /404.html
