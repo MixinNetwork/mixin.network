@@ -15,7 +15,7 @@
           <div class="entry-links grid gap-0">
             <a
               class="entry-link font-black blue--text"
-              href="#"
+              href="https://github.com/MixinNetwork/mixin"
               target="_blank"
             >
               <img src="/images/icons/code-blue.svg" />
@@ -23,7 +23,7 @@
             </a>
             <a
               class="entry-link font-black blue--text"
-              href="#"
+              href="https://developers.mixin.one/docs/mainnet/concepts/how-it-works"
               target="_blank"
             >
               <img src="/images/icons/account-blue.svg" />

@@ -14,17 +14,14 @@ module.exports = {
     ['link', { type: 'image/icon', rel: 'icon', href: '/favicon.ico' }],
   ],
   locales: {
-    // The key is the path for the locale to be nested under.
-    // As a special case, the default locale can use '/' as its path.
     '/': {
       lang: 'en-US',
-      title: 'Mixin.network',
-      description: 'What\'s Mixin? A blockchain with Lightning Fast, zero transaction fees, popular dApps, develop friendly APIs & SDKs.',
     },
     '/zh/': {
       lang: 'zh-TW',
-      title: 'Mixin.network',
-      description: '什麼是 Mixin？ 具有閃電般快速、零交易費用、流行的 dApp、開發人員友好的 API 和 SDK 的區塊鏈。',
+    },
+    '/ja/': {
+      lang: 'ja-JP',
     },
   },
 
