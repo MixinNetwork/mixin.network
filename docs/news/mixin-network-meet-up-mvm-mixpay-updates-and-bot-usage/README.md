@@ -1,5 +1,5 @@
 ---
-title: Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage
+title: "Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage"
 description: MVM, MixPay Updates and Bot Usage demonstrations was held successfully. Trident team shared their concept on the Trident NFT marketplace. The Quill team, the Web3 content platform also shared their view about the concept of Web3 content field. At last, how to make benefits from Options Dance Bot was introduced.
 editLink: false
 sidebar: false
