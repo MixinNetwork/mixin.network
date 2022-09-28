@@ -3,20 +3,26 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
-  // path: /community/
-  "v-20f71d1f": () => import(/* webpackChunkName: "v-20f71d1f" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/community/index.html.js").then(({ data }) => data),
-  // path: /messenger/
-  "v-7286f735": () => import(/* webpackChunkName: "v-7286f735" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/messenger/index.html.js").then(({ data }) => data),
-  // path: /network/
-  "v-24f2d5ba": () => import(/* webpackChunkName: "v-24f2d5ba" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/network/index.html.js").then(({ data }) => data),
   // path: /dapps/
   "v-79cd3652": () => import(/* webpackChunkName: "v-79cd3652" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/dapps/index.html.js").then(({ data }) => data),
-  // path: /news/
-  "v-1500d063": () => import(/* webpackChunkName: "v-1500d063" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/index.html.js").then(({ data }) => data),
   // path: /developers/
   "v-2549d2cd": () => import(/* webpackChunkName: "v-2549d2cd" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/developers/index.html.js").then(({ data }) => data),
+  // path: /messenger/
+  "v-7286f735": () => import(/* webpackChunkName: "v-7286f735" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/messenger/index.html.js").then(({ data }) => data),
+  // path: /community/
+  "v-20f71d1f": () => import(/* webpackChunkName: "v-20f71d1f" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/community/index.html.js").then(({ data }) => data),
+  // path: /network/
+  "v-24f2d5ba": () => import(/* webpackChunkName: "v-24f2d5ba" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/network/index.html.js").then(({ data }) => data),
+  // path: /news/
+  "v-1500d063": () => import(/* webpackChunkName: "v-1500d063" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/index.html.js").then(({ data }) => data),
   // path: /zh/
   "v-2d0ad528": () => import(/* webpackChunkName: "v-2d0ad528" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/index.html.js").then(({ data }) => data),
+  // path: /news/live-future-club-event/
+  "v-7ffcaf80": () => import(/* webpackChunkName: "v-7ffcaf80" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/live-future-club-event/index.html.js").then(({ data }) => data),
+  // path: /news/mixin-meet-up-caw-coffee-and-women-live-painting/
+  "v-fe3f383e": () => import(/* webpackChunkName: "v-fe3f383e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/mixin-meet-up-caw-coffee-and-women-live-painting/index.html.js").then(({ data }) => data),
+  // path: /news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/
+  "v-00c7d0ab": () => import(/* webpackChunkName: "v-00c7d0ab" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/index.html.js").then(({ data }) => data),
   // path: /pages/carrers/
   "v-35c518cb": () => import(/* webpackChunkName: "v-35c518cb" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/pages/carrers/index.html.js").then(({ data }) => data),
   // path: /pages/donate/
@@ -29,8 +35,6 @@ export const pagesData = {
   "v-b7b0fa64": () => import(/* webpackChunkName: "v-b7b0fa64" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/pages/team/index.html.js").then(({ data }) => data),
   // path: /pages/xin/
   "v-4fa00f56": () => import(/* webpackChunkName: "v-4fa00f56" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/pages/xin/index.html.js").then(({ data }) => data),
-  // path: /zh/community/
-  "v-743d5ee4": () => import(/* webpackChunkName: "v-743d5ee4" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/community/index.html.js").then(({ data }) => data),
   // path: /zh/dapps/
   "v-41007941": () => import(/* webpackChunkName: "v-41007941" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/dapps/index.html.js").then(({ data }) => data),
   // path: /zh/developers/

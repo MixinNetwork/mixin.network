@@ -7,32 +7,15 @@ lastUpdated: false
 contributors: false
 article: false
 featured_images:
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
+  - https://mixin.network/assets/live-future.cb22555d.png
 news:
-  - title: MixPay, Crypto Payment Platform Powered by Mixin Network 
-    url: https://google.com
-    date: 2022/12/31
-    image: https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - title: Mixin Messenger supports to pin the bots on home page
-    url: https://google.com
-    date: 2022/12/02
-  - title: Blockchair add the explorer for Mixin Network
-    url: https://google.com
-    date: 2022/12/01
+  - title: Live Future Club Event
+    url: https://mixin.network/news/live-future-club-event/
+    date: 2022/09/1
 events:
-  - title: MixPay, Crypto Payment Platform Powered by Mixin Network 
-    url: https://google.com
-    date: 2022/12/31
-  - title: Mixin Messenger supports to pin the bots on home page
-    url: https://google.com
-    date: 2022/12/02
-  - title: Blockchair add the explorer for Mixin Network
-    url: https://google.com
-    date: 2022/12/01
+  - title: Live Future Club Event
+    url: https://mixin.network/news/live-future-club-event/
+    date: 2022/09/15
 ---
 
 <community-slogan prefix="Get involved." suffix="Stay in touch."/>
