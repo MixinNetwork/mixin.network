@@ -120,6 +120,7 @@
     transition: all 0.3s ease;
     display: inline-block;
     word-break: break-word;
+    color: var(--c-text-accent);
     & > sup {
       padding: 0 2px;
     }
