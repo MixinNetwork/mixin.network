@@ -7,31 +7,21 @@ article: false
 lastUpdated: false
 contributors: false
 events:
-  - title: MixPay, Crypto Payment Platform Powered by Mixin Network 
-    url: https://google.com
-    date: 2022/12/31
+  - title: Live Future Club Event
+    url: https://mixin.network/news/live-future-club-event/
+    date: 2022/09/15
     category: Event
-    image: https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - title: Mixin Messenger supports to pin the bots on home page
-    url: https://google.com
-    date: 2022/12/02
-    category: News
-  - title: Blockchair add the explorer for Mixin Network
-    url: https://google.com
-    date: 2022/12/01
-    category: News
-  - title: US president pay a visit at Mixin HQ
-    url: https://google.com
-    date: 2022/12/10
+    image: https://mixin.network/assets/live-future.cb22555d.png
+  - title: "Mixin Meet-up: CAW (Coffee and Women) Live Painting"
+    url: https://mixin.network/news/mixin-meet-up-caw-coffee-and-women-live-painting/
+    date: 2022/09/11
     category: Event
-  - title: Elon Musk launch a rocket with Mixin keystore
-    url: https://google.com
-    date: 2022/08/31
-    category: News
-  - title: People break a house to looking for XIN token
-    url: https://google.com
-    date: 2022/05/02
-    category: News
+    image:https://mixin.network/assets/live-painting.44304660.png
+  - title: "Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage"
+    url: https://mixin.network/news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/
+    date: 2022/09/10
+    category: Event
+    image: https://mixin.network/assets/mvm-mixpay.9f985ed4.jpg
 ---
 
 <home-slogan />

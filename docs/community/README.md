@@ -7,32 +7,22 @@ lastUpdated: false
 contributors: false
 article: false
 featured_images:
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
+  - https://mixin.network/assets/live-future.cb22555d.png
+  - https://mixin.network/assets/speaker-pic.78ebb202.png
+  - https://mixin.network/assets/live-painting.44304660.png
+  - https://mixin.network/assets/team-pic.24861b6c.png
 news:
-  - title: MixPay, Crypto Payment Platform Powered by Mixin Network 
-    url: https://google.com
-    date: 2022/12/31
-    image: https://pbs.twimg.com/media/FVjC1vQVUAA-qFl?format=jpg&name=large
-  - title: Mixin Messenger supports to pin the bots on home page
-    url: https://google.com
-    date: 2022/12/02
-  - title: Blockchair add the explorer for Mixin Network
-    url: https://google.com
-    date: 2022/12/01
+  - title: Live Future Club Event
+    url: https://mixin.network/news/live-future-club-event/
+    date: 2022/09/15
 events:
-  - title: MixPay, Crypto Payment Platform Powered by Mixin Network 
-    url: https://google.com
-    date: 2022/12/31
-  - title: Mixin Messenger supports to pin the bots on home page
-    url: https://google.com
-    date: 2022/12/02
-  - title: Blockchair add the explorer for Mixin Network
-    url: https://google.com
-    date: 2022/12/01
+  - title: “Mixin Meet-up: CAW (Coffee and Women) Live Painting”
+    url: https://mixin.network/news/mixin-meet-up-caw-coffee-and-women-live-painting/
+    date: 2022/09/11
+
+  - title: “Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage”
+    url: https://mixin.network/news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/
+    date: 2022/09/10
 ---
 
 <community-slogan prefix="Get involved." suffix="Stay in touch."/>
