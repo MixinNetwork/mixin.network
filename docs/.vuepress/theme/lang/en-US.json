@@ -28,7 +28,7 @@
   "home.features.feat_4.desc": "Make it easier for developers to use any language they want to quickly create products and services.",
 
   "home.stat.stat_1": "Assets",
-  "home.stat.stat_2": "Perk TPS",
+  "home.stat.stat_2": "Peak TPS",
   "home.stat.stat_3": "Total transactions",
   "home.stat.stat_4": "Number of chains",
   "home.stat.stat_5": "Network checkpoints",
@@ -59,7 +59,7 @@
 
   "network.title": "To explore transactions, nodes, and activities taking palce on Mixin.",
   "network.stat.asset": "Assets",
-  "network.stat.tps": "Perk TPS",
+  "network.stat.tps": "Peak TPS",
   "network.stat.tx": "Transactions",
   "network.explorers.title": "Network Explorers",
   "network.explorers.blockchair.title": "Blockchair Explorer",
