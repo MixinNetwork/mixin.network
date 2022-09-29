@@ -124,7 +124,7 @@
 </template>
 
 <script>
-import dapps from "../../../public/dapps/index";
+import getDapps from "../../../public/dapps/index";
 import i18n from "../../utils/i18n";
 
 export default {
@@ -141,6 +141,7 @@ export default {
 
   computed: {
     dapps: function () {
+      const dapps = getDapps(this.lang);
       const query = this.searchValue.toUpperCase().trim();
       if (query.length === 0) {
         return dapps;

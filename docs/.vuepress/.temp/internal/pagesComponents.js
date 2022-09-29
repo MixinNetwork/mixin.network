@@ -3,14 +3,16 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /community/
+  "v-20f71d1f": defineAsyncComponent(() => import(/* webpackChunkName: "v-20f71d1f" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/community/index.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/index.html.vue")),
   // path: /dapps/
   "v-79cd3652": defineAsyncComponent(() => import(/* webpackChunkName: "v-79cd3652" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/dapps/index.html.vue")),
-  // path: /community/
-  "v-20f71d1f": defineAsyncComponent(() => import(/* webpackChunkName: "v-20f71d1f" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/community/index.html.vue")),
   // path: /developers/
   "v-2549d2cd": defineAsyncComponent(() => import(/* webpackChunkName: "v-2549d2cd" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/developers/index.html.vue")),
+  // path: /ja/
+  "v-2d0a983f": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a983f" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/ja/index.html.vue")),
   // path: /messenger/
   "v-7286f735": defineAsyncComponent(() => import(/* webpackChunkName: "v-7286f735" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/messenger/index.html.vue")),
   // path: /network/
@@ -19,6 +21,14 @@ export const pagesComponents = {
   "v-1500d063": defineAsyncComponent(() => import(/* webpackChunkName: "v-1500d063" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/index.html.vue")),
   // path: /zh/
   "v-2d0ad528": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0ad528" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/index.html.vue")),
+  // path: /ja/dapps/
+  "v-25914f18": defineAsyncComponent(() => import(/* webpackChunkName: "v-25914f18" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/ja/dapps/index.html.vue")),
+  // path: /ja/developers/
+  "v-7a3445c7": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a3445c7" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/ja/developers/index.html.vue")),
+  // path: /ja/messenger/
+  "v-0d35860a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d35860a" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/ja/messenger/index.html.vue")),
+  // path: /ja/network/
+  "v-1fd85600": defineAsyncComponent(() => import(/* webpackChunkName: "v-1fd85600" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/ja/network/index.html.vue")),
   // path: /news/live-future-club-event/
   "v-7ffcaf80": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ffcaf80" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/news/live-future-club-event/index.html.vue")),
   // path: /news/mixin-meet-up-caw-coffee-and-women-live-painting/
@@ -81,18 +91,16 @@ export const pagesComponents = {
   "v-78ab3658": defineAsyncComponent(() => import(/* webpackChunkName: "v-78ab3658" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/mixin-network-monthly-report-no-40/index.html.vue")),
   // path: /blog/2022/mixin-network-monthly-report-no-41/
   "v-78ab3677": defineAsyncComponent(() => import(/* webpackChunkName: "v-78ab3677" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/mixin-network-monthly-report-no-41/index.html.vue")),
-  // path: /blog/2022/mixin-network-partners-with-yottachain-international-holding-and-emirates-draw-to-provide-access-for-crypto-holders/
-  "v-1b97722e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b97722e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/mixin-network-partners-with-yottachain-international-holding-and-emirates-draw-to-provide-access-for-crypto-holders/index.html.vue")),
   // path: /blog/2022/mixin-network-monthly-report-no-42/
   "v-78ab3696": defineAsyncComponent(() => import(/* webpackChunkName: "v-78ab3696" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/mixin-network-monthly-report-no-42/index.html.vue")),
+  // path: /blog/2022/mixin-network-partners-with-yottachain-international-holding-and-emirates-draw-to-provide-access-for-crypto-holders/
+  "v-1b97722e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b97722e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/mixin-network-partners-with-yottachain-international-holding-and-emirates-draw-to-provide-access-for-crypto-holders/index.html.vue")),
   // path: /blog/2022/mixinwalletbot-is-launching-on-telegram/
   "v-2dfa7d9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-2dfa7d9e" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/mixinwalletbot-is-launching-on-telegram/index.html.vue")),
   // path: /blog/2022/the-intro-of-mixin/
   "v-76b9202c": defineAsyncComponent(() => import(/* webpackChunkName: "v-76b9202c" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/blog/2022/the-intro-of-mixin/index.html.vue")),
   // path: /dapps/collections/2022-08-pando/
   "v-a7a437ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-a7a437ae" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/dapps/collections/2022-08-pando/index.html.vue")),
-  // path: /zh/dapps/collections/2022-08-pando/
-  "v-72a14a58": defineAsyncComponent(() => import(/* webpackChunkName: "v-72a14a58" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/zh/dapps/collections/2022-08-pando/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/home/lyric/Codework/mixin-fan/mixin.network/docs/.vuepress/.temp/pages/404.html.vue")),
 }

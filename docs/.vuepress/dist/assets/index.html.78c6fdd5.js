@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-24f12d72","path":"/pages/mission/","title":"Mission","lang":"en-US","frontmatter":{"title":"Mission","description":"Security, privacy and decentralization first","sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"pages/mission/README.md"}');export{e as data};

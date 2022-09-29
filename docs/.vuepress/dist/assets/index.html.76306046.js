@@ -1,1 +1,0 @@
-import{_,o as c,c as s,a as e,r as o}from"./app.08699dbc.js";const a={};function l(m,p){const n=o("network-hero"),r=o("network-explorers"),t=o("network-nodes");return c(),s("div",null,[e(n),e(r),e(t)])}var k=_(a,[["render",l],["__file","index.html.vue"]]);export{k as default};
