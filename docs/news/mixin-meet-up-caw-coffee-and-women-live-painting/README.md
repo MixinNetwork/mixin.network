@@ -1,7 +1,6 @@
 ---
 title: "Mixin Meet-up: CAW (Coffee and Women) Live Painting"
 description: offline meet-up CAW (Coffee and Women) Live Painting event was sucessfully held by Mixin Network at The 5-star Movenpick Hotel Dubai.
-
 editLink: false
 sidebar: false
 lastUpdated: false

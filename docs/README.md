@@ -14,12 +14,14 @@ events:
     image: https://mixin.network/assets/live-future.cb22555d.png
   - title: "Mixin Meet-up: CAW (Coffee and Women) Live Painting"
     url: https://mixin.network/news/mixin-meet-up-caw-coffee-and-women-live-painting/
-    date: 2022/09/15
+    date: 2022/09/11
     category: Event
+    image:https://mixin.network/assets/live-painting.44304660.png
   - title: "Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage"
     url: https://mixin.network/news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/
-    date: 2022/09/15
+    date: 2022/09/10
     category: Event
+    image: https://mixin.network/assets/mvm-mixpay.9f985ed4.jpg
 ---
 
 <home-slogan />
