@@ -11,7 +11,9 @@
     "en": "Pando Rings"
   },
   "text": {
-    "en": ["An algorithmic, autonomous interest rate protocol. Lend or borrow coins here!"]
+    "en": ["An algorithmic, autonomous interest rate protocol. Lend or borrow coins here!"],
+    "zh": ["算法驅動的去中心化數字貨幣借貸平台，基於Mixin區塊鏈多重簽名技術構建。"],
+    "ja": ["金利がアルゴリズムによって自律的に決定される、分散型の仮想通貨の貸借プラットフォームです。 Mixin ブロックチェーン上に構築されています。"]
   },
   "category": "financial",
   "languages": ["en", "ja", "zh", "de", "es", "ko"],

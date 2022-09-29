@@ -12,7 +12,13 @@
   },
   "text": {
     "en": [
-      "A decentralized swapping protocol on Mixin Network, with best liquidity."
+      "a community-driven decentralized exchange(DEX) using Automatic Market Maker(AMM) mechanism. 0 gas fee, supports cross chain assets, built on Mixin blockchain and multisig technology"
+    ],
+    "zh": [
+      "一個社區驅動的去中心化數字貨幣交易协议，使用自動做市商（AMM）算法機制。交易無gas費，快速便捷，支持多鏈資產，基於Mixin區塊鏈技術構建。"
+    ],
+    "ja": [
+      "AMMメカニズムを使用したコミュニティ主導の分散型取引所 (DEX) です。 0 ガス料金、Mixin ブロックチェーン上に構築されたクロス チェーン アセットをサポートします。"
     ]
   },
   "category": "exchange",

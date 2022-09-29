@@ -1,1 +1,0 @@
-import{_ as c,o as a,c as m,a as e,r as o}from"./app.08699dbc.js";const r={};function l(h,f){const n=o("home-slogan"),t=o("home-stat"),_=o("home-features"),s=o("home-events");return a(),m("div",null,[e(n),e(t),e(_),e(s)])}var d=c(r,[["render",l],["__file","index.html.vue"]]);export{d as default};

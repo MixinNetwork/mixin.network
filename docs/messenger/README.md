@@ -1,4 +1,6 @@
 ---
+title: "Mixin Messenger"
+description: 
 editLink: false
 sidebar: false
 lastUpdated: false

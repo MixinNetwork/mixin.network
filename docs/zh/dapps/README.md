@@ -6,19 +6,19 @@ sidebar: false
 lastUpdated: false
 contributors: false
 article: false
-collections:
-  - title: dApps of 2021 - Community's Choice
-    dapps: [ '7000103537', '7000103924']
-    url: https://google.com
-    category: Collection
-  - title: dApps of 2021 - Community's Choice
-    dapps: [ '7000103537', '7000103924']
-    url: https://google.com
-    category: Collection
-  - title: dApps of 2021 - Community's Choice
-    dapps: [ '7000103537', '7000103924']
-    url: https://google.com
-    category: Collection
+# collections:
+#   - title: dApps of 2021 - Community's Choice
+#     dapps: [ '7000103537', '7000103924']
+#     url: https://google.com
+#     category: Collection
+#   - title: dApps of 2021 - Community's Choice
+#     dapps: [ '7000103537', '7000103924']
+#     url: https://google.com
+#     category: Collection
+#   - title: dApps of 2021 - Community's Choice
+#     dapps: [ '7000103537', '7000103924']
+#     url: https://google.com
+#     category: Collection
 ---
 
 <comm-slogan prefix="在 Mixin 上發現 dApps" suffix="" />

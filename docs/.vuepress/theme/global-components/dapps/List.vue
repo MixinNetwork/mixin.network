@@ -32,14 +32,14 @@
             <div class="dapp-content">
               <div class="flex items-center mb-2">
                 <div class="dapp-name text-base font-bold">
-                  {{ T(dapp, "name") }}
+                  {{ TName(dapp) }}
                 </div>
                 <div class="dapp-category text-xs ml-1 font-bold">
                   {{ T(dapp, "category") }}
                 </div>
               </div>
               <div class="dapp-text text-xs opacity-60">
-                {{ TText(dapp, "text") }}
+                {{ TText(dapp) }}
               </div>
             </div>
           </div>
@@ -61,11 +61,11 @@
       </div>
       <div class="dapp-dialog-body p-5">
         <div class="dapp-name text-lg font-bold align-left mb-2">
-          {{ T(currentDapp, "name") }}
+          {{ TName(currentDapp) }}
         </div>
         <div class="dapp-text text-sm greyscale_3--text">
           <a :href="currentDapp.intro_url">
-            {{ TText(currentDapp, "text") }}
+            {{ TText(currentDapp) }}
             <img class="icon" src="/images/icons/link-blue.svg" />
           </a>
         </div>
@@ -124,7 +124,7 @@
 </template>
 
 <script>
-import dapps from "../../../public/dapps/index";
+import getDapps from "../../../public/dapps/index";
 import i18n from "../../utils/i18n";
 
 export default {
@@ -141,19 +141,22 @@ export default {
 
   computed: {
     dapps: function () {
+      const dapps = getDapps(this.lang);
       const query = this.searchValue.toUpperCase().trim();
       if (query.length === 0) {
         return dapps;
       }
-      const ret = [];
+      let ret = [];
       for (const key in dapps) {
         if (Object.hasOwnProperty.call(dapps, key)) {
           const dapp = dapps[key];
           for (const lc in dapp.name) {
             if (Object.hasOwnProperty.call(dapp.name, lc)) {
               const val = dapp.name[lc];
+              const _dapp = Object.assign({ lc_name: val }, dapp);
               if (-1 !== val.toUpperCase().indexOf(query)) {
-                ret.push(dapp);
+                ret.push(_dapp);
+                break;
               }
             }
           }
@@ -223,8 +226,15 @@ export default {
       return "";
     },
 
+    TName(dapp) {
+      return dapp.lc_name;
+    },
+
     TText(dapp) {
-      return this.T(dapp, "text").join("\n");
+      if (dapp.lc_text.contructor === Array) {
+        return dapp.lc_text.join("\n");
+      }
+      return dapp.lc_text.toString();
     },
 
     openDialog(dapp) {
@@ -264,8 +274,6 @@ export default {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    .button {
-    }
   }
   .list-content {
     position: relative;

@@ -12,8 +12,10 @@
   },
   "text": {
     "en": [
-      "A decentralized financial network, implement a derivatives liquidity protocol, generate stablecoin pUSD."
-    ]
+      "A decentralized liquidity and lending network built with the MTG technology which allows you to mint over-collateralized stablecoin PUSD against supported crypto assets."
+    ],
+    "ja": ["MTG技術で構築された分散型流動性と貸出ネットワークで、サポートされている暗号資産に対して過剰担保安定化された PUSD を発行することができます。"],
+    "zh": ["一個去中心化的流動性協議，支持通過超額抵押鑄造穩定幣 pUSD，基於區塊鏈 Mixin 可信節點組（MTG）技術構建。"]
   },
   "category": "financial",
   "languages": ["en", "ja", "zh", "de", "es", "ko"],

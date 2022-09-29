@@ -1,1 +1,0 @@
-import{_ as s,o as _,c as a,a as e,r as o}from"./app.08699dbc.js";const d={};function i(l,m){const n=o("comm-slogan"),t=o("dev-featured"),c=o("dev-entries"),r=o("dev-tutorials");return _(),a("div",null,[e(n,{prefix:"Mixin Developer Resources",suffix:""}),e(t),e(c),e(r)])}var p=s(d,[["render",i],["__file","index.html.vue"]]);export{p as default};
