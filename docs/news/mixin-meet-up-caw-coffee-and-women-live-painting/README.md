@@ -1,6 +1,6 @@
 ---
 <<<<<<< HEAD
-title: Mixin Meet-up: CAW (Coffee and Women) Live Painting
+title: “Mixin Meet-up: CAW (Coffee and Women) Live Painting”
 =======
 title: "Mixin Meet-up: CAW (Coffee and Women) Live Painting"
 >>>>>>> 89555478c9cf1a9a659cd07284b11a15705f72fd

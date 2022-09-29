@@ -1,6 +1,6 @@
 ---
 <<<<<<< HEAD
-title: Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage
+title: “Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage”
 =======
 title: "Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage"
 >>>>>>> 89555478c9cf1a9a659cd07284b11a15705f72fd
