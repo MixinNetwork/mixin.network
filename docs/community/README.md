@@ -16,11 +16,10 @@ news:
     url: https://mixin.network/news/live-future-club-event/
     date: 2022/09/15
 events:
-  - title: “Mixin Meet-up: CAW (Coffee and Women) Live Painting”
+  - title: "Mixin Meet-up: CAW (Coffee and Women) Live Painting"
     url: https://mixin.network/news/mixin-meet-up-caw-coffee-and-women-live-painting/
     date: 2022/09/11
-
-  - title: “Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage”
+  - title: "Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage"
     url: https://mixin.network/news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/
     date: 2022/09/10
 ---
