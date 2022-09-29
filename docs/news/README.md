@@ -1,6 +1,6 @@
 ---
 title: News & Events
-description: 
+description: event and news
 editLink: false
 sidebar: false
 lastUpdated: false
