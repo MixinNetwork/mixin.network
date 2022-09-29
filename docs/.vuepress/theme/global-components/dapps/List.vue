@@ -274,8 +274,6 @@ export default {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    .button {
-    }
   }
   .list-content {
     position: relative;

@@ -8,7 +8,7 @@
     </h2>
     <div class="events-wrapper mt-10 md:mt-20">
       <div class="events-inner">
-        <div class="events">
+        <div class="events" :style="eventsStyle">
           <div
             class="event text-left"
             :class="evCls(ev, ix)"
@@ -46,6 +46,19 @@ export default {
     return {
       events: [],
     };
+  },
+
+  computed: {
+    eventsStyle() {
+      let style = { width: "100vw" };
+      if (this.events?.length) {
+        style.width = `${this.events.length * 300}px`;
+        if (document.body.clientWidth > this.events.length * 300) {
+          style.animationName = "none";
+        }
+      }
+      return style;
+    },
   },
 
   methods: {
@@ -214,7 +227,7 @@ export default {
     transform: translateX(0vw);
   }
   50% {
-    transform: translateX(-100vw);
+    transform: translateX(-70%);
   }
   100% {
     transform: translateX(0vw);
