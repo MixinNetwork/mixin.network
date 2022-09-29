@@ -1,0 +1,25 @@
+{
+  "id": "7000104240",
+  "mixin_id": "7000104240",
+  "client_id": "f7db018b-564c-42ce-ab93-31dea3d4699d",
+  "launch_url": "https://links.jpyc.jp",
+  "intro_url": "https://links.jpyc.jp",
+  "developer": {
+    "name": "JPYC",
+    "url": "https://jpyc.jp/"
+  },
+  "name": {
+    "ja": "JPYConnect",
+    "en": "JPYConnect"
+  },
+  "text": {
+    "ja": [
+      "日本発のステーブルコインJPYCの購入やギフト券等との交換を行うことができます。"
+    ],
+    "en": [
+      "日本発のステーブルコインJPYCの購入やギフト券等との交換を行うことができます。"
+    ]
+  },
+  "category": "util",
+  "languages": ["ja", "en"]
+}

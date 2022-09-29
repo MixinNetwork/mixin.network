@@ -11,7 +11,9 @@
     "en": "Pando Catkin"
   },
   "text": {
-    "en": ["Best place in Mixin Ecosystem where you can get FREE coins and token!"]
+    "en": ["Best place in Mixin Ecosystem where you can get FREE coins and token!"],
+    "ja": ["無料のコインとトークンを入手するとして最適な場所"],
+    "zh": ["獲得免费加密貨幣之最佳去處"]
   },
   "category": "faucet",
   "languages": ["en", "ja", "zh", "de", "es", "ko"]
