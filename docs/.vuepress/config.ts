@@ -3,6 +3,7 @@ const { CustomTheme } = require('./theme')
 const { themeDataPlugin } = require('@vuepress/plugin-theme-data')
 import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics');
+const { seoPlugin } = require("vuepress-plugin-seo2");
 const { genLocales } = require("./config/locales");
 
 
@@ -31,6 +32,13 @@ module.exports = {
   }),
 
   plugins: [
+    seoPlugin({
+      hostname: "mixin.network",
+      canonical: "https://mixin.network",
+      isArticle: (page) => {
+        return Boolean(page.frontmatter.article !== false);
+      },
+    }),
     googleAnalyticsPlugin({
       id: 'G-FS1WRK9J9S',
     }),
