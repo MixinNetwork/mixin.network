@@ -15,10 +15,16 @@ function getdApps(lang) {
   }
 
   ret.sort((a, b) => {
-    if (a.lc_name > b.lc_name) {
+    if (a.languages.includes(lang) && !b.languages.includes(lang)) {
+      return -1;
+    } else if (!a.languages.includes(lang) && b.languages.includes(lang)) {
       return 1;
+    } else {
+      if (a.lc_name > b.lc_name) {
+        return 1;
+      }
+      return -1;
     }
-    return -1;
   })
 
   return ret;
