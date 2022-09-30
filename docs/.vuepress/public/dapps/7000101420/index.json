@@ -1,0 +1,20 @@
+{
+  "id": "7000101420",
+  "client_id": "10c3c790-8222-4117-91cb-6ee4a34df930",
+  "launch_url": "https://murmurs.io/",
+  "intro_url": "https://murmurs.io/",
+  "developer": {
+    "name": "Lyric",
+    "url": "https://lyric.im"
+  },
+  "name": {
+    "en": "Murmurs"
+  },
+  "text": {
+    "en": ["Share and discover what's happening near you"],
+    "ja": ["近くで起こっていることを共有して発見する"],
+    "zh": ["分享並發現您附近發生的事情"]
+  },
+  "category": "social",
+  "languages": ["en", "ja"]
+}

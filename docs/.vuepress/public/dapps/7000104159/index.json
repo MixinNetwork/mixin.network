@@ -8,7 +8,8 @@
     "url": "https://pando.im"
   },
   "name": {
-    "en": "Pando Rings"
+    "en": "Pando Rings",
+    "ja": "パンド・リング"
   },
   "text": {
     "en": ["An algorithmic, autonomous interest rate protocol. Lend or borrow coins here!"],

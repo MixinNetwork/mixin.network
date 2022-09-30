@@ -1,5 +1,5 @@
 <template>
-  <div class="collections-wrapper text-center pb-8">
+  <div v-if="collections" class="collections-wrapper text-center pb-8">
     <div class="bg"></div>
     <div
       class="collections grid gap-4 grid-cols-1 md:grid-cols-2 text-left mt-10"

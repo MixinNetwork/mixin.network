@@ -19,9 +19,9 @@
         </a>
       </div>
       <div class="list-content">
-        <div class="dapps grid gap-4 grid-cols-1 md:grid-cols-3">
+        <div class="dapps grid gap-2 md:gap-4 grid-cols-1 md:grid-cols-3">
           <div
-            class="dapp flex justify-center items-center"
+            class="dapp flex justify-center items-center p-4 md:p-6"
             v-for="(dapp, ix) in dapps"
             :key="`dapp-${ix}`"
             @click="openDialog(dapp)"
@@ -29,8 +29,8 @@
             <div class="dapp-icon flex place-center">
               <img :src="`/dapps/${dapp.id}/icon.png`" :alt="dapp.id" />
             </div>
-            <div class="dapp-content">
-              <div class="flex items-center mb-2">
+            <div class="dapp-content ml-4 md:ml-6">
+              <div class="flex items-center mb-1">
                 <div class="dapp-name text-base font-bold">
                   {{ TName(dapp) }}
                 </div>
@@ -283,7 +283,6 @@ export default {
     .dapp {
       background-color: white;
       border-radius: 32px;
-      padding: 24px;
       .dapp-icon {
         flex-basis: 48px;
         width: 48px;
@@ -302,7 +301,6 @@ export default {
       }
       .dapp-content {
         flex-basis: 48px;
-        padding-left: 24px;
         flex-grow: 1;
         text-align: left;
       }

@@ -1,0 +1,22 @@
+{
+  "id": "7000103970",
+  "client_id": "8e9e520c-b002-4bfe-b989-3f18d8d6e273",
+  "launch_url": "https://cowallet.fox.one/",
+  "intro_url": "https://cowallet.fox.one/",
+  "developer": {
+    "name": "Pando",
+    "url": "https://pando.im"
+  },
+  "name": {
+    "en": "CoWallet",
+    "zh": "共同金库",
+    "ja": "共同金庫"
+  },
+  "text": {
+    "en": ["Manage crypto assets with friends with multi-signature"],
+    "ja": ["複数アカウントで資産を共同管理"],
+    "zh": ["和朋友用多重签名一起管理加密货币资产"]
+  },
+  "category": "wallet",
+  "languages": ["en", "zh", "ja"]
+}
