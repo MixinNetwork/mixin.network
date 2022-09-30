@@ -6,7 +6,7 @@ const { genLocales } = require("./config/locales");
 
 
 module.exports = {
-  title: "Mixin.network",
+  title: "Mixin Network",
 
   head: [
     ['script', {src: '/scripts/tailwindcss.js' }],

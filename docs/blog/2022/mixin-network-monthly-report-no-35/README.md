@@ -95,7 +95,7 @@ All Pando products have been running stably during the extreme market situation 
 
 ## Progress Summary
 
-- The total assets of the Mixin network are growing steadily, and the performance and stability of the mainnet have been further improved. The number of public chain support has reached 41.
+- The total assets of the Mixin Network are growing steadily, and the performance and stability of the mainnet have been further improved. The number of public chain support has reached 41.
 - In the development of Mixin Messenger, important functions such as bot encryption, playlists, message merge and forwarding, screen lock, pin message in chat sessions, NFT, and emoji store have been launched, and a newly designed and developed desktop client has also been released. In addition, multiple blockchain projects and KOLs opened their official super communities in Mixin which covers functions like communication, transactions, information, events, etc., and activities such as live streaming, airdrop, lucky coin rain, regular investment, lucky draw, and trading competition are continuously held.
 - Mixin decentralized finance represented by Pando has begun to take shape, and financial infrastructure such as trading, mortgage coinage, lending, stablecoins, financial management, options, staking, etc. is becoming more and more complete.
 - The Japanese market is steadily advancing with compliance routes under the leadership of the Links team. It has now operated multiple themed communities and has reached in-depth cooperation with CoinPost, JPYC, and other teams. In the near future, users will be able to play Mixin-based high-quality games.

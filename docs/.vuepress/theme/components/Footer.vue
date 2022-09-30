@@ -74,7 +74,7 @@
       </div>
     </div>
     <div class="copyright text-center text-xs opacity-60">
-      <p>Mixin.network © 2022 ~ present. All rights reserved.</p>
+      <p>Mixin Network © 2022 ~ present. All rights reserved.</p>
       <p>
         Designed & Powered by
         <a href="https://pando.im" target="_blank">Pando</a>
