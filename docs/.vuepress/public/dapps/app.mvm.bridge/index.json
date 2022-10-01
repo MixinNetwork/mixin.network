@@ -1,0 +1,22 @@
+{
+  "id": "app.mvm.bridge",
+  "client_id": "app.mvm.bridge",
+  "launch_url": "https://bridge.mvm.app",
+  "intro_url": "https://bridge.mvm.app",
+  "developer": {
+    "name": "Mixin Team",
+    "url": "https://mixin.one"
+  },
+  "name": {
+    "en": "MVM Bridge",
+    "zh": "MVM 橋",
+    "ja": "MVM ブリッジ"
+  },
+  "text": {
+    "en": ["The bridge of MVM."],
+    "ja": ["MVM のブリッジ。"],
+    "zh": ["MVM 的橋。"]
+  },
+  "category": "wallet",
+  "languages": ["en", "zh", "ja"]
+}
