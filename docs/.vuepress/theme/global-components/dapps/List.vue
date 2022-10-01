@@ -46,80 +46,82 @@
         </div>
       </div>
     </div>
-    <div v-if="dialog" class="dapp-dialog-mask"></div>
-    <div v-if="dialog && currentDapp" class="dapp-dialog">
-      <div class="dapp-dialog-top flex items-center place-content-between">
-        <div class="dapp-icon flex place-left">
-          <img
-            :src="`/dapps/${currentDapp.id}/icon.png`"
-            :alt="currentDapp.id"
-          />
-        </div>
-        <a class="close" @click="dialog = false">
-          <img src="/images/icons/close-grey.svg" />
-        </a>
-      </div>
-      <div class="dapp-dialog-body p-5">
-        <div class="dapp-name text-lg font-bold align-left mb-2">
-          {{ TName(currentDapp) }}
-        </div>
-        <div class="dapp-text text-sm greyscale_3--text">
-          <a :href="currentDapp.intro_url">
-            {{ TText(currentDapp) }}
-            <img class="icon" src="/images/icons/link-blue.svg" />
-          </a>
-        </div>
-        <div class="button-wrapper py-4">
-          <button
-            class="button primary block font-bold"
-            @click="launch(currentDapp)"
-          >
-            {{ $t("dapps.launch") }}
-          </button>
-        </div>
-      </div>
-      <div class="dapp-dialog-attrs grid gap-0 grid-cols-2">
-        <div
-          class="dapp-attr p-4"
-          v-for="(attr, ix) in attrs"
-          :key="`attr-${ix}`"
-          :class="
-            ix === attrs.length - 1 && attrs.length % 2 ? 'col-span-2' : ''
-          "
-        >
-          <div
-            class="
-              dapp-attr-label
-              text-xs
-              uppercase
-              greyscale_3--text
-              font-medium
-              opacity-60
-              mb-1
-            "
-          >
-            {{ attr.label }}
-          </div>
-          <div class="dapp-attr-value flex">
-            <a
-              v-if="attr.url"
-              :href="attr.url"
-              class="inner text-sm capitalize"
-            >
-              {{ attr.value }}
-            </a>
-            <div v-else class="inner text-sm capitalize">
-              {{ attr.value }}
-            </div>
+    <div v-if="dialog" class="dapp-dialog-mask" @click="dialog = false"></div>
+    <Transition>
+      <div v-if="dialog && currentDapp" class="dapp-dialog">
+        <div class="dapp-dialog-top flex items-center place-content-between">
+          <div class="dapp-icon flex place-left">
             <img
-              class="icon"
-              v-if="attr.url"
-              src="/images/icons/link-blue.svg"
+              :src="`/dapps/${currentDapp.id}/icon.png`"
+              :alt="currentDapp.id"
             />
           </div>
+          <a class="close" @click="dialog = false">
+            <img src="/images/icons/close-grey.svg" />
+          </a>
+        </div>
+        <div class="dapp-dialog-body p-5">
+          <div class="dapp-name text-lg font-bold align-left mb-2">
+            {{ TName(currentDapp) }}
+          </div>
+          <div class="dapp-text text-sm greyscale_3--text">
+            <a :href="currentDapp.intro_url">
+              {{ TText(currentDapp) }}
+              <img class="icon" src="/images/icons/link-blue.svg" />
+            </a>
+          </div>
+          <div class="button-wrapper py-4">
+            <button
+              class="button primary block font-bold"
+              @click="launch(currentDapp)"
+            >
+              {{ $t("dapps.launch") }}
+            </button>
+          </div>
+        </div>
+        <div class="dapp-dialog-attrs grid gap-0 grid-cols-2">
+          <div
+            class="dapp-attr p-4"
+            v-for="(attr, ix) in attrs"
+            :key="`attr-${ix}`"
+            :class="
+              ix === attrs.length - 1 && attrs.length % 2 ? 'col-span-2' : ''
+            "
+          >
+            <div
+              class="
+                dapp-attr-label
+                text-xs
+                uppercase
+                greyscale_3--text
+                font-medium
+                opacity-60
+                mb-1
+              "
+            >
+              {{ attr.label }}
+            </div>
+            <div class="dapp-attr-value flex">
+              <a
+                v-if="attr.url"
+                :href="attr.url"
+                class="inner text-sm capitalize"
+              >
+                {{ attr.value }}
+              </a>
+              <div v-else class="inner text-sm capitalize">
+                {{ attr.value }}
+              </div>
+              <img
+                class="icon"
+                v-if="attr.url"
+                src="/images/icons/link-blue.svg"
+              />
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    </Transition>
   </div>
 </template>
 
@@ -281,6 +283,7 @@ export default {
   }
   .dapps {
     .dapp {
+      cursor: pointer;
       background-color: white;
       border-radius: 32px;
       .dapp-icon {
@@ -319,20 +322,20 @@ export default {
   background: rgba(0, 0, 0, 0.6);
 }
 .dapp-dialog {
-  top: 64px;
   width: 90vw;
   max-width: 500px;
   max-height: 80vh;
   position: fixed;
   display: block;
   content: " ";
-  left: 50%;
-  transform: translateX(-50%);
   z-index: 101;
   overflow: hidden;
   background: #fff;
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.08);
   border-radius: 32px;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
   .dapp-dialog-top {
     padding: 16px 20px 0 16px;
     .dapp-icon {
@@ -393,5 +396,14 @@ export default {
       }
     }
   }
+}
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
 }
 </style>
