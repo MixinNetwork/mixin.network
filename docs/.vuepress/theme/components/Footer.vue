@@ -19,12 +19,12 @@
         />
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
-        <div class="footer-column-title mb-4 font-bold">About us</div>
+        <div class="footer-column-title mb-4 font-bold">About Us</div>
         <div class="footer-column-item">
           <a href="/pages/team">Team</a>
         </div>
         <div class="footer-column-item">
-          <a href="mailto:contact@mixin.one">Get in touch</a>
+          <a href="mailto:contact@mixin.one">Get in Touch</a>
         </div>
       </div>
       <div class="footer-column col-span-2 md:col-span-1">

@@ -29,9 +29,9 @@
 
   "home.stat.stat_1": "Assets",
   "home.stat.stat_2": "Peak TPS",
-  "home.stat.stat_3": "Total transactions",
-  "home.stat.stat_4": "Number of chains",
-  "home.stat.stat_5": "Network checkpoints",
+  "home.stat.stat_3": "Total Transactions",
+  "home.stat.stat_4": "Number of Chains",
+  "home.stat.stat_5": "Network Checkpoints",
 
   "home.wallet.title": "Supported Wallets",
 
@@ -83,9 +83,9 @@
   "network.nodes.join.way_1.em": "https://big.one/tw/mixin",
   "network.nodes.join.way_1.desc": "BigONE Co-Building Mixin Node Ecosystem, works with you to create XIN nodes.",
 
-  "footer.about": "About us",
+  "footer.about": "About Us",
   "footer.team": "Team",
-  "footer.get_in_touch": "Get in touch",
+  "footer.get_in_touch": "Get in Touch",
   "footer.general": "General",
   "footer.blog": "Blog",
   "footer.careers": "Careers",
