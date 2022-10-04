@@ -62,25 +62,25 @@ export default {
         {
           name: "mvm",
           text: "MVM",
-          desc: "Mixin Virtual Machine is an EVM compatible VM which is build on MTG. You can run existing contracts code on it smoothly.",
+          desc: "Mixin Virtual Machine is an EVM compatible VM which is built on MTG. You can run existing contracts code on it smoothly.",
           url: "https://developers.mixin.one/docs/mainnet/mtg/overview",
         },
         {
           name: "node",
           text: "Node RPC",
-          desc: "Interact with Mixin Network Mainnet's nodes",
+          desc: "Interact with Mixin Network Mainnet's nodes.",
           url: "https://developers.mixin.one/docs/mainnet-rpc",
         },
         {
           name: "api",
           text: "APIs",
-          desc: "Easy RESTful APIs for developers, to build dApps or Messenger bots",
+          desc: "Easy RESTful APIs for developers to build dApps or Messenger bots.",
           url: "https://developers.mixin.one/docs/api/guide",
         },
         {
           name: "sdk",
           text: "SDKs",
-          desc: "Choose your familiar language's SDK here",
+          desc: "Choose the SDK for your familiar language.",
           url: "https://developers.mixin.one/docs/resources/sdk",
         },
       ];

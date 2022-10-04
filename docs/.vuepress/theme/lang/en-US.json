@@ -12,7 +12,7 @@
   "slogan.suffix.1": "Lightning Fast",
   "slogan.suffix.2": "No Transaction Fees",
   "slogan.suffix.3": "Popular dApps",
-  "slogan.suffix.4": "Develop Friendly",
+  "slogan.suffix.4": "Developer Friendly",
 
   "home.events.title_1": "Welcome to Mixin community.",
   "home.events.title_2": "Explore All",
@@ -57,7 +57,7 @@
   "dapps.category": "Category",
   "dapps.developer": "Developer",
 
-  "network.title": "To explore transactions, nodes, and activities taking palce on Mixin.",
+  "network.title": "Explore transactions, nodes, and activities taking palce on Mixin.",
   "network.stat.asset": "Assets",
   "network.stat.tps": "Peak TPS",
   "network.stat.tx": "Transactions",
