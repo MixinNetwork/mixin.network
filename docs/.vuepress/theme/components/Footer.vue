@@ -38,6 +38,9 @@
         <div class="footer-column-item">
           <a href="/news">News & Events</a>
         </div>
+        <div class="footer-column-item">
+          <a href="https://github.com/MixinNetwork/audits">Security Audits</a>
+        </div>
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
         <div class="footer-column-title mb-4 font-bold">Use Mixin</div>
@@ -46,9 +49,6 @@
         </div>
         <div class="footer-column-item">
           <a href="/dapps">Ecosystem</a>
-        </div>
-        <div class="footer-column-item">
-          <a href="https://mvm.dev" target="_blank">Mixin Virtual Mechine</a>
         </div>
         <div class="footer-column-item">
           <a href="/pages/xin">XIN Token</a>
@@ -62,7 +62,10 @@
           >
         </div>
         <div class="footer-column-item">
-          <a href="https://github.com/MixinNetwork" target="_blank">Github</a>
+          <a href="https://mvm.dev" target="_blank">Mixin Virtual Mechine</a>
+        </div>
+        <div class="footer-column-item">
+          <a href="https://github.com/MixinNetwork" target="_blank">Open Source</a>
         </div>
         <div class="footer-column-item">
           <a
