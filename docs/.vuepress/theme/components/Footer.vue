@@ -45,7 +45,7 @@
           <a href="/messenger">Mixin Messenger</a>
         </div>
         <div class="footer-column-item">
-          <a href="/ecosystem">Ecosystem</a>
+          <a href="/dapps">Ecosystem</a>
         </div>
         <div class="footer-column-item">
           <a href="https://mvm.dev" target="_blank">Mixin Virtual Mechine</a>
@@ -58,7 +58,7 @@
         <div class="footer-column-title mb-4 font-bold">Developers</div>
         <div class="footer-column-item">
           <a href="https://developers.mixin.one" target="_blank"
-            >Dev Documents</a
+            >Documents</a
           >
         </div>
         <div class="footer-column-item">
@@ -74,7 +74,6 @@
       </div>
     </div>
     <div class="copyright text-center text-xs opacity-60">
-      <p>Mixin Network © 2022 ~ present. All rights reserved.</p>
       <p>
         Designed & Powered by
         <a href="https://pando.im" target="_blank">Pando</a>
