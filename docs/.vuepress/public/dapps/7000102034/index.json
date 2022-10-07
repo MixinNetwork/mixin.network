@@ -1,0 +1,20 @@
+{
+  "id": "7000102034",
+  "client_id": "60d30faa-3825-48da-ac1c-6aca1f573dd5",
+  "launch_url": "https://owl.infowoods.com/",
+  "intro_url": "https://owl.infowoods.com/",
+  "developer": {
+    "name": "InfoWoods",
+    "url": "https://infowoods.com/"
+  },
+  "name": {
+    "en": "Owl Messenger",
+    "zh": "猫头鹰递信"
+  },
+  "text": {
+    "en": ["Subscribe to information sources"],
+    "zh": ["订阅信息源"]
+  },
+  "category": "news",
+  "languages": ["en", "zh"]
+}
