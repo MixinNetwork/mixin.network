@@ -1,11 +1,21 @@
 {
 
-  "nav.ecosystem": "Ecosystem",
+  "nav.home": "Mixin Network",
+  "nav.home.desc": "Mixin Network is a developer friendly public blockchain with lightning speed and zero transaction fee. Mixin Network is powered by nodes which are staked XIN tokens and runs with many popular dApps, includes swapping, exchange, minting, lending, micro-payment and other finacial services.",
+  "nav.ecosystem": "dapps & Ecosystem",
+  "nav.ecosystem.desc": "Explore the 500+ dApps of Mixin Network for 100+ of developers and unleash the unlimited possibility of Mixin Network.",
   "nav.developers": "Developer",
+  "nav.developers.desc": "Build any decentralized applications on Mixin ",
   "nav.network": "Network",
+  "nav.network.desc": "Explore transactions, nodes, and activities taking palce on Mixin.",
   "nav.messenger": "Messenger",
+  "nav.messenger.desc": "End to end encrypted messenger with a built-in crypto wallet",
   "nav.community": "Community",
+  "nav.community.desc": "Mixin Community is open to anyone",
   "nav.blog": "Blog",
+  "nav.blog.desc": "The latest developments from the Mixin core team",
+  "nav.news": "News & Events",
+  "nav.news.desc": "The latest news and events from Mixin global communities",
 
   "slogan.prefix.1": "What's Mixin?",
   "slogan.prefix.2": "A blockchain with",

@@ -1,5 +1,5 @@
 ---
-title: Developers
+title: 開発者
 description: 
 editLink: false
 sidebar: false
