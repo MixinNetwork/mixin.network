@@ -7,7 +7,7 @@ lastUpdated: false
 contributors: false
 ---
 
-# Mixin.Network Blog
+# Mixin Network Blog
 
 ## 2022
 

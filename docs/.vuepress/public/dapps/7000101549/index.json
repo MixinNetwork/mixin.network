@@ -1,0 +1,23 @@
+{
+  "id": "7000101549",
+  "mixin_id": "7000101549",
+  "client_id": "6d8fd25a-1eb1-4afb-b2a6-d34991959b76",
+  "launch_url": "https://quill.im",
+  "intro_url": "https://quill.im",
+  "developer": {
+    "name": "Lee An",
+    "url": "https://github.com/an-lee/"
+  },
+  "name": {
+    "ja": "Quill",
+    "en": "Quill",
+    "zh": "Quill"
+  },
+  "text": {
+    "ja": ["マイクロペイメントを活用したブログサービスです。"],
+    "en": ["Build your value net on Web3 with Quill"],
+    "zh": ["Build your value net on Web3 with Quill"]
+  },
+  "category": "publishing",
+  "languages": ["ja", "en", "zh"]
+}

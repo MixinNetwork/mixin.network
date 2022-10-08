@@ -1,0 +1,33 @@
+{
+  "id": "7000104475",
+  "mixin_id": "7000104475",
+  "client_id": "6f5a84ce-d663-451e-b413-2d0c84b7629d",
+  "launch_url": "https://thetrident.one",
+  "intro_url": "https://thetrident.one",
+  "developer": {
+    "name": "Trident",
+    "url": "https://github.com/TheTridentOne/"
+  },
+  "name": {
+    "en": "Trident",
+    "ja": "Trident",
+    "zh": "Trident"
+  },
+  "text": {
+    "ja": ["適切な方法でNFTを探して、収集して、販売しよう！"],
+    "en": ["Discover, collect and sell NFTs in the right way"],
+    "zh": ["最简洁方式去探索NFT世界，发现、收藏和出售您喜欢的NFT"]
+  },
+  "category": "NFT",
+  "languages": ["ja", "en", "zh"],
+  "mtg": {
+    "members": [
+      "6f5a84ce-d663-451e-b413-2d0c84b7629d",
+      "99216bb5-9787-49b6-b251-537362ce23eb",
+      "fcc1e3ec-97f1-41a7-89a3-20a0ec30a31f",
+      "1a361145-66a7-48cd-ab6c-db9a42da4074",
+      "9ba50819-159c-45e6-9bed-1eb2dded3360"
+    ],
+    "threshold": 3
+  }
+}

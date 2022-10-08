@@ -1,0 +1,7 @@
+{
+  "globals": {
+    "__VUEPRESS_SSR__": true,
+    "navigator": true,
+    "window": true
+  }
+}

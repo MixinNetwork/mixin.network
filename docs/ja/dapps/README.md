@@ -1,6 +1,6 @@
 ---
-title: dApp 和生態系統
-description: 為 100 多位開發者探索 Mixin Network 的 500+ dApp，釋放 Mixin Network 的無限可能。
+title: dAppとエコシステム
+description: 100 人以上の開発者向けの Mixin Network の dApp を探索し、Mixin Network の無限の可能性を解き放ちます。
 editLink: false
 sidebar: false
 lastUpdated: false
@@ -8,7 +8,7 @@ contributors: false
 article: false
 ---
 
-<comm-slogan prefix="在 Mixin 上發現 dApps" suffix="" />
+<comm-slogan prefix="Mixin で dApp を発見する" suffix="" />
 
 <dapps-collections />
 

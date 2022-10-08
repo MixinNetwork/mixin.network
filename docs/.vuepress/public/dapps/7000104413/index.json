@@ -1,0 +1,26 @@
+{
+  "id": "7000104413",
+  "client_id": "df85ead6-deba-4ba1-9168-e51347b1c7fe",
+  "launch_url": "https://wave.pando.im",
+  "intro_url": "https://pando.im/wave",
+  "developer": {
+    "name": "Pando",
+    "url": "https://pando.im"
+  },
+  "name": {
+    "en": "Pando Wave"
+  },
+  "text": {
+    "en": [
+      "Earning interests by staking your favourite cryptocurrencies"
+    ],
+    "zh": [
+      "通過質押喜歡的加密貨幣來賺取利息"
+    ],
+    "ja": [
+      "お気に入りの仮想通貨をステーキングして利益を得る"
+    ]
+  },
+  "category": "staking",
+  "languages": ["en", "ja", "zh", "de", "es", "ko"]
+}

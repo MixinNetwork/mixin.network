@@ -1,0 +1,20 @@
+{
+  "id": "mvg.finance",
+  "client_id": "mvg.finance",
+  "launch_url": "https://mvg.finance",
+  "intro_url": "https://mvg.finance",
+  "developer": {
+    "name": "Zed Wong",
+    "url": "https://github.com/zed-wong"
+  },
+  "name": {
+    "en": "MVG",
+    "zh": "MVG"
+  },
+  "text": {
+    "en": ["A bridge interface powered by Mixin community developers"],
+    "zh": ["由 Mixin 社区开发者提供支持的跨链桥界面"]
+  },
+  "category": "wallet",
+  "languages": ["en", "zh"]
+}

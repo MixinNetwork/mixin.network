@@ -1,0 +1,37 @@
+{
+  "id": "7000103937",
+  "client_id": "5dbdb169-d56d-4b5b-b066-9b0780691b14",
+  "launch_url": "https://lake.pando.im",
+  "intro_url": "https://pando.im/lake",
+  "developer": {
+    "name": "Pando",
+    "url": "https://pando.im"
+  },
+  "name": {
+    "en": "Pando Lake",
+    "ja": "パンド・レイク"
+  },
+  "text": {
+    "en": [
+      "a decentralized exchange(DEX) using Automatic Market Maker(AMM) mechanism. 0 gas fee, supports cross chain assets, built on Mixin blockchain and multisig technology"
+    ],
+    "zh": [
+      "一個去中心化數字貨幣交易协议，使用自動做市商（AMM）算法機制。交易無gas費，快速便捷，支持多鏈資產，基於Mixin區塊鏈技術構建。"
+    ],
+    "ja": [
+      "AMMメカニズムを使用したコミュニティ主導の分散型取引所 (DEX) です。 0 ガス料金、Mixin ブロックチェーン上に構築されたクロス チェーン アセットをサポートします。"
+    ]
+  },
+  "category": "exchange",
+  "languages": ["en", "ja", "zh", "de", "es", "ko"],
+  "mtg": {
+    "members": [
+      "a753e0eb-3010-4c4a-a7b2-a7bda4063f62",
+      "099627f8-4031-42e3-a846-006ee598c56e",
+      "aefbfd62-727d-4424-89db-ae41f75d2e04",
+      "d68ca71f-0e2c-458a-bb9c-1d6c2eed2497",
+      "e4bc0740-f8fe-418c-ae1b-32d9926f5863"
+    ],
+    "threshold": 3
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "im.pando.fennec",
+  "client_id": "im.pando.fennec",
+  "launch_url": "https://pando.im/wallet",
+  "intro_url": "https://pando.im/wallet",
+  "developer": {
+    "name": "Pando",
+    "url": "https://pando.im"
+  },
+  "name": {
+    "en": "Fennec",
+    "zh": "Fennec",
+    "ja": "Fennec"
+  },
+  "text": {
+    "en": ["An opensource safe crypto wallet", "Turn your browser into an opensource, safe crypto wallet"],
+    "ja": ["オープンソースの安全な暗号ウォレット", "ブラウザをオープンソースの安全な暗号ウォレットに変える"],
+    "zh": ["開源安全的加密貨幣錢包", "把浏覽器變成壹個開源、安全的加密貨幣錢包"]
+  },
+  "category": "wallet",
+  "languages": ["en", "zh", "ja"]
+}

@@ -19,12 +19,12 @@
         />
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
-        <div class="footer-column-title mb-4 font-bold">About us</div>
+        <div class="footer-column-title mb-4 font-bold">About Us</div>
         <div class="footer-column-item">
           <a href="/pages/team">Team</a>
         </div>
         <div class="footer-column-item">
-          <a href="mailto:contact@mixin.one">Get in touch</a>
+          <a href="mailto:contact@mixin.one">Get in Touch</a>
         </div>
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
@@ -38,6 +38,9 @@
         <div class="footer-column-item">
           <a href="/news">News & Events</a>
         </div>
+        <div class="footer-column-item">
+          <a href="https://github.com/MixinNetwork/audits">Security Audits</a>
+        </div>
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
         <div class="footer-column-title mb-4 font-bold">Use Mixin</div>
@@ -45,10 +48,7 @@
           <a href="/messenger">Mixin Messenger</a>
         </div>
         <div class="footer-column-item">
-          <a href="/ecosystem">Ecosystem</a>
-        </div>
-        <div class="footer-column-item">
-          <a href="https://mvm.dev" target="_blank">Mixin Virtual Mechine</a>
+          <a href="/dapps">Ecosystem</a>
         </div>
         <div class="footer-column-item">
           <a href="/pages/xin">XIN Token</a>
@@ -58,11 +58,14 @@
         <div class="footer-column-title mb-4 font-bold">Developers</div>
         <div class="footer-column-item">
           <a href="https://developers.mixin.one" target="_blank"
-            >Dev Documents</a
+            >Documents</a
           >
         </div>
         <div class="footer-column-item">
-          <a href="https://github.com/MixinNetwork" target="_blank">Github</a>
+          <a href="https://mvm.dev" target="_blank">Mixin Virtual Mechine</a>
+        </div>
+        <div class="footer-column-item">
+          <a href="https://github.com/MixinNetwork" target="_blank">Open Source</a>
         </div>
         <div class="footer-column-item">
           <a
@@ -74,7 +77,6 @@
       </div>
     </div>
     <div class="copyright text-center text-xs opacity-60">
-      <p>Mixin.network © 2022 ~ present. All rights reserved.</p>
       <p>
         Designed & Powered by
         <a href="https://pando.im" target="_blank">Pando</a>

@@ -5,7 +5,7 @@
       <div class="spacer"></div>
       <div class="inner">
         <h2 class="text-base md:text-lg font-bold">
-          Explore our docs and API Reference to integrate Mixin
+          Explore our docs and API references to integrate Mixin
         </h2>
         <div class="buttons grid gap-4 grid-cols-2">
           <a

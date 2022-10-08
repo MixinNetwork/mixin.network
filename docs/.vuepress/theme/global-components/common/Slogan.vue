@@ -1,6 +1,6 @@
 <template>
   <div class="site-slogan text-center py-8">
-    <h1 class="text-2xl md:text-4xl font-black">
+    <h1 class="text-2xl md:text-5xl font-black">
       <div class="mb-2">
         <div v-for="(line, ix) in prefixArray" :key="`slogan-${ix}`">
           {{ line }}

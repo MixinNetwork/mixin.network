@@ -1,24 +1,34 @@
 {
 
-  "nav.ecosystem": "Ecosystem",
+  "nav.home": "Mixin Network",
+  "nav.home.desc": "Mixin Network is a developer friendly public blockchain with lightning speed and zero transaction fee. Mixin Network is powered by nodes which are staked XIN tokens and runs with many popular dApps, includes swapping, exchange, minting, lending, micro-payment and other finacial services.",
+  "nav.ecosystem": "dapps & Ecosystem",
+  "nav.ecosystem.desc": "Explore the 500+ dApps of Mixin Network for 100+ of developers and unleash the unlimited possibility of Mixin Network.",
   "nav.developers": "Developer",
+  "nav.developers.desc": "Build any decentralized applications on Mixin ",
   "nav.network": "Network",
+  "nav.network.desc": "Explore transactions, nodes, and activities taking palce on Mixin.",
   "nav.messenger": "Messenger",
+  "nav.messenger.desc": "End to end encrypted messenger with a built-in crypto wallet",
   "nav.community": "Community",
+  "nav.community.desc": "Mixin Community is open to anyone",
   "nav.blog": "Blog",
+  "nav.blog.desc": "The latest developments from the Mixin core team",
+  "nav.news": "News & Events",
+  "nav.news.desc": "The latest news and events from Mixin global communities",
 
   "slogan.prefix.1": "What's Mixin?",
   "slogan.prefix.2": "A blockchain with",
-  "slogan.suffix.1": "Lightning Fast",
+  "slogan.suffix.1": "Lightning Speed",
   "slogan.suffix.2": "No Transaction Fees",
   "slogan.suffix.3": "Popular dApps",
-  "slogan.suffix.4": "Develop Friendly",
+  "slogan.suffix.4": "Developer Friendly",
 
   "home.events.title_1": "Welcome to Mixin community.",
   "home.events.title_2": "Explore All",
 
   "home.features.title": "More Features.",
-  "home.features.feat_1.title": "Lightning Fast",
+  "home.features.feat_1.title": "Lightning Speed",
   "home.features.feat_1.desc": "More than 1,000,000 TPS capacity with a final confirmation time of under 1 sec.",
   "home.features.feat_2.title": "No Transaction Fees",
   "home.features.feat_2.desc": "Zero fee transactions, competency in micropayment and everyday payment scenarios.",
@@ -29,9 +39,9 @@
 
   "home.stat.stat_1": "Assets",
   "home.stat.stat_2": "Peak TPS",
-  "home.stat.stat_3": "Total transactions",
-  "home.stat.stat_4": "Number of chains",
-  "home.stat.stat_5": "Network checkpoints",
+  "home.stat.stat_3": "Total Transactions",
+  "home.stat.stat_4": "Number of Chains",
+  "home.stat.stat_5": "Network Checkpoints",
 
   "home.wallet.title": "Supported Wallets",
 
@@ -57,7 +67,7 @@
   "dapps.category": "Category",
   "dapps.developer": "Developer",
 
-  "network.title": "To explore transactions, nodes, and activities taking palce on Mixin.",
+  "network.title": "Explore transactions, nodes, and activities taking palce on Mixin.",
   "network.stat.asset": "Assets",
   "network.stat.tps": "Peak TPS",
   "network.stat.tx": "Transactions",
@@ -83,9 +93,9 @@
   "network.nodes.join.way_1.em": "https://big.one/tw/mixin",
   "network.nodes.join.way_1.desc": "BigONE Co-Building Mixin Node Ecosystem, works with you to create XIN nodes.",
 
-  "footer.about": "About us",
+  "footer.about": "About Us",
   "footer.team": "Team",
-  "footer.get_in_touch": "Get in touch",
+  "footer.get_in_touch": "Get in Touch",
   "footer.general": "General",
   "footer.blog": "Blog",
   "footer.careers": "Careers",
@@ -96,7 +106,7 @@
   "footer.mvm": "Mixin Virtual Mechine",
   "footer.xin": "XIN Token",
   "footer.developers": "Developers",
-  "footer.dev_docs": "Dev Documents",
+  "footer.dev_docs": "Documents",
   "footer.github": "Github",
   "footer.whitepaper": "Whitepaper"
 }

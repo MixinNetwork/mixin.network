@@ -1,0 +1,26 @@
+{
+  "id": "7000104153",
+  "client_id": "ce975210-4d6a-43b7-a193-828ac03d8087",
+  "launch_url": "https://v2.leafer.one",
+  "intro_url": "https://v2.leafer.one",
+  "name": {
+    "en": "Leafer",
+    "zh": "Leafer"
+  },
+  "text": {
+    "en": ["Pando Leaf Vault protector"],
+    "zh": ["Pando Leaf 金库保护器"]
+  },
+  "category": "util",
+  "tags": {
+    "zh": ["Pando Leaf", "util", "notification"]
+  },
+  "language": "zh",
+  "languages": ["zh","en"],
+
+  "developer": {
+    "name": "Zed Wong",
+    "url": "https://github.com/zed-wong"
+  },
+  "website": "https://v2.leafer.one"
+}
