@@ -1,7 +1,8 @@
 {
   "id": "7000104153",
   "client_id": "ce975210-4d6a-43b7-a193-828ac03d8087",
-  "url": "https://v2.leafer.one",
+  "launch_url": "https://v2.leafer.one",
+  "intro_url": "https://v2.leafer.one",
   "name": {
     "en": "Leafer",
     "zh": "Leafer"
