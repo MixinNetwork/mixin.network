@@ -21,7 +21,7 @@ events:
     url: https://mixin.network/news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/
     date: 2022/09/10
     category: Event
-    image: "https://mixin.network/assets/mvm-mixpay.9f985ed4.jpg"
+    image: "https://mixin.network/assets/team-pic.24861b6c.png"
 ---
 
 <home-slogan />
