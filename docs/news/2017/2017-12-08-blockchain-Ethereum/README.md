@@ -3,7 +3,7 @@ title: Support public chain Ethereum
 description: Mixin Network now supports the 1st public chain Ethereum.
 editLink: false
 sidebar: false
-lastUpdated: 2017/12/08
+lastUpdated: false
 contributors: false
 ---
 
