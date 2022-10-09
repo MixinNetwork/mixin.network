@@ -44,7 +44,7 @@ export default {
           name: "viewblock",
           text: i18n.$t("network.explorers.viewblock.title"),
           desc: i18n.$t("network.explorers.viewblock.desc"),
-          url: "https://v2.viewblock.io/zh-CN/mixin",
+          url: "https://v2.viewblock.io/mixin",
           icon: "/images/network/explorer-viewblock.png",
           color: "deep-blue",
         },
