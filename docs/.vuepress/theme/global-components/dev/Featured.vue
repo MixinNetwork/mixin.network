@@ -7,17 +7,17 @@
         <h2 class="text-base md:text-lg font-bold">
           Explore our docs and API references to integrate Mixin
         </h2>
-        <div class="buttons grid gap-4 grid-cols-2">
+        <div class="buttons flex flex-row">
           <a
             href="https://developers.mixin.one"
-            class="button blue block"
+            class="button blue block basis-1/2 mr-2"
             target="_blank"
           >
             Documents</a
           >
           <a
             href="https://developers.mixin.one/docs/api-overview"
-            class="button primary-alt"
+            class="button primary-alt basis-1/2 ml-2"
             target="_blank"
             >References</a
           >
