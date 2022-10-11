@@ -153,6 +153,12 @@ export default {
 
 @media (max-width: 768px) {
   .stat {
+    .stat-earth {
+      background: transparent
+        url("/images/home/stat-earth-with-ring-mobile.svg") center bottom
+        no-repeat;
+      width: 100vw;
+    }
     .stat-data {
       width: 100%;
       top: 32px;

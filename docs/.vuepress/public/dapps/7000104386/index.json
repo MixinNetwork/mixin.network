@@ -1,0 +1,23 @@
+{
+  "id": "7000104386",
+  "mixin_id": "7000104386",
+  "client_id": "14c2a3a2-b021-408e-9d28-990531dbceb0",
+  "launch_url": "https://pizza.b1.zone/",
+  "intro_url": "https://bigone.com",
+  "developer": {
+    "name": "BigONE",
+    "url": "https://bigone.com/"
+  },
+  "name": {
+    "ja": "BigONE Earn",
+    "en": "BigONE Earn",
+    "zh": "BigONE Earn"
+  },
+  "text": {
+    "ja": ["Bigoneで暗号通貨を最大限に活用し、報酬を得ることができます"],
+    "en": ["Maximize your crypto holdings and earn rewards on BigONE Exchange"],
+    "zh": ["BigONE 理财赚币平台"]
+  },
+  "category": "financial",
+  "languages": ["ja", "en", "zh"]
+}
