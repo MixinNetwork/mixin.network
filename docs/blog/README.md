@@ -11,6 +11,8 @@ contributors: false
 
 ## 2022
 
+- [Mixin Network Monthly Report — No.43](./2022/mixin-network-monthly-report-no-43/)
+- [Mixin Network Monthly Report — No.42](./2022/mixin-network-monthly-report-no-42/)
 - [Mixin Network Monthly Report No.41](./2022/mixin-network-monthly-report-no-41/)
 - [Mixin Network Monthly Report No.40](./2022/mixin-network-monthly-report-no-40/)
 - [MixinWalletBot is Launching on Telegram](./2022/mixinwalletbot-is-launching-on-telegram/)
