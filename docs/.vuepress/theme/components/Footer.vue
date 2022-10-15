@@ -33,7 +33,7 @@
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
         <div class="footer-column-title mb-4 font-bold">
-          {{ $t("footer.generate") }}
+          {{ $t("footer.general") }}
         </div>
         <div class="footer-column-item">
           <a href="/blog"> {{ $t("footer.blog") }} </a>
