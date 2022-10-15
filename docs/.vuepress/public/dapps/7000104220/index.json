@@ -1,0 +1,23 @@
+{
+  "id": "7000104220",
+  "mixin_id": "7000104220",
+  "client_id": "3539c3ce-52c0-4b0b-9573-c035ecb98d48",
+  "launch_url": "https://mixpay.me/",
+  "intro_url": "https://mixpay.me/",
+  "developer": {
+    "name": "MixPay",
+    "url": "https://github.com/MixPayProtocol"
+  },
+  "name": {
+    "ja": "MixPay",
+    "en": "MixPay",
+    "zh": "MixPay"
+  },
+  "text": {
+    "ja": ["Decentralized Web3 Cross-Chain Payment Protocol"],
+    "en": ["Decentralized Web3 Cross-Chain Payment Protocol"],
+    "zh": ["Decentralized Web3 Cross-Chain Payment Protocol"]
+  },
+  "category": "payment",
+  "languages": ["en"]
+}
