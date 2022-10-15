@@ -33,10 +33,13 @@
           <a href="/blog">Blog</a>
         </div>
         <div class="footer-column-item">
-          <a href="/pages/careers">Careers</a>
+          <a href="/news">News & Events</a>
         </div>
         <div class="footer-column-item">
-          <a href="/news">News & Events</a>
+          <a :href="`${langBase}essays`">Contributor Essays</a>
+        </div>
+        <div class="footer-column-item">
+          <a href="/pages/careers">Careers</a>
         </div>
         <div class="footer-column-item">
           <a href="https://github.com/MixinNetwork/audits">Security Audits</a>
@@ -57,15 +60,15 @@
       <div class="footer-column col-span-2 md:col-span-1">
         <div class="footer-column-title mb-4 font-bold">Developers</div>
         <div class="footer-column-item">
-          <a href="https://developers.mixin.one" target="_blank"
-            >Documents</a
-          >
+          <a href="https://developers.mixin.one" target="_blank">Documents</a>
         </div>
         <div class="footer-column-item">
           <a href="https://mvm.dev" target="_blank">Mixin Virtual Mechine</a>
         </div>
         <div class="footer-column-item">
-          <a href="https://github.com/MixinNetwork" target="_blank">Open Source</a>
+          <a href="https://github.com/MixinNetwork" target="_blank"
+            >Open Source</a
+          >
         </div>
         <div class="footer-column-item">
           <a
@@ -86,6 +89,8 @@
 </template>
 
 <script>
+import i18n from "../utils/i18n";
+
 export default {
   name: "Footer",
 
@@ -98,6 +103,10 @@ export default {
         return "white";
       }
       return "";
+    },
+
+    langBase() {
+      return i18n.getLangBase();
     },
   },
 };

@@ -26,11 +26,16 @@
           </div>
         </div>
       </a>
+      <a v-if="url" class="view-all p-4 text-center font-bold" :href="url"
+        >View All</a
+      >
     </div>
   </div>
 </template>
 
 <script>
+import i18n from "../../utils/i18n";
+
 import { usePageFrontmatter } from "@vuepress/client";
 
 export default {
@@ -45,6 +50,19 @@ export default {
   },
 
   methods: {},
+
+  computed: {
+    url() {
+      const base = i18n.getLangBase();
+      if (this.itemsTag === "news") {
+        return "/news";
+        // @TODO disable the view all link for essays, need better way to direct to locale essays list
+        // } else if (this.itemsTag === "essays") {
+        //   return `${base}essays`;
+      }
+      return "";
+    },
+  },
 
   mounted() {
     const frontmatter = usePageFrontmatter().value;
@@ -78,8 +96,8 @@ export default {
         background: transparent url("/images/community/thumb-news.svg") center
           no-repeat;
       }
-      &.events {
-        background: transparent url("/images/community/thumb-events.svg") center
+      &.essays {
+        background: transparent url("/images/community/thumb-essays.svg") center
           no-repeat;
       }
     }
@@ -97,6 +115,13 @@ export default {
     }
     .news-item-meta {
     }
+  }
+  .view-all {
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    background: #f6f7fa;
+    border-radius: 8px;
   }
 }
 @media (max-width: 768px) {

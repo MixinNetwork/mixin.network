@@ -33,6 +33,13 @@ function $t(name, args) {
   return ret;
 }
 
+function getLangBase() {
+  const t = useThemeLocaleData();
+  const base = (t.value as any).base;
+  console.log(base)
+  return base as string;
+}
+
 export default {
-  $t,
+  $t, getLangBase
 }
