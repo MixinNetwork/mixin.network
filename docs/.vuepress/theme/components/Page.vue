@@ -38,7 +38,6 @@ export default {
 
   mounted() {
     const frontmatter = usePageFrontmatter().value;
-    console.log(frontmatter.article);
     this.isArticle = frontmatter.article !== false;
   },
 };

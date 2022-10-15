@@ -36,7 +36,6 @@ function $t(name, args) {
 function getLangBase() {
   const t = useThemeLocaleData();
   const base = (t.value as any).base;
-  console.log(base)
   return base as string;
 }
 

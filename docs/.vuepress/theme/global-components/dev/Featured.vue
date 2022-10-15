@@ -5,7 +5,7 @@
       <div class="spacer"></div>
       <div class="inner">
         <h2 class="text-base md:text-lg font-bold">
-          Explore our docs and API references to integrate Mixin
+          {{ $t("dev.featured.title") }}
         </h2>
         <div class="buttons flex flex-row">
           <a
@@ -13,13 +13,13 @@
             class="button blue block basis-1/2 mr-2"
             target="_blank"
           >
-            Documents</a
+            {{ $t("dev.featured.document") }}</a
           >
           <a
             href="https://developers.mixin.one/docs/api-overview"
             class="button primary-alt basis-1/2 ml-2"
             target="_blank"
-            >References</a
+            >{{ $t("dev.featured.references") }}</a
           >
         </div>
       </div>
@@ -28,6 +28,8 @@
 </template>
 
 <script>
+import i18n from "../../utils/i18n";
+
 export default {
   name: "DevFeaturedContent",
 
@@ -37,7 +39,9 @@ export default {
 
   computed: {},
 
-  methods: {},
+  methods: {
+    $t: i18n.$t,
+  },
 
   mounted() {},
 };

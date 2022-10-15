@@ -1,14 +1,14 @@
 ---
-title: Contributor Essays
-description: Contributor essays from global contributors to Mixin Network community
+title: 社区的文章
+description: Mixin Network コミュニティへのグローバルな貢献者からの貢献者のエッセイ
 editLink: false
 sidebar: false
 lastUpdated: false
 contributors: false
 ---
 
-# Contributor Essays
+# 社区的文章
 
-## 2022 
+## 2022
 
 No article.

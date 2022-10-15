@@ -26,9 +26,9 @@
           </div>
         </div>
       </a>
-      <a v-if="url" class="view-all p-4 text-center font-bold" :href="url"
-        >View All</a
-      >
+      <a v-if="url" class="view-all p-4 text-center font-bold" :href="url">{{
+        $t("view_all")
+      }}</a>
     </div>
   </div>
 </template>
@@ -52,6 +52,8 @@ export default {
   methods: {},
 
   computed: {
+    $t: i18n.$t,
+
     url() {
       const base = i18n.getLangBase();
       if (this.itemsTag === "news") {
