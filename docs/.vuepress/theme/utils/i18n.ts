@@ -5,7 +5,6 @@ var defaultMsg = null;
 function $t(name, args) {
   const t = useThemeLocaleData();
   const msg = (t.value as any).messages;
-
   var tpl = '';
   if (Object.prototype.hasOwnProperty.call(msg, name)) {
     tpl = msg[name];

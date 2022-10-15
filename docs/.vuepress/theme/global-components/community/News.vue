@@ -49,11 +49,11 @@ export default {
     };
   },
 
-  methods: {},
+  methods: {
+    $t: i18n.$t,
+  },
 
   computed: {
-    $t: i18n.$t,
-
     url() {
       const base = i18n.getLangBase();
       if (this.itemsTag === "news") {
