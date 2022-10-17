@@ -63,12 +63,12 @@ Pando Ringsの基本情報は以下の通りです。
 
 Mixin Walletへの入金方法は、以下の３つの方法があります。
 
-1. 暗号資産取引所からMixin Walletに送金する。
+- ①暗号資産取引所からMixin Walletに送金する。
 ✩取引所ごとに送金手数料が異なります。手数料の低い暗号通貨を選ぶ、手数料の掛からない取引所を選ぶ、などの方法がありますので見比べてみましょう。
-1. JPYCを購入し、MixinのdAppで希望する暗号通貨に交換する。
-  1. JPYCは[JPYC公式サイト](https://app.jpyc.jp/)で購入することができます。Ethereum（ETH）ネットワークを選択します。
-  1. Mixin walletに送金されたJPYCをMixin Network上にある[4swap](https://app.4swap.org/)で希望する暗号通貨に交換します。
-1. [Fennec](https://pando.im/wallet)や[MetaMask](https://bridge.mvm.app/)をPandoにブリッジする。
+- ②JPYCを購入し、MixinのdAppで希望する暗号通貨に交換する。
+  - 【STEP1】JPYCは[JPYC公式サイト](https://app.jpyc.jp/)で購入することができます。Ethereum（ETH）ネットワークを選択します。
+  - 【STEP2】Mixin walletに送金されたJPYCをMixin Network上にある[4swap](https://app.4swap.org/)で希望する暗号通貨に交換します。
+- [Fennec](https://pando.im/wallet)や[MetaMask](https://bridge.mvm.app/)をPandoにブリッジする。
 
 ## 終わりに
 
