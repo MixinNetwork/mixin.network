@@ -1,6 +1,6 @@
 ---
-title: Mixin上で最大規模のNFTマーケットプレイス「Trident」
-description: Tridentは、Mixin Network上に実装された、現在Mixin エコシステム上唯一のNFTマーケットプレイスです。
+title: Pando Ringsで暗号資産を稼ぐ！
+description: Pandoによって提供されているMixin Network上の分散型の仮想通貨の貸借プラットフォーム
 article: true
 ---
 
