@@ -11,6 +11,7 @@ contributors: false
 
 ## 2022
 
+- [執筆者・読者共に報酬を受け取ることができる新しいメディアプラットフォーム「文商」](./2022/an-introduction-to-bunshow)
 - [Pando Ringsで暗号資産を稼ぐ！](./2022/an-introduction-to-pando-rings)
 - [Mixin上で最大規模のNFTマーケットプレイス「Trident」](./2022/an-introduction-to-trident)
 - [【2022年版】Mixin Network上の金融サービス紹介](./2022/exchange-and-swap)
