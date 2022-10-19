@@ -1,6 +1,6 @@
 ---
-title: dApps & Ecosystem
-description: Explore the 500+ dApps of Mixin Network for 100+ of developers and unleash the unlimited possibility of Mixin Network.
+title: Apps & Ecosystem
+description: Explore the 500+ apps of Mixin Network for 100+ of developers and unleash the unlimited possibility of Mixin Network.
 editLink: false
 sidebar: false
 lastUpdated: false
@@ -21,7 +21,7 @@ article: false
 #     category: Collection
 ---
 
-<comm-slogan prefix="Discover dApps on Mixin" suffix="" />
+<comm-slogan prefix="Discover Apps on Mixin" suffix="" />
 
 <dapps-collections />
 

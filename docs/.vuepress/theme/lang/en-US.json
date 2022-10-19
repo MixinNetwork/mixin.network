@@ -24,7 +24,7 @@
   "view_all": "View all",
 
   "slogan.prefix.1": "What's Mixin?",
-  "slogan.prefix.2": "A network with",
+  "slogan.prefix.2": "A Network with",
   "slogan.suffix.1": "Lightning Speed",
   "slogan.suffix.2": "Zero Transaction Fees",
   "slogan.suffix.3": "Popular Apps",
@@ -47,7 +47,7 @@
   "home.stat.stat_1": "Assets",
   "home.stat.stat_2": "Peak TPS",
   "home.stat.stat_3": "Total Transactions",
-  "home.stat.stat_4": "Number of Chains",
+  "home.stat.stat_4": "Connected Chains",
   "home.stat.stat_5": "Network Checkpoints",
 
   "home.wallet.title": "Supported Wallets",
@@ -65,7 +65,7 @@
   "wallet.fennec": "Fennec",
   "wallet.mm": "Mixin Messenger",
 
-  "dapps.submit": "Submit my projects",
+  "dapps.submit": "Submit My Projects",
   "dapps.launch": "Launch",
   "dapps.mtg_info": "MTG info",
   "dapps.mvm_contract": "MVM contract",
