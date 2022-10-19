@@ -1,6 +1,6 @@
 ---
-title: Mixin Network  - Comprehensive, secure public chain
-description: Mixin Network is a developer friendly public blockchain with lightning speed and zero transaction fee. Mixin Network is powered by nodes which are staked XIN tokens and runs with many popular dApps, includes swapping, exchange, minting, lending, micro-payment and other finacial services.
+title: Mixin Network - Decentralized Network Connecting All Blockchains
+description: Mixin Network is a developer friendly network with lightning speed and zero transaction fee. Mixin Network is powered by decentralized nodes which stake XIN tokens and runs with many popular apps, includes swapping, exchange, minting, lending, micro-payment and other finacial services.
 editLink: false
 sidebar: false
 article: false
@@ -37,4 +37,3 @@ events:
 <home-events />
 
 <!-- <comm-subscribe :text="['Excited?', 'Subscribe our newsletter.']" /> -->
-
