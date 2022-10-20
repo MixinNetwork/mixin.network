@@ -1,0 +1,22 @@
+{
+  "id": "7000000014",
+  "mixin_id": "7000000014",
+  "client_id": "1da1124a-9c97-4f2b-b332-f11f77c7604a",
+  "launch_url": "https://app.exinearn.com/#/change",
+  "intro_url": "https://app.exinearn.com/#/change",
+  "developer": {
+    "name": "EXIN",
+    "url": "https://github.com/ExinOne"
+  },
+  "name": {
+    "ja": "ExinEarn",
+    "en": "ExinEarn",
+    "zh": "水龙头App"
+  },
+  "text": {
+    "zh": ["水龙头APP是Mixin生态最受欢迎的开发商Exin旗下比特币奖励平台，在淘宝、京东、拼多多、饿了么等平台消费可以获得比特币奖励，我们的使命是帮助全球十亿人拥有人生第一笔比特币."],
+    "en": ["shop to earn"]
+  },
+  "category": "shopping",
+  "languages": ["zh"]
+}

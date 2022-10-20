@@ -4,14 +4,17 @@
   "launch_url": "http://ahr999.tk",
   "intro_url": "http://ahr999.tk",
   "name": {
-    "zh": "Ahr999指数"
+    "zh": "Ahr999指数",
+    "en": "Ahr999 index"
   },
   "text": {
-    "zh": ["订阅与实时获取Ahr999指数"]
+    "zh": ["订阅与实时获取Ahr999指数"],
+    "en": ["Real time ahr999 index"]
   },
   "category": "util",
   "tags": {
-    "zh": ["Ahr999", "util"]
+    "zh": ["Ahr999", "util"],
+    "en": ["ahr999"]
   },
   "language": "zh",
   "languages": ["zh"],

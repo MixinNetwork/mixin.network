@@ -114,6 +114,9 @@ export default {
   border-radius: 32px;
   background-color: #f6f7fa;
   position: relative;
+  .feature-image-wrapper {
+    width: 100%;
+  }
   .feature-title {
     position: absolute;
     right: 0;

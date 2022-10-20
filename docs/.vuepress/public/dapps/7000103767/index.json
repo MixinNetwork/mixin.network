@@ -1,0 +1,23 @@
+{
+  "id": "7000103767",
+  "mixin_id": "7000103767",
+  "client_id": "6a4a121d-9673-4a7e-a93e-cb9ca4bb83a2",
+  "launch_url": "https://app.mixswap.exchange",
+  "intro_url": "https://app.mixswap.exchange",
+  "developer": {
+    "name": "EXIN",
+    "url": "https://github.com/ExinOne"
+  },
+  "name": {
+    "ja": "MixSwap",
+    "en": "MixSwap",
+    "zh": "MixSwap"
+  },
+  "text": {
+    "ja": ["MixSwap is the MiFi DEX aggregation trading platform of Exin."],
+    "en": ["MixSwap is the MiFi DEX aggregation trading platform of Exin."],
+    "zh": ["MixSwap is the MiFi DEX aggregation trading platform of Exin."]
+  },
+  "category": "exchange",
+  "languages": [ "en", "zh"]
+}

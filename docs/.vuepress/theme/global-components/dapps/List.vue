@@ -6,7 +6,7 @@
         <input
           type="text"
           class="entry solo"
-          placeholder="Search dApps Name"
+          placeholder="Search App Name"
           v-model="searchValue"
         />
         <div class="spacer" />

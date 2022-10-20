@@ -18,19 +18,20 @@ news:
   - title: "Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage"
     url: https://mixin.network/news/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/
     date: 2022/09/10
-  
-events:
   - title: Live Future Club Event
     url: https://mixin.network/news/live-future-club-event/
     date: 2022/09/15 
- 
+essays:
+  - title: Mixin上で最大規模のNFTマーケットプレイス「Trident」
+    url: https://mixin.network/ja/essays/an-introduction-to-trident/
+    date: 2022/10/12 
 ---
 
 <community-slogan prefix="Get involved." suffix="Stay in touch."/>
 
 <community-gallery />
 
-<community-news title="Upcoming events" items-tag="events"/>
+<community-news title="News & Events" items-tag="news"/>
 
-<community-news title="News & Press" items-tag="news"/>
+<community-news title="Contributor Essays" items-tag="essays"/>
 

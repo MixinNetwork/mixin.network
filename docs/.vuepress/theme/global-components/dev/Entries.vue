@@ -2,7 +2,7 @@
   <div class="entries-wrapper text-center">
     <div class="bg"></div>
     <h2 class="entries-sec-title text-2xl md:text-4xl font-bold mb-20">
-      Develop with Mixin Network
+      {{ $t("dev.entries.title") }}
     </h2>
     <div class="entries-content">
       <div class="entries grid gap-4 grid-cols-1 md:grid-cols-3">
@@ -35,6 +35,8 @@
 </template>
 
 <script>
+import i18n from "../../utils/i18n";
+
 export default {
   name: "DevEntries",
 
@@ -87,7 +89,9 @@ export default {
     },
   },
 
-  methods: {},
+  methods: {
+    $t: i18n.$t,
+  },
 
   mounted() {},
 };

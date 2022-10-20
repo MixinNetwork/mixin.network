@@ -1,7 +1,7 @@
 <template>
   <div class="text-center pt-8 pb-8 md:pb-20">
     <h2 class="tutorials-sec-title text-2xl md:text-4xl font-bold mb-20">
-      Tutorials
+      {{ $t("dev.tutorial") }}
     </h2>
     <div class="tutorials grid gap-0 grid-cols-1 md:grid-cols-2">
       <a
@@ -23,6 +23,7 @@
 
 <script>
 import { usePageFrontmatter } from "@vuepress/client";
+import i18n from "../../utils/i18n";
 
 export default {
   name: "DevTutorials",
@@ -33,7 +34,9 @@ export default {
     };
   },
 
-  methods: {},
+  methods: {
+    $t: i18n.$t,
+  },
 
   mounted() {
     const frontmatter = usePageFrontmatter().value;
