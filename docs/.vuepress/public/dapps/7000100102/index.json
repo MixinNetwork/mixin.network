@@ -1,5 +1,6 @@
 {
     "id": "7000100102",
+    "mixin_id": "7000100102",
     "client_id": "1fc37f38-28e2-442c-9187-79eaee9aaa3b",
     "launch_url": "https://www.jinse.com/lives/",
     "intro_url": "https://www.jinse.com/lives/",
@@ -8,7 +9,8 @@
       "url": "mixin://users/b847a455-aa41-4f7d-8038-0aefbe40dcaa"
     },
     "name": {
-      "zh": "币世界 Bot"
+      "zh": "币世界 Bot",
+      "en": "币世界 Bot"
     },
     "text": {
       "zh": ["推送金色财经快讯（非官方）"]
