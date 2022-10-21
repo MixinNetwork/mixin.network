@@ -11,6 +11,7 @@ contributors: false
 
 ## 2022
 
+- [OOKC & Mixin Crypto After Party](./ookc-and-mixin-crypto-after-party/)
 - [Live Future Club Event](./live-future-club-event/)
 - [Mixin Meet-up: CAW (Coffee and Women) Live Painting](./mixin-meet-up-caw-coffee-and-women-live-painting/)
 - [Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage](./mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/)
