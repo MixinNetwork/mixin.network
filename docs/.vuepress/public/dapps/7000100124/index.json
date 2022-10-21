@@ -9,7 +9,9 @@
       "url": "mixin://users/b847a455-aa41-4f7d-8038-0aefbe40dcaa"
     },
     "name": {
-      "en": "Hacker News"
+      "en": "Hacker News",
+      "zh": "Hacker News",
+      "ja": "Hacker News"
     },
     "text": {
       "en": ["Top stories from https://news.ycombinator.com (with 100+ score)"]

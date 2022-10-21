@@ -9,7 +9,9 @@
       "url": "https://mixin.one/"
     },
     "name": {
-      "en": "Lucky Coin"
+      "en": "Lucky Coin",
+      "zh": "红包",
+      "ja": "Lucky Coin"
     },
     "text": {
       "en": ["I am a lucky coin robot, support sending random and ordinary lucky coin."],

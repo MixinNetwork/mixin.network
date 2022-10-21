@@ -9,11 +9,15 @@
       "url": "https://yottachain.io/"
     },
     "name": {
-      "en": "Emirates Draw"
+      "en": "Emirates Draw",
+      "zh": "Emirates Draw",
+      "ja": "Emirates Draw"
     },
     "text": {
-      "en": ["Emirates Draw is a socially responsible company that promotes the creation, draws, and other products in an entertaining way."]
+      "en": ["Emirates Draw is a socially responsible company that promotes the creation, draws, and other products in an entertaining way."],
+      "zh": ["Emirates Draw is a socially responsible company that promotes the creation, draws, and other products in an entertaining way."],
+      "ja": ["Emirates Draw is a socially responsible company that promotes the creation, draws, and other products in an entertaining way."]
     },
     "category": "Lottery",
-    "languages": ["en"]
+    "languages": ["en","zh"]
   }

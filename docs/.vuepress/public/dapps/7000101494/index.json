@@ -9,7 +9,9 @@
       "url": "mixin://users/b847a455-aa41-4f7d-8038-0aefbe40dcaa"
     },
     "name": {
-      "en": "CryptoPanic"
+      "en": "CryptoPanic",
+      "zh": "CryptoPanic",
+      "ja": "CryptoPanic"
     },
     "text": {
       "en": ["CryptoPanic is a news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts."]

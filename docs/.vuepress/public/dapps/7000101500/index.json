@@ -10,7 +10,8 @@
     },
     "name": {
       "en": "Mixin Wallet",
-      "zh": "Mixin Wallet"
+      "zh": "Mixin Wallet",
+      "ja": "Mixin Wallet"
     },
     "text": {
       "en": ["An open-source cryptocurrency wallet on Mixin. https://github.com/MixinNetwork/mixin-wallet, GitHub Pages version 7000100212."],

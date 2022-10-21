@@ -10,11 +10,13 @@
   },
   "name": {
     "zh": "CoinGecko",
-    "en": "CoinGecko"
+    "en": "CoinGecko",
+    "ja": "CoinGecko"
   },
   "text": {
     "zh": ["CoinGecko provides analysis of the crypto market, tracks community growth, open-source code development & on-chain metrics."],
-    "en": ["CoinGecko provides analysis of the crypto market, tracks community growth, open-source code development & on-chain metrics."]
+    "en": ["CoinGecko provides analysis of the crypto market, tracks community growth, open-source code development & on-chain metrics."],
+    "ja": ["CoinGecko provides analysis of the crypto market, tracks community growth, open-source code development & on-chain metrics."]
   },
   "category": "market",
   "languages": ["en"]
