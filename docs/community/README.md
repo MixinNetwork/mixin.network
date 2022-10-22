@@ -7,11 +7,15 @@ lastUpdated: false
 contributors: false
 article: false
 featured_images:
+  - https://mixin.network/assets/eventpic.edc3839d.jpg
   - https://mixin.network/assets/live-future.cb22555d.png
   - https://mixin.network/assets/speaker-pic.78ebb202.png
   - https://mixin.network/assets/live-painting.44304660.png
   - https://mixin.network/assets/team-pic.24861b6c.png
 news:
+  - title: OOKC & Mixin Crypto After Party
+    url: https://mixin.network/news/ookc-and-mixin-crypto-after-party/
+    date: 2022/10/14
   - title: "Mixin Meet-up: CAW (Coffee and Women) Live Painting"
     url: https://mixin.network/news/mixin-meet-up-caw-coffee-and-women-live-painting/
     date: 2022/09/11
