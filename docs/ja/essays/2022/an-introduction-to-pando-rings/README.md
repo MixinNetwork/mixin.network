@@ -8,6 +8,7 @@ article: true
 
 - Author: MOMO
 - Mixin ID: 39751727
+- [Source](https://pando.im/essays/2022/an-introduction-to-pando-rings/ "Pando Ringsで暗号資産を稼ぐ！")
 
 ## 免責事項
 
