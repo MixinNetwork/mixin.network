@@ -1,0 +1,32 @@
+{
+  "id": "7000103915",
+  "client_id": "1b9195c8-e03b-448c-a931-69526f879332",
+  "launch_url": "https://option.dance",
+  "intro_url": "https://option.dance",
+  "developer": {
+    "name": "OptionDance",
+    "url": "https://option.dance"
+  },
+  "name": {
+    "en": "OptionDance",
+    "zh": "OptionDance",
+    "ja": "OptionDance"
+  },
+  "text": {
+    "en": [
+      "We reinvented options trading for investors, maximize the efficiency of your assets."
+    ],
+    "zh": ["使用期權幫助你低價買入或者高價賣出比特幣和以太坊。"],
+    "ja": ["投資家向けのオプション取引を再発明し、資産の効率を最大化します。"]
+  },
+  "category": "Options",
+  "languages": ["cn", "en"],
+  "mtg": {
+    "members": [
+      "1b9195c8-e03b-448c-a931-69526f879332",
+      "98dd6252-1ae4-4d36-a8a0-8b4f9797632c",
+      "64ed1392-ef2e-46bc-b7ad-4ebd8c733ed7"
+    ],
+    "threshold": 2
+  }
+}
