@@ -1,5 +1,6 @@
 {
     "id": "7000101500",
+    "mixin_id": "7000101500",
     "client_id": "d0a44d9d-bb19-403c-afc5-ea26ea88123b",
     "launch_url": "https://mixinwallet.com/",
     "intro_url": "https://github.com/MixinNetwork/mixin-wallet",
@@ -9,7 +10,8 @@
     },
     "name": {
       "en": "Mixin Wallet",
-      "zh": "Mixin Wallet"
+      "zh": "Mixin Wallet",
+      "ja": "Mixin Wallet"
     },
     "text": {
       "en": ["An open-source cryptocurrency wallet on Mixin. https://github.com/MixinNetwork/mixin-wallet, GitHub Pages version 7000100212."],
