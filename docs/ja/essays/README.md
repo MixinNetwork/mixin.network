@@ -11,6 +11,7 @@ contributors: false
 
 ## 2022
 
+- [WEB3.0！次世代SNS Murmurs✨](./2022/an-introduction-to-murmurs)
 - [Mixin上の「Uniswap」！暗号資産のユーザー間取引を円滑にする「4Swap」](./2022/an-introduction-to-4swap)
 - [執筆者・読者共に報酬を受け取ることができる新しいメディアプラットフォーム「Quill」](./2022/an-introduction-to-bunshow)
 - [Pando Ringsで暗号資産を稼ぐ！](./2022/an-introduction-to-pando-rings)
