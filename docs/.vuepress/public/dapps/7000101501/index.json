@@ -1,0 +1,21 @@
+{
+    "id": "7000101501",
+    "mixin_id": "7000101501",
+    "client_id": "69fa380d-24cd-4e92-b981-c2168320f818",
+    "launch_url": "https://readhub.cn/",
+    "intro_url": "https://readhub.cn/",
+    "developer": {
+      "name": "Mixin ID 26596",
+      "url": "mixin://users/f59b9309-70c2-4b69-8fd8-5773dbd10018"
+    },
+    "name": {
+      "zh": "Readhub 要闻",
+      "en": "ReadHub 要闻",
+      "ja": "ReadHub 要闻"
+    },
+    "text": {
+      "zh": ["每天三分钟的科技新闻聚合阅读"]
+    },
+    "category": "news",
+    "languages": ["zh"]
+  }

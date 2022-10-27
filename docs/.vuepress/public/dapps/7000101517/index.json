@@ -1,0 +1,21 @@
+{
+    "id": "7000101517",
+    "mixin_id": "7000101517",
+    "client_id": "82aae164-4311-45bf-b418-e237a4d891b4",
+    "launch_url": "https://ocean.one/",
+    "intro_url": "https://ocean.one/",
+    "developer": {
+      "name": "Team Mixin",
+      "url": "https://mixin.one/"
+    },
+    "name": {
+      "en": "Ocean ONE",
+      "zh": "Ocean ONE",
+      "ja": "Ocean ONE"
+    },
+    "text": {
+      "en": ["Send me any transfer to start a conversation 💰"]
+    },
+    "category": "exchange",
+    "languages": ["en"]
+  }

@@ -1,0 +1,21 @@
+{
+    "id": "7000101494",
+    "mixin_id": "7000101494",
+    "client_id": "6490fc01-8c23-4e1c-bbcc-2b6e86ff8f52",
+    "launch_url": "https://cryptopanic.com/",
+    "intro_url": "https://cryptopanic.com/",
+    "developer": {
+      "name": "Mixin ID 31911",
+      "url": "mixin://users/b847a455-aa41-4f7d-8038-0aefbe40dcaa"
+    },
+    "name": {
+      "en": "CryptoPanic",
+      "zh": "CryptoPanic",
+      "ja": "CryptoPanic"
+    },
+    "text": {
+      "en": ["CryptoPanic is a news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts."]
+    },
+    "category": "news",
+    "languages": ["en"]
+  }

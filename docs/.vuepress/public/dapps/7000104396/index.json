@@ -1,0 +1,23 @@
+{
+  "id": "7000104396",
+  "mixin_id": "7000104396",
+  "client_id": "dc418409-3b0c-4818-a7dc-a019ce69c94a",
+  "launch_url": "https://www.coingecko.com/",
+  "intro_url": "https://www.coingecko.com/",
+  "developer": {
+    "name": "Team Mixin",
+    "url": "https://mixin.one/"
+  },
+  "name": {
+    "zh": "CoinGecko",
+    "en": "CoinGecko",
+    "ja": "CoinGecko"
+  },
+  "text": {
+    "zh": ["CoinGecko provides analysis of the crypto market, tracks community growth, open-source code development & on-chain metrics."],
+    "en": ["CoinGecko provides analysis of the crypto market, tracks community growth, open-source code development & on-chain metrics."],
+    "ja": ["CoinGecko provides analysis of the crypto market, tracks community growth, open-source code development & on-chain metrics."]
+  },
+  "category": "market",
+  "languages": ["en"]
+}

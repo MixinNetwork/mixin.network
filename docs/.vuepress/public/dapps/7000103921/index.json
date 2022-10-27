@@ -1,0 +1,21 @@
+{
+    "id": "7000103921",
+    "mixin_id": "7000103921",
+    "client_id": "68ef7899-3e81-4b3d-8124-83ae652def89",
+    "launch_url": "https://bots.mixin.zone/tools",
+    "intro_url": "https://bots.mixin.zone/tools",
+    "developer": {
+      "name": "Jun Tang",
+      "url": "mixin://users/b26b9a74-40dd-4e8d-8e41-94d9fce0b5c0"
+    },
+    "name": {
+      "en": "Mixin Bots",
+      "zh": "Mixin Bots",
+      "ja": "Mixin Bots"
+    },
+    "text": {
+      "en": ["Popular bots on Mixin Messenger."]
+    },
+    "category": "tool",
+    "languages": ["en"]
+  }

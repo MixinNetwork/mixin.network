@@ -1,12 +1,17 @@
 ---
-title: Mixin Network  - Comprehensive, secure public chain
-description: Mixin Network is a developer friendly public blockchain with lightning speed and zero transaction fee. Mixin Network is powered by nodes which are staked XIN tokens and runs with many popular dApps, includes swapping, exchange, minting, lending, micro-payment and other finacial services.
+title: Mixin Network - Decentralized Network Connecting All Blockchains
+description: Mixin Network is a developer friendly network with lightning speed and zero transaction fee. Mixin Network is powered by decentralized nodes which stake XIN tokens and runs with many popular apps, includes swapping, exchange, minting, lending, micro-payment and other finacial services.
 editLink: false
 sidebar: false
 article: false
 lastUpdated: false
 contributors: false
 events:
+  - title: OOKC & Mixin Crypto After Party
+    url: https://mixin.network/news/ookc-and-mixin-crypto-after-party/
+    date: 2022/10/14
+    category: Event
+    image: "https://mixin.network/assets/eventpic.edc3839d.jpg"
   - title: Live Future Club Event
     url: https://mixin.network/news/live-future-club-event/
     date: 2022/09/15
@@ -37,4 +42,3 @@ events:
 <home-events />
 
 <!-- <comm-subscribe :text="['Excited?', 'Subscribe our newsletter.']" /> -->
-

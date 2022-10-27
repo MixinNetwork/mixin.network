@@ -1,0 +1,22 @@
+{
+  "id": "Mixin Messenger",
+  "client_id": "Mixin Messenger",
+  "launch_url": "https://mixin.one/messenger",
+  "intro_url": "https://mixin.one/messenger",
+  "developer": {
+    "name": "Mixin Team",
+    "url": "https://mixin.one"
+  },
+  "name": {
+    "en": "Mixin Messenger",
+    "zh": "Mixin Messenger",
+    "ja": "Mixin Messenger"
+  },
+  "text": {
+    "en": ["Mixin Messenger, an open source cryptocurrency wallet, which supports almost all popular cryptocurrencies."],
+    "ja": ["オープンソースの暗号通貨ウォレットである Mixin Messengerは、ほぼすべての一般的な暗号通貨をサポートしています。"],
+    "zh": ["Mixin Messenger 是一个全币种的、去中心化的数字资产钱包。"]
+  },
+  "category": "wallet",
+  "languages": ["en", "zh", "ja"]
+}

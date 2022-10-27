@@ -1,0 +1,22 @@
+{
+    "id": "7000103066",
+    "mixin_id": "7000103066",
+    "client_id": "e6a1b35a-2d80-4318-9e14-1c666c4d33af",
+    "launch_url": "https://donate.cafe/",
+    "intro_url": "https://donate.cafe",
+    "developer": {
+      "name": "Mixin Team",
+      "url": "https://mixin.one"
+    },
+    "name": {
+      "en": "Donate Cafe",
+      "zh": "Donate Cafe",
+      "ja": "Donate Cafe"
+    },
+    "text": {
+      "en": ["The Best Way to Accept Cryptocurrency Donations."],
+      "zh": ["接收数字资产捐助的最佳拍档"]
+    },
+    "category": "Tool",
+    "languages": ["en", "zh"]
+  }
