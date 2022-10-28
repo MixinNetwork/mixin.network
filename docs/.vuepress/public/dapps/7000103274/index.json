@@ -1,6 +1,7 @@
 
 {
   "id": "7000103274",
+  "mixin_id": "7000103274",
   "client_id": "6cd39b0c-c61d-4c95-94ec-722903577970",
   "launch_url": "https://shop.mixinbots.com/",
   "intro_url": "https://shop.mixinbots.com/",
@@ -10,6 +11,7 @@
   },
   "name": {
     "en": "Mixin Shop",
+    "ja": "Mixin Shop",
     "zh": "Mixin 商城"
   },
   "text": {

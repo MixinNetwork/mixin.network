@@ -1,5 +1,6 @@
 {
     "id": "7000100124",
+    "mixin_id": "7000100124",
     "client_id": "7e3313b8-dfe1-4833-8f94-34fcdcc53a42",
     "launch_url": "https://news.ycombinator.com/",
     "intro_url": "https://news.ycombinator.com/",
@@ -8,7 +9,9 @@
       "url": "mixin://users/b847a455-aa41-4f7d-8038-0aefbe40dcaa"
     },
     "name": {
-      "en": "Hacker News"
+      "en": "Hacker News",
+      "zh": "Hacker News",
+      "ja": "Hacker News"
     },
     "text": {
       "en": ["Top stories from https://news.ycombinator.com (with 100+ score)"]
