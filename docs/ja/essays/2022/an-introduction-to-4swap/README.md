@@ -8,6 +8,7 @@ article: true
 
 - Author: ヤンちゃん
 - Mixin ID: 39749821
+- [Source](https://pando.im/essays/2022/an-introduction-to-4swap/)
 
 ## 免責事項
 
