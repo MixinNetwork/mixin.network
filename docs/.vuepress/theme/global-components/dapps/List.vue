@@ -6,7 +6,7 @@
         <input
           type="text"
           class="entry solo"
-          placeholder="Search dApps Name"
+          placeholder="Search App Name"
           v-model="searchValue"
         />
         <div class="spacer" />
@@ -34,7 +34,7 @@
                 <div class="dapp-name text-base font-bold">
                   {{ TName(dapp) }}
                 </div>
-                <div class="dapp-category text-xs ml-1 font-bold">
+                <div class="dapp-category ml-1 font-bold">
                   {{ T(dapp, "category") }}
                 </div>
               </div>
@@ -296,10 +296,13 @@ export default {
         }
       }
       .dapp-category {
-        padding: 2px 4px;
+        padding: 0px 3px;
         border-radius: 4px;
-        background-color: rgba(0, 0, 0, 0.5);
-        color: #fff;
+        border-color: rgba(0, 0, 0, 0.2);
+        border-style: solid;
+        border-width: 1px;
+        color: rgba(0, 0, 0, 0.4);
+        font-size: 0.6rem;
         text-transform: capitalize;
       }
       .dapp-content {

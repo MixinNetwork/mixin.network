@@ -1,0 +1,23 @@
+{
+  "id": "7000102352",
+  "mixin_id": "7000102352",
+  "client_id": "29f23576-4651-47ff-8c16-6c8a5d76985e",
+  "launch_url": "https://app.exinswap.com",
+  "intro_url": "https://app.exinswap.com",
+  "developer": {
+    "name": "EXIN",
+    "url": "https://github.com/ExinOne"
+  },
+  "name": {
+    "ja": "ExinSwap",
+    "en": "ExinSwap",
+    "zh": "ExinSwap"
+  },
+  "text": {
+    "ja": ["ExinSwap is a AMM DEX built on Mixin Network"],
+    "en": ["ExinSwap is a AMM DEX built on Mixin Network"],
+    "zh": ["ExinSwap is a AMM DEX built on Mixin Network"]
+  },
+  "category": "exchange",
+  "languages": ["zh"]
+}

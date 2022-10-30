@@ -27,7 +27,7 @@
             />
           </div>
         </div>
-        <div class="collection-category text-sm font-bold px-8 mb-2">
+        <div class="collection-category text-xs font-bold px-8 mb-2">
           <span class="collection-category-inner">
             {{ item.category }}
           </span>

@@ -1,0 +1,23 @@
+
+{
+  "id": "7000103274",
+  "mixin_id": "7000103274",
+  "client_id": "6cd39b0c-c61d-4c95-94ec-722903577970",
+  "launch_url": "https://shop.mixinbots.com/",
+  "intro_url": "https://shop.mixinbots.com/",
+  "developer": {
+    "name": "Team Mixin",
+    "url": "https://mixin.one/"
+  },
+  "name": {
+    "en": "Mixin Shop",
+    "ja": "Mixin Shop",
+    "zh": "Mixin 商城"
+  },
+  "text": {
+    "en": ["You can buy Mixin T-shirts via XIN token"],
+    "zh": ["使用 XIN 支付购买 T恤"]
+  },
+  "category": "shopping",
+  "languages": ["zh"]
+}

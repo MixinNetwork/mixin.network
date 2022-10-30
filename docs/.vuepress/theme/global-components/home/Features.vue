@@ -42,7 +42,7 @@
         </div>
         <div class="feature-image-wrapper">
           <img
-            src="/images/home/feat-nofee.png"
+            src="/images/home/feat-nofee.svg"
             :alt="$t('home.features.feat_2.title')"
           />
         </div>

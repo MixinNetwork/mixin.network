@@ -1,0 +1,23 @@
+{
+  "id": "7000101761",
+  "mixin_id": "7000101761",
+  "client_id": "c48136b1-c5ab-437a-a079-9df1dc748f1b",
+  "launch_url": "https://mixin.exinpool.com",
+  "intro_url": "https://mixin.exinpool.com",
+  "developer": {
+    "name": "EXIN",
+    "url": "https://github.com/ExinOne"
+  },
+  "name": {
+    "ja": "ExinPool",
+    "en": "ExinPool",
+    "zh": "ExinPool"
+  },
+  "text": {
+    "ja": ["ExinPool is a staking platform powered by Exin."],
+    "en": ["ExinPool is a staking platform powered by Exin."],
+    "zh": ["EExinPool is a staking platform powered by Exin."]
+  },
+  "category": "staking",
+  "languages": [ "en", "zh"]
+}

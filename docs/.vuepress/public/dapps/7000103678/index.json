@@ -1,0 +1,21 @@
+{
+    "id": "7000103678",
+    "mixin_id": "7000103678",
+    "client_id": "96c1460b-c7c4-480a-a342-acaa73995a37",
+    "launch_url": "https://bots.mixin.zone/",
+    "intro_url": "https://bots.mixin.zone/",
+    "developer": {
+      "name": "Mixin ID 762532",
+      "url": "mixin://users/b26b9a74-40dd-4e8d-8e41-94d9fce0b5c0"
+    },
+    "name": {
+      "en": "Mixin Data",
+      "zh": "Mixin Data",
+      "ja": "Mixin Data"
+    },
+    "text": {
+      "en": ["Mixin hot assets, chains, active nodes, withdrawal fees, etc."]
+    },
+    "category": "tool",
+    "languages": ["en"]
+  }

@@ -1,0 +1,23 @@
+{
+  "id": "7000101276",
+  "mixin_id": "7000101276",
+  "client_id": "61103d28-3ac2-44a2-ae34-bd956070dab1",
+  "launch_url": "https://app.eiduwejdk.com/",
+  "intro_url": "https://app.eiduwejdk.com/",
+  "developer": {
+    "name": "EXIN",
+    "url": "https://github.com/ExinOne"
+  },
+  "name": {
+    "ja": "ExinOne",
+    "en": "ExinOne",
+    "zh": "ExinOne"
+  },
+  "text": {
+    "ja": ["ExinOne is the one-stop digital asset financial service platform powered by Exin."],
+    "en": ["ExinOne is the one-stop digital asset financial service platform powered by Exin."],
+    "zh": ["ExinOne is the one-stop digital asset financial service platform powered by Exin."]
+  },
+  "category": "exchange",
+  "languages": [ "en", "zh"]
+}

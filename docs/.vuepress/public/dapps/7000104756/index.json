@@ -1,0 +1,22 @@
+{
+  "id": "7000104756",
+  "client_id": "c84233c5-20b6-4594-a14e-956c60299776",
+  "launch_url": "https://bazaar.mixin.fan/",
+  "intro_url": "https://bazaar.mixin.fan/",
+  "developer": {
+    "name": "Bazaar",
+    "url": "https://bazaar.mixin.fan/"
+  },
+  "name": {
+    "en": "Bazaar",
+    "zh": "大巴扎",
+    "ja": "バザ・マーケット"
+  },
+  "text": {
+    "en": ["Buy Gift-cards with Bitcoin or Crypto"],
+    "ja": ["ビットコインまたはクリプトでギフトカードを購入する"],
+    "zh": ["用比特幣或加密貨幣購買禮品卡"]
+  },
+  "category": "shopping",
+  "languages": ["en", "ja", "zh"]
+}

@@ -6,14 +6,20 @@
 </template>
 
 <script>
+import i18n from "../../utils/i18n";
+
 export default {
   name: "MessengerHero",
+
+  methods: {
+    $t: i18n.$t,
+  },
 };
 </script>
 
 <style lang="scss" scoped>
 .hero {
-  min-height: 926px;
+  min-height: 800px;
   position: relative;
   .hero-bg {
     height: 100%;
@@ -42,6 +48,18 @@ export default {
     background: transparent url("/images/messenger/hero-screenshot.png") center
       bottom no-repeat;
     background-size: contain;
+  }
+}
+
+@media (max-width: 1280px) {
+  .hero {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 920px) {
+  .hero {
+    min-height: 300px;
   }
 }
 

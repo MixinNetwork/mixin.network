@@ -1,12 +1,14 @@
 <template>
-  <div class="text-center py-8">
-    <h2 class="text-2xl md:text-3xl font-bold">More Features.</h2>
+  <div class="text-center py-8 mb-10 md:mb-20">
+    <h2 class="text-2xl md:text-5xl font-black">
+      {{ $t("messenger.features.title") }}
+    </h2>
     <div class="features grid gap-4 grid-cols-1 md:grid-cols-5 text-left mt-10">
       <div class="feature md:col-span-3">
         <h3
           class="feature-title text-lg md:text-2xl font-bold px-8 white--text"
         >
-          All messages encrypted
+          {{ $t("messenger.features.encrypted") }}
         </h3>
         <div class="feature-image-wrapper">
           <img
@@ -21,7 +23,7 @@
         <h3
           class="feature-title text-lg md:text-2xl font-bold px-8 white--text"
         >
-          Chat backup
+          {{ $t("messenger.features.backup") }}
         </h3>
         <div class="feature-image-wrapper">
           <img
@@ -36,7 +38,7 @@
         <h3
           class="feature-title text-lg md:text-2xl font-bold px-8 white--text"
         >
-          Enormous dApps
+          {{ $t("messenger.features.dapps") }}
         </h3>
         <div class="feature-image-wrapper">
           <img
@@ -51,7 +53,7 @@
         <h3
           class="feature-title text-lg md:text-2xl font-bold px-8 black--text"
         >
-          Support all popular cryptos
+          {{ $t("messenger.features.cryptos") }}
         </h3>
         <div class="feature-image-wrapper">
           <img
@@ -66,7 +68,7 @@
         <h3
           class="feature-title text-lg md:text-2xl font-bold px-8 black--text"
         >
-          Transfer easily
+          {{ $t("messenger.features.transfer") }}
         </h3>
         <div class="feature-image-wrapper">
           <img
@@ -81,7 +83,7 @@
         <h3
           class="feature-title text-lg md:text-2xl font-bold px-8 white--text"
         >
-          Secured 6 digit TIP
+          {{ $t("messenger.features.tip") }}
         </h3>
         <div class="feature-image-wrapper">
           <img
@@ -96,8 +98,14 @@
 </template>
 
 <script>
+import i18n from "../../utils/i18n";
+
 export default {
   name: "Slogan",
+
+  methods: {
+    $t: i18n.$t,
+  },
 };
 </script>
 
@@ -106,6 +114,9 @@ export default {
   border-radius: 32px;
   background-color: #f6f7fa;
   position: relative;
+  .feature-image-wrapper {
+    width: 100%;
+  }
   .feature-title {
     position: absolute;
     right: 0;

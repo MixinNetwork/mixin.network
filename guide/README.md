@@ -23,11 +23,11 @@ There are numerous well-written tutorials and guides available to help you learn
 - [Writing a Book Using Git and Staying Organized on a Project](https://www.youtube.com/watch?v=coEq9RXJ1E8) Git can be intimidating for non-developers, even though it’s in use by businesses and organizations across the world.
 - [How writers can get work done better with Git](https://opensource.com/article/19/4/write-git) If you're a writer, you could probably benefit from using Git. Learn how in our series about little-known uses of Git.
 
-## Write blog posts or news
+## Write blog posts, news, or essays
 
-### Locate the file of the posts or article.
+### Locate the file of the article.
 
-The blog posts are organized in `/docs/blog/`, and the news articles are organized in `/docs/news/`.
+The blog posts are organized in `/docs/blog/`, the news articles are organized in `/docs/news/`, the essays articles are organized in `/docs/{language}/essays/`.
 
 The post or article should be grouped by a folder named the published year, and then placed in a folder named with the post or article's "short name."
 
@@ -36,6 +36,7 @@ For example, if you want to publish a blog post titled "Mixin Network Monthly Re
 - the "short name" is `mixin-network-monthly-report-no-40`
   - **please always using lower cases alphabets, numbers and '-' in the short name.**
 - the publish year of the post is `2022`
+
 
 ### Frontmatter
 

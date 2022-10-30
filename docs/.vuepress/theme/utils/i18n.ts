@@ -5,7 +5,6 @@ var defaultMsg = null;
 function $t(name, args) {
   const t = useThemeLocaleData();
   const msg = (t.value as any).messages;
-
   var tpl = '';
   if (Object.prototype.hasOwnProperty.call(msg, name)) {
     tpl = msg[name];
@@ -33,6 +32,12 @@ function $t(name, args) {
   return ret;
 }
 
+function getLangBase() {
+  const t = useThemeLocaleData();
+  const base = (t.value as any).base;
+  return base as string;
+}
+
 export default {
-  $t,
+  $t, getLangBase
 }

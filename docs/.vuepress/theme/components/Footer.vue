@@ -19,59 +19,78 @@
         />
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
-        <div class="footer-column-title mb-4 font-bold">About Us</div>
-        <div class="footer-column-item">
-          <a href="/pages/team">Team</a>
+        <div class="footer-column-title mb-4 font-bold">
+          {{ $t("footer.about") }}
         </div>
         <div class="footer-column-item">
-          <a href="mailto:contact@mixin.one">Get in Touch</a>
-        </div>
-      </div>
-      <div class="footer-column col-span-2 md:col-span-1">
-        <div class="footer-column-title mb-4 font-bold">General</div>
-        <div class="footer-column-item">
-          <a href="/blog">Blog</a>
+          <a href="/pages/team"> {{ $t("footer.team") }} </a>
         </div>
         <div class="footer-column-item">
-          <a href="/pages/careers">Careers</a>
-        </div>
-        <div class="footer-column-item">
-          <a href="/news">News & Events</a>
-        </div>
-        <div class="footer-column-item">
-          <a href="https://github.com/MixinNetwork/audits">Security Audits</a>
+          <a href="mailto:contact@mixin.one">
+            {{ $t("footer.get_in_touch") }}
+          </a>
         </div>
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
-        <div class="footer-column-title mb-4 font-bold">Use Mixin</div>
-        <div class="footer-column-item">
-          <a href="/messenger">Mixin Messenger</a>
+        <div class="footer-column-title mb-4 font-bold">
+          {{ $t("footer.general") }}
         </div>
         <div class="footer-column-item">
-          <a href="/dapps">Ecosystem</a>
+          <a href="/blog"> {{ $t("footer.blog") }} </a>
         </div>
         <div class="footer-column-item">
-          <a href="/pages/xin">XIN Token</a>
+          <a href="/news">{{ $t("footer.news") }}</a>
+        </div>
+        <div class="footer-column-item">
+          <a :href="`${langBase}essays`">{{ $t("footer.essays") }}</a>
+        </div>
+        <div class="footer-column-item">
+          <a href="/pages/careers">{{ $t("footer.careers") }}</a>
+        </div>
+        <div class="footer-column-item">
+          <a href="https://github.com/MixinNetwork/audits">{{
+            $t("footer.audits")
+          }}</a>
         </div>
       </div>
       <div class="footer-column col-span-2 md:col-span-1">
-        <div class="footer-column-title mb-4 font-bold">Developers</div>
-        <div class="footer-column-item">
-          <a href="https://developers.mixin.one" target="_blank"
-            >Documents</a
-          >
+        <div class="footer-column-title mb-4 font-bold">
+          {{ $t("footer.use_mixin") }}
         </div>
         <div class="footer-column-item">
-          <a href="https://mvm.dev" target="_blank">Mixin Virtual Mechine</a>
+          <a href="/messenger">{{ $t("footer.mm") }}</a>
         </div>
         <div class="footer-column-item">
-          <a href="https://github.com/MixinNetwork" target="_blank">Open Source</a>
+          <a href="/dapps">{{ $t("footer.ecosystem") }}</a>
+        </div>
+        <div class="footer-column-item">
+          <a href="/pages/xin">{{ $t("footer.xin") }}</a>
+        </div>
+      </div>
+      <div class="footer-column col-span-2 md:col-span-1">
+        <div class="footer-column-title mb-4 font-bold">
+          {{ $t("footer.developers") }}
+        </div>
+        <div class="footer-column-item">
+          <a href="https://developers.mixin.one" target="_blank">{{
+            $t("footer.dev_docs")
+          }}</a>
+        </div>
+        <div class="footer-column-item">
+          <a href="https://mvm.dev" target="_blank">
+            {{ $t("footer.mvm") }}
+          </a>
+        </div>
+        <div class="footer-column-item">
+          <a href="https://github.com/MixinNetwork" target="_blank">{{
+            $t("footer.open_source")
+          }}</a>
         </div>
         <div class="footer-column-item">
           <a
             href="https://mixin.one/assets/Mixin-Draft-2018-07-01.pdf"
             target="_blank"
-            >Whitepaper</a
+            >{{ $t("footer.whitepaper") }}</a
           >
         </div>
       </div>
@@ -79,13 +98,20 @@
     <div class="copyright text-center text-xs opacity-60">
       <p>
         Designed & Powered by
-        <a href="https://pando.im" target="_blank">Pando</a>
+        <a
+          href="https://pando.im"
+          target="_blank"
+          title="Pando Official Website"
+          >Pando</a
+        >
       </p>
     </div>
   </div>
 </template>
 
 <script>
+import i18n from "../utils/i18n";
+
 export default {
   name: "Footer",
 
@@ -99,6 +125,14 @@ export default {
       }
       return "";
     },
+
+    langBase() {
+      return i18n.getLangBase();
+    },
+  },
+
+  methods: {
+    $t: i18n.$t,
   },
 };
 </script>

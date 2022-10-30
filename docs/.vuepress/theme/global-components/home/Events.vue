@@ -2,7 +2,7 @@
   <div class="text-center pt-8 pb-8 md:pb-20">
     <h2 class="event-sec-title text-2xl md:text-5xl font-black mb-20">
       {{ $t("home.events.title_1") }}<br />
-      <a class="font-black blue--text" href="#">{{
+      <a class="font-black blue--text" href="/news">{{
         $t("home.events.title_2")
       }}</a>
     </h2>
@@ -106,7 +106,7 @@ export default {
     display: flex;
     padding-left: 48px;
     animation-name: move;
-    animation-duration: 60s;
+    animation-duration: 120s;
     animation-iteration-count: infinite;
   }
 }

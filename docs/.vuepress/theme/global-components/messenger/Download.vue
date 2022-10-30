@@ -1,11 +1,20 @@
 <template>
   <div id="download" class="text-center py-8">
-    <h2 class="text-2xl md:text-3xl font-bold">Download Mixin Messenger</h2>
+    <h2 class="text-2xl md:text-5xl font-black">
+      {{ $t("messenger.downloads.title") }}
+    </h2>
     <div
       class="downloads grid gap-4 grid-cols-1 md:grid-cols-2 text-center mt-10"
     >
       <div
-        class="download grid grid-cols-1 md:grid-cols-2 place-content-between items-center mobile"
+        class="
+          download
+          grid grid-cols-1
+          md:grid-cols-2
+          place-content-between
+          items-center
+          mobile
+        "
       >
         <div class="download-image-wrapper flex align-center justify-center">
           <img
@@ -16,12 +25,14 @@
         </div>
         <div class="download-content grid gap-4 grid-cols-1">
           <h3 class="download-title text-lg md:text-2xl font-bold white--text">
-            Mobile App
+            {{ $t("messenger.downloads.mobile") }}
           </h3>
           <div>
             <a target="_blank" :href="downloads.ios" class="button primary-alt">
               <i class="button-icon icon-apple-black"></i>
-              <span class="button-label">iOS</span>
+              <span class="button-label">{{
+                $t("messenger.downloads.ios")
+              }}</span>
             </a>
           </div>
           <div>
@@ -31,14 +42,23 @@
               class="button primary-alt"
             >
               <i class="button-icon icon-android-black"></i>
-              <span class="button-label">Android</span>
+              <span class="button-label">{{
+                $t("messenger.downloads.android")
+              }}</span>
             </a>
           </div>
         </div>
       </div>
 
       <div
-        class="download p-8 grid grid-cols-1 md:grid-cols-2 place-content-between desktop"
+        class="
+          download
+          p-8
+          grid grid-cols-1
+          md:grid-cols-2
+          place-content-between
+          desktop
+        "
       >
         <div class="download-image-wrapper flex align-center justify-center">
           <img
@@ -50,24 +70,30 @@
 
         <div class="download-content grid gap-4 grid-cols-1">
           <h3 class="download-title text-lg md:text-2xl font-bold white--text">
-            Desktop App
+            {{ $t("messenger.downloads.desktop") }}
           </h3>
           <div>
             <a target="_blank" :href="downloads.windows" class="button primary">
               <i class="button-icon icon-windows-white"></i>
-              <span class="button-label">Windows</span>
+              <span class="button-label">{{
+                $t("messenger.downloads.windows")
+              }}</span>
             </a>
           </div>
           <div>
             <a target="_blank" :href="downloads.macos" class="button primary">
               <i class="button-icon icon-apple-white"></i>
-              <span class="button-label">macOS</span>
+              <span class="button-label">{{
+                $t("messenger.downloads.macos")
+              }}</span>
             </a>
           </div>
           <div>
             <a target="_blank" :href="downloads.linux" class="button primary">
               <i class="button-icon icon-linux-white"></i>
-              <span class="button-label">Linux</span>
+              <span class="button-label">{{
+                $t("messenger.downloads.linux")
+              }}</span>
             </a>
           </div>
         </div>
@@ -78,6 +104,7 @@
 
 <script>
 import { usePageFrontmatter } from "@vuepress/client";
+import i18n from "../../utils/i18n";
 
 export default {
   name: "MessengerDownload",
@@ -91,6 +118,10 @@ export default {
   mounted() {
     const frontmatter = usePageFrontmatter().value;
     this.downloads = frontmatter.downloads;
+  },
+
+  methods: {
+    $t: i18n.$t,
   },
 };
 </script>

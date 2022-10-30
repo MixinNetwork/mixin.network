@@ -1,0 +1,22 @@
+{
+    "id": "7000103450",
+    "mixin_id": "7000103450",
+    "client_id": "70b94e54-8f75-41f5-91e2-12522112ee71",
+    "launch_url": "https://redpacket.mixin.zone/",
+    "intro_url": "https://redpacket.mixin.zone/",
+    "developer": {
+      "name": "Team Mixin",
+      "url": "https://mixin.one/"
+    },
+    "name": {
+      "en": "Lucky Coin",
+      "zh": "红包",
+      "ja": "Lucky Coin"
+    },
+    "text": {
+      "en": ["I am a lucky coin robot, support sending random and ordinary lucky coin."],
+      "ja": ["通常送金から一風変わった送金まで様々な送金手段を提供するアプリケーションです"]
+    },
+    "category": "tool",
+    "languages": ["en","ja"]
+  }
