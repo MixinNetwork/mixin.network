@@ -17,10 +17,9 @@ contributors: false
 - [Live Future Club Event](./2022/live-future-club-event/)
 - [Mixin Meet-up: CAW (Coffee and Women) Live Painting](./2022/mixin-meet-up-caw-coffee-and-women-live-painting/)
 - [Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage](./2022/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/)
-- [OOKC & Mixin Crypto After Party](./ookc-and-mixin-crypto-after-party/)
-- [Live Future Club Event](./live-future-club-event/)
-- [Mixin Meet-up: CAW (Coffee and Women) Live Painting](./mixin-meet-up-caw-coffee-and-women-live-painting/)
-- [Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage](./mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/)
+- [OOKC & Mixin Crypto After Party](./2022/ookc-and-mixin-crypto-after-party/)
+
+
 
 
 ## 2021
