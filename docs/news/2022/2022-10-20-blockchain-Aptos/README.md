@@ -1,13 +1,13 @@
 ---
-title: Support public chain Aptos
-description: Mixin Network now supports the 43rd public chain Aptos.
+title: Support blockchain Aptos
+description: Mixin Network now supports the 43rd blockchain Aptos.
 editLink: false
 sidebar: false
 lastUpdated: false
 contributors: false
 ---
 
-Mixin Network now supports the 43rd public chain Aptos, the token ticker is APT, the official website is https://aptosfoundation.org/.
+Mixin Network now supports the 43rd blockchain Aptos, the token ticker is APT, the official website is https://aptosfoundation.org/.
 
 Aptos is a Layer 1 blockchain created for safe development, and built with user experience as a core focus.
 

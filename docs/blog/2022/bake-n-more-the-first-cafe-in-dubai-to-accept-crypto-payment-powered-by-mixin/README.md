@@ -1,6 +1,6 @@
 ---
 title: Bake N More, the First Cafe in Dubai to Accept Crypto Payment-Powered by Mixin
-description: a Dubai-based Café, is the most recent business in the city to accept digital currency as payment. The contemporary café’s open-source payment platform is handled by Mixin Network which allows customers to pay for their purchases with Bitcoin, Ethereum, Tether and 3 other major cryptocurrencies. 
+description: a Dubai-based Café, is the most recent business in the city to accept digital currency as payment. The contemporary café’s open-source payment platform is handled by Mixin Network which allows customers to pay for their purchases with Bitcoin, Ethereum, Tether and 3 other major cryptocurrencies.
 editLink: false
 sidebar: false
 lastUpdated: 2022/04/07
@@ -18,7 +18,7 @@ Talking about the thought process behind this charming new café and excited abo
 
 The contemporary café’s open-source payment platform is handled by Mixin Network which allows customers to pay for their purchases with Bitcoin, Ethereum, Tether and 3 other major cryptocurrencies. All existing payment methods like cash, cards and online payments are accepted. Mixin Network is a lightning fast, decentralized Web3 platform that brings speed and scalability to blockchain and allows blockchains to gain trillions of TPS, sub-second final confirmation, zero transaction fee, enhanced privacy, and unlimited extensibility.
 
-Delighted about their collaboration with Bake N More, Meng Chan Shu, Global Ambassador of Mixin Network said, “Mixin Messenger is not just a normal chatting app, it is also a decentralized crypto wallet that is connected to 41 public chains with more than 2 billion USD under asset. It is also lightning fast in transferring tokens and has never been successfully hacked in the last 4 years. With no gas fee among users, it is a solution that can help Bake N More unlock the copious advantages of a payment system that is safe, speedy, and simple.”
+Delighted about their collaboration with Bake N More, Meng Chan Shu, Global Ambassador of Mixin Network said, "Mixin Messenger is not just a normal chatting app, it is also a decentralized crypto wallet that is connected to 41 blockchains with more than 2 billion USD under asset. It is also lightning fast in transferring tokens and has never been successfully hacked in the last 4 years. With no gas fee among users, it is a solution that can help Bake N More unlock the copious advantages of a payment system that is safe, speedy, and simple."
 
 Bake N More’s POS and ERP are powered by an all-in-one Dubai-based solution, IIKO, who brings advanced technologies to F&B outlets with an intelligent cloud-based system. IIKO is currently operating in 51 countries, covering multiple restaurant functionalities and brings superior operational practices into the life of a restaurant to help maximize their profits and minimize their hassle.
 
