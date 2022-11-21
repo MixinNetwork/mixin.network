@@ -1,5 +1,5 @@
 ---
-title: The introduction of Mixin Network
+title: The Introduction of Mixin Network
 description: Mixin is a free, lightning-fast, and decentralized network for transferring digital assets. This article will help you to know the basic knowledges of Mixin Network.
 editLink: false
 sidebar: false
@@ -7,9 +7,9 @@ lastUpdated: false
 contributors: false
 ---
 
-# The introduction of Mixin Network
+# The Introduction of Mixin Network
 
-## Short brief
+## Short Brief
 Mixin is a free, lightning-fast, and decentralized network for transferring digital assets. It helps the existing distributed ledgers, such as BTC, ETH, and EOS, to obtain billions of TPS, sub-second confirmation, zero transfer costs, enhanced privacy, and unlimited scalability.
 ## Basic info
 * Start Date: October 2017
@@ -22,7 +22,7 @@ Mixin is a free, lightning-fast, and decentralized network for transferring digi
 * Safety reinforce: Trusted Execution Environment (TEE)
 * Cross-chain technology: Sidechain
 
-## Public Chain Features
+## Network Features
 ### Multiple security
 PoS decentralized network, TEE hardware reinforcement, and tens of thousands of light nodes supervise the whole nodes to prevent doing evil.
 ### Ultra-high concurrency
@@ -31,11 +31,11 @@ It can be directly applied to large commercial applications, and its performance
 User transfer is free with no cost, which can meet the commercial application scenarios such as small payment and daily consumption.
 ### Real-time transfers
 At present, it takes only 300 milliseconds for 32 nodes to complete the verification and signature of a transfer, and there are no risks such as transaction rollback and double-spending.
-### Support diverse chains
-Now supports 41 main chains such as Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum, Ethereum Classic, Dogecoin, Litecoin, Zcash, Dash, Tezos, Namecoin, NEM, Stellar, Ripple, EOS, Polkadot, Monero, NEAR, Horizen, Avalanche, Arweave, Akash, Algorand, Kusama, Solana, Filecoin, Binance Chain, Cosmos, Handshake, Decred, etc., and more than 100,000 tokens.
+### Support diverse blockchains
+Now supports 41 blockchains such as Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum, Ethereum Classic, Dogecoin, Litecoin, Zcash, Dash, Tezos, Namecoin, NEM, Stellar, Ripple, EOS, Polkadot, Monero, NEAR, Horizen, Avalanche, Arweave, Akash, Algorand, Kusama, Solana, Filecoin, Binance Chain, Cosmos, Handshake, Decred, etc., and more than 100,000 tokens.
 ### Easy Management
 A single account manages multi-chain assets, dramatically simplifies the difficulty of asset management for users, and supports new blockchains by default.
-### Co-management by multi-Signature 
+### Co-management by multi-Signature
 Support up to 255 people to co-manage multi-signature assets, suitable for teams and families to jointly manage large amounts of assets, also suitable for B2C and C2C platforms to co-manage funds, and the platform cannot misappropriate the funds of users and merchants.
 ### Transaction privacy
 Only two parties know the transaction, and the full nodes can't identify the two sides of the transaction, which means that the specific two sides of the transaction can't be deduced from the transaction itself.
