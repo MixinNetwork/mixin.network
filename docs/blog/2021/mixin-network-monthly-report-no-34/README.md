@@ -68,7 +68,7 @@ contributors: false
 ## Others
 
 - 12–02–2021
-  MVM’s first FOMO game smart contract is online, developed in Solidity language. Welcome to experience it through Bot 7000104292. Contract address: [https://testnet.mvmscan.com/address/0xeD8d87aAf8CFD1c32f24B3A556F5200770E6B4D1/contracts](https://testnet.mvmscan.com/address/0xeD8d87aAf8CFD1c32f24B3A556F5200770E6B4D1/contracts); Open-sourced: GitHub — cedricfung/gao: A simple decentralized game based on MVM
+  MVM's first FOMO game smart contract is online, developed in Solidity language. Welcome to experience it through Bot 7000104292. Contract address: [https://testnet.mvmscan.com/address/0xeD8d87aAf8CFD1c32f24B3A556F5200770E6B4D1/contracts](https://testnet.mvmscan.com/address/0xeD8d87aAf8CFD1c32f24B3A556F5200770E6B4D1/contracts); Open-sourced: GitHub — cedricfung/gao: A simple decentralized game based on MVM
 - 12–02–2021
   Ju Huo, Founder of Rum System, conducted live streaming and Q&A in RUM Chinese group.
 - 12–03–2021
@@ -76,9 +76,9 @@ contributors: false
 - 12–09–2021
   Liquidity mining activity is launched in the community by PINK and co-held with Mixin.
 - 12–14–2021
-  Li Ni, Avalanche Asian technical lead, conducted a live streaming in the Avalanche Chinese group with the theme of “Looking forward to 2022: Avalanche is the one that does not take the common path”.
+  Li Ni, Avalanche Asian technical lead, conducted a live streaming in the Avalanche Chinese group with the theme of "Looking forward to 2022: Avalanche is the one that does not take the common path".
 - 12–17–2021
-  JPYC researcher Mark Wu conducted a live streaming with the theme “JPYC — Japan’s first compliance Stable Coin” in JPYC Chinese group.
+  JPYC researcher Mark Wu conducted a live streaming with the theme "JPYC — Japan's first compliance Stable Coin" in JPYC Chinese group.
 - 12–25–2021
   To celebrate the fourth anniversary of Mixin, an independent data website [https://2021.mixin.one](https://2021.mixin.one) has been launched. Meanwhile, a limited-edition anniversary NFT give-away event for long-time users has been online for reservation.
 - 12–30–2021

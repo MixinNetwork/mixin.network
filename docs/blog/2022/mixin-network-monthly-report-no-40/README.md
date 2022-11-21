@@ -78,15 +78,15 @@ contributors: false
 - 06–10–2022
   OptionDance is included in Defillama.
 - 06–15–2022
-  Big Beard, the well-known Chinese chart trader, conducted an AMA on the topic of “Bear Market Survival Guide — Trading Minds” in Coinverse, one blockchain value discovery community on Mixin.
+  Big Beard, the well-known Chinese chart trader, conducted an AMA on the topic of "Bear Market Survival Guide — Trading Minds" in Coinverse, one blockchain value discovery community on Mixin.
 - 06–16–2022
   MVM mainnet is officially launched. XIN will be consumed as gas fee for contract calls. Block explorer: [https://scan.mvm.dev](https://scan.mvm.dev/ "scan mvm"), Developer documentation: [https://mvm.dev/](https://mvm.dev/ "mvm dev")
 - 06–18–2022
-  Mixin’s third offline meetup in Dubai was held at Marina Plaza.
+  Mixin's third offline meetup in Dubai was held at Marina Plaza.
 - 06–20–2022
-  Laotian conducted an AMA on the topic of “How to use grid trading tools to make money at BigONE?” in Coinverse, one blockchain value discovery community on Mixin.
+  Laotian conducted an AMA on the topic of "How to use grid trading tools to make money at BigONE?" in Coinverse, one blockchain value discovery community on Mixin.
 - 06–21–2022
-- Jun conducted an AMA on the topic of “Buying Bitcoin if you want to counterattack in your life” in Coinverse, one blockchain value discovery community on Mixin.
+- Jun conducted an AMA on the topic of "Buying Bitcoin if you want to counterattack in your life" in Coinverse, one blockchain value discovery community on Mixin.
 - 06–21–2022
   Cloudflare was down globally, and many blockchains using Cloudflare were affected. The deposits and withdrawals of related blockchains at Mixin are also affected, but transfers and transactions within Mixin are not affected, and deposits and withdrawals of other blockchains that do not use Cloudflare are operating normally.
 - 06–30–2022

@@ -71,27 +71,27 @@ contributors: false
 
 ### [Trident](https://thetrident.one)
 
-- “Transfer” function support
+- "Transfer" function support
 - Original NFT designer certification support
 
 ## Others
 
 - 05–14–2022
-  Mixin team’s second offline meetup in Dubai was held at Bake N More Cafe, where renowned artist Bravanft introduced his NFT works released in Trident.
+  Mixin team's second offline meetup in Dubai was held at Bake N More Cafe, where renowned artist Bravanft introduced his NFT works released in Trident.
 - 05–10–2022
-  Mixin’s 4th Anniversary NFTs have started to be distributed.
+  Mixin's 4th Anniversary NFTs have started to be distributed.
 - 05–16–2022
-  Jun conducted an AMA on the topic of “How to prevent anxiety in the crypto market? What is the market trend” in Coinverse, one blockchain value discovery community on Mixin.
+  Jun conducted an AMA on the topic of "How to prevent anxiety in the crypto market? What is the market trend" in Coinverse, one blockchain value discovery community on Mixin.
 - 05–19–2022
-  The super community began to officially promote to project parties in Japan, and the “CoinPost Super Community” has been launched on Links.
+  The super community began to officially promote to project parties in Japan, and the "CoinPost Super Community" has been launched on Links.
 - 05–20–2022
-  Jun conducted an AMA on the topic of “Let’s talk about the value of ENS, should we buy it?” in Coinverse, one blockchain value discovery community on Mixin.
+  Jun conducted an AMA on the topic of "Let's talk about the value of ENS, should we buy it?" in Coinverse, one blockchain value discovery community on Mixin.
 - 05–24–2022
   Thorb announced in Mi Circle that dozens of stores have accepted MixPay payments, covering various industries, and there are also more than a dozen projects under development for online integration.
 - 05–24–2022
-  Jun conducted an AMA on the topic of “BikeRush, one StepN imitation is online tonight! Can we invest in it?” in Coinverse, one blockchain value discovery community on Mixin.
+  Jun conducted an AMA on the topic of "BikeRush, one StepN imitation is online tonight! Can we invest in it?" in Coinverse, one blockchain value discovery community on Mixin.
 - 05–31–2022
-  Jun conducted an AMA on the topic of “About the breakthrough of BTC, where is the trend going? and the importance of trading systems” in Coinverse, one blockchain value discovery community on Mixin.
+  Jun conducted an AMA on the topic of "About the breakthrough of BTC, where is the trend going? and the importance of trading systems" in Coinverse, one blockchain value discovery community on Mixin.
 - 05–31–2022
   Mixin Network rose to 13th in the Defilama TVL public blockchain ranking.
 

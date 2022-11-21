@@ -14,7 +14,7 @@ contributors: false
 
 Mixin Network is glad to announce a strategic partnership with Akash Network, a distributed peer-to-peer marketplace for cloud compute. Launched in March 2021, Akash Network enables companies with spare compute capacity in on-premise or collocated data centers to lease their unused capacity for cloud deployments.
 
-Together, both parties will conduct in-depth collaboration in market promotion, network construction, and global community expansion. Through this partnership, Mixin is integrating Akash into its multi-chain network ecosystem, bringing its vast number of community members into the Akash ecosystem and providing them access to the Akash Token (AKT), Akash Networks’ native utility token.
+Together, both parties will conduct in-depth collaboration in market promotion, network construction, and global community expansion. Through this partnership, Mixin is integrating Akash into its multi-chain network ecosystem, bringing its vast number of community members into the Akash ecosystem and providing them access to the Akash Token (AKT), Akash Network's native utility token.
 
 Mixin and Akash Network will work closely to explore opportunities to integrate their networks in ways that benefit the users and protect open platforms while reducing cost. This will include access to multiple decentralized applications on the Mixin Network, meaning AKT holders will have the chance to use AKT in practical application scenarios.
 
@@ -22,7 +22,7 @@ Both Akash and Mixin Network care deeply about their communities. Users are alwa
 
 ## About Akash
 
-Akash Network, the world’s first decentralized and open-source cloud, accelerates deployment, scale, efficiency and price performance for high-growth industries like blockchain and machine learning/AI. The “Airbnb for Cloud Compute,” Akash Network provides a fast, efficient and low-cost application deployment solution. Developers can deploy apps to cloud-hosted containers using Akash Network at half the cost of traditional cloud giants like Amazon Web Services, Google Cloud and Microsoft Azure. With 85% of underutilized cloud computing capacity in the 8.4 million data centers, using open-source container technology, Akash Network allows anyone to lease cloud computing resources. For more information visit: [https://akash.network/](https://akash.network/).
+Akash Network, the world's first decentralized and open-source cloud, accelerates deployment, scale, efficiency and price performance for high-growth industries like blockchain and machine learning/AI. The "Airbnb for Cloud Compute," Akash Network provides a fast, efficient and low-cost application deployment solution. Developers can deploy apps to cloud-hosted containers using Akash Network at half the cost of traditional cloud giants like Amazon Web Services, Google Cloud and Microsoft Azure. With 85% of underutilized cloud computing capacity in the 8.4 million data centers, using open-source container technology, Akash Network allows anyone to lease cloud computing resources. For more information visit: [https://akash.network/](https://akash.network/).
 
 ## About Mixin Network
 

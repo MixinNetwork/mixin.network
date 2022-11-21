@@ -92,7 +92,7 @@ As of May 2022, about 329,871 XIN remains in the mining pool. Currently, 89.8767
 * [ExinSwap](https://mixin.one/codes/d1790a2e-da04-429c-b289-5ecac43863a2)
 ## Dapps and ecosystems
 ### [Mixin Messenger](https://mixin.one/messenger)
-The first dapp is based on Mixin Network, a messenger powered by Signal protocol, protects privacy by end-to-end encryption, and supports cryptocurrency wallet features. It’s simple to manage assets with a 6-digit PIN and your phone number. Because more and more projects and community developers enroll in the Mixin ecosystem, each Mixin user can trade any assets that Mixin Network supports in one-step, with no delay, no much costs. It’s available on both [App Store](https://itunes.apple.com/us/app/id1322324266) and [Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger).
+The first dapp is based on Mixin Network, a messenger powered by Signal protocol, protects privacy by end-to-end encryption, and supports cryptocurrency wallet features. It's simple to manage assets with a 6-digit PIN and your phone number. Because more and more projects and community developers enroll in the Mixin ecosystem, each Mixin user can trade any assets that Mixin Network supports in one-step, with no delay, no much costs. It's available on both [App Store](https://itunes.apple.com/us/app/id1322324266) and [Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger).
 ### [MixPay](https://mixpay.me/)
 MixPay simplifies and improves Web3 Payments with the power of Mixin Network. Accept any crypto with on-the-fly conversion.
 ### [Poolin](https://poolin.com/)

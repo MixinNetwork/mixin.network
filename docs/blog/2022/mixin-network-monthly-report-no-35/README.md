@@ -65,7 +65,7 @@ All Pando products have been running stably during the extreme market situation 
 
 ### Exin
 
-- ExinOne newly adds “Flash Exchange” Function
+- ExinOne newly adds "Flash Exchange" Function
 - ExinPool supports Akash validator nodes
 
 ## Others
@@ -73,7 +73,7 @@ All Pando products have been running stably during the extreme market situation 
 - 01–11–2022
   The official Hellobtc Chinese community based on Mixin is officially opened. Lucky coin and double-energy sign-in activities were launched. Welcome to join the group: [https://hellobtc.mixinbots.com](https://hellobtc.mixinbots.com)
 - 01–19–2022
-  Tristan Jose, COO of Polkadot ecosystem project Integritee Network, held an AMA event in Integritee Chinese group with the topic “How does Integritee unleash the value of sensitive data?”.
+  Tristan Jose, COO of Polkadot ecosystem project Integritee Network, held an AMA event in Integritee Chinese group with the topic "How does Integritee unleash the value of sensitive data?".
 - 01–19–2022
   The simulation game with exquisite pictures that uses Mixin pay is in the internal test and soon will be on the public test.
 - 01–21–2022
@@ -87,7 +87,7 @@ All Pando products have been running stably during the extreme market situation 
 - 01–26–2022
   The natural transaction volume of the mainnet has exceeded 1 million in the last 24 hours, and the user experience is smooth and without getting any stuck.
 - 01–29–2022
-  The activity of “Collecting Cards for XIN Year” was officially launched. With all cards, BTC rewards can be exchanged.
+  The activity of "Collecting Cards for XIN Year" was officially launched. With all cards, BTC rewards can be exchanged.
 - 01–31–2022
   MVM 0.2.0 testnet is launched. For MVM 0.1.0, minor modification is required when migrating smart contracts from Ethereum to MVM, while for MVM 0.2.0, no modification is required, further lowering the migration threshold.
 - 01–31–2022

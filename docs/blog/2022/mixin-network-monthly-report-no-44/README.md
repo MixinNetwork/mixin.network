@@ -58,7 +58,7 @@ contributors: false
 
 - Checkout Page optimization, newly support for Solana Pay
 - Support pUSD pricing, payment and settlement
-- Cooperation with “.bit”, “MyCointool”, “WOM”, “SUI world”, and “APTOS world”
+- Cooperation with ".bit", "MyCointool", "WOM", "SUI world", and "APTOS world"
 
 ### [Quill](https://quill.im/)
 
@@ -69,7 +69,7 @@ contributors: false
 - 10–06–2022
 Mixin Network now supports the 42nd blockchain XDC Network.
 - 10–10–2022
-Mixin supports MobileCoin’s ecological stable currency eUSD the first time. Different from other non-mainnet tokens, eUSD transfer fees use eUSD instead of the mainnet token MOB.
+Mixin supports MobileCoin's ecological stable currency eUSD the first time. Different from other non-mainnet tokens, eUSD transfer fees use eUSD instead of the mainnet token MOB.
 - 10–13–2022
 The BigONE team released the Mixin trading bot, which supports limit price, market price and trigger orders, and supports 9 currency transactions such as ETH, BTC, SOL, and MOB.
 - 10–14–2022
@@ -79,7 +79,7 @@ The content of mixin.one has been updated, adding MVM, TIP, MTG modules.
 - 10–20–2022
 Mixin Network now supports the 43rd blockchain Aptos.
 - 10–23–2022
-MVM passes IOActive’s audit:
+MVM passes IOActive's audit:
 [https://github.com/MixinNetwork/audits/blob/main/mixin-virtual-machine-ioactive.pdf](https://github.com/MixinNetwork/audits/blob/main/mixin-virtual-machine-ioactive.pdf)
 - 10–27–2022
 Mixin Network now supports the 44th blockchain Starcoin.
