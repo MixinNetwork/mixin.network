@@ -1,6 +1,6 @@
 {
-  "id": "mvg.finance",
-  "client_id": "mvg.finance",
+  "id": "app.mvg.bridge",
+  "client_id": "app.mvg.bridge",
   "launch_url": "https://mvg.finance",
   "intro_url": "https://mvg.finance",
   "developer": {
@@ -8,12 +8,12 @@
     "url": "https://github.com/zed-wong"
   },
   "name": {
-    "en": "MVG",
-    "zh": "MVG"
+    "en": "MVG Bridge",
+    "zh": "MVG Bridge"
   },
   "text": {
-    "en": ["A bridge interface powered by Mixin community developers"],
-    "zh": ["由 Mixin 社区开发者提供支持的跨链桥界面"]
+    "en": ["A bridge interface for MVM Mainet powered by MVG"],
+    "zh": ["由 MVG 提供支持的 MVM 跨链桥界面"]
   },
   "category": "wallet",
   "languages": ["en", "zh"]
