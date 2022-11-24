@@ -11,7 +11,9 @@ contributors: false
 
 ## 2022
 
+- [Mixin Network was exhibited at Dubai Precious Metals Conference](./2022/2022-11-21-Mixin-at-DPMC/)
 - [Mixin & MixPay participated Web3Dubai Conference](./2022/2022-11-17-Web3Dubai-Conference/)
+- [Mixin Messenger has been listed on Near ecosystem](./2022/2022-11-16-Mixin-messenger-listed-on-Near/)
 - [Support blockchain Starcoin](./2022/2022-10-27-blockchain-Starcoin/)
 - [Support blockchain Aptos](./2022/2022-10-20-blockchain-Aptos/)
 - [Support blockchain XDC Network](./2022/2022-10-06-blockchain-XDC/)
