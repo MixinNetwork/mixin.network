@@ -25,9 +25,11 @@ Mixin is on the path to stable development, keeping strong and moving.
 Mixin Network is an open-source, lightning-fast, and decentralized Web3 platform to bring speed and scalability to the blockchain. Mixin allows blockchains to gain millions of TPS, sub-second final confirmation, zero transaction fee, enhanced privacy and unlimited extensibility.
 
 Mixin Network is a PoS network with 26 full nodes. As a wallet solution, it is currently supporting 44 public blockchains including Bitcoin, Ethereum, Avalanche, Polkadot, etc. The total assets on the network have been over 1 billion US Dollars. Mixin is also a full-featured financial platform with functions of AMM, aggregating trade, pending orders on Exchange platforms, unbiased stable currency, etc. Mixin Network is dedicated to providing users with a decentralized blockchain infrastructure that always puts security, privacy, and decentralization first. 
+
 | [Official Website](https://mixin.one/) | 
 
 ## About MixPay 
 
 MixPay is a decentralized web3 payment protocol, which connects different chains, different tokens, different wallets, and exchanges, whether it is an on-chain wallet (MetaMask, Trust Wallet) or a centralized wallet (Blockchain.com, BlockFi), or exchanges (Binance, Coinbase). As long as they access the MixPay Protocol, they can provide their users with safe, simple, and free payment services anywhere in the world marked by MixPay, without merchants needing to care about what wallet or token the customer uses to pay, just like what Visa and Mastercard do in the traditional payment field. 
+
 | [Official Website](https://mixpay.me/) |
