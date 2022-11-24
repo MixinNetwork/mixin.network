@@ -11,6 +11,7 @@ contributors: false
 
 ## 2022
 
+- [Mixin & MixPay participated Web3Dubai Conference](./2022/2022-11-17-Web3Dubai-Conference/)
 - [Support blockchain Starcoin](./2022/2022-10-27-blockchain-Starcoin/)
 - [Support blockchain Aptos](./2022/2022-10-20-blockchain-Aptos/)
 - [Support blockchain XDC Network](./2022/2022-10-06-blockchain-XDC/)
