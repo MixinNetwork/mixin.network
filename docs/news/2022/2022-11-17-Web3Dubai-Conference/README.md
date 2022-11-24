@@ -11,7 +11,7 @@ contributors: false
 The [Web3Dubai Developer Conference](https://www.web3dubai.org) successfully took place in Le Meridien Dubai Hotel & Conference center from November 17 to 18. Mixin and its eco-partner, MixPay, participated in the conference as sponsors. We exchanged friendly views of the current market with many developers who participated in the forum. 
 ![day1](./day1-3.JPG)
 Mixin has made many preparations for the conference, designed a new booth, planned an exclusive airdrop event, panel limited T-shirts, and customized crypto biscuits for sale at the Bake N More Cafe mini bar.
-![booth](./day1-3.JPG)
+![booth](./day1.JPG)
 The Bitcoin airdrop campaign received many good reputations; there was no threshold for participation, and all attendees could enroll for free: just go to the Mixin booth to get the redeem card and download Mixin Messenger to claim the 50000 Satoshi award.  
 ![airdrop](./AirdropTwitter.png)
 The participants can directly use the rewards at the Bake N More booth to buy crypto limited-edition cookies and desserts through MixPay to experience the fun of digital currency payment. 
