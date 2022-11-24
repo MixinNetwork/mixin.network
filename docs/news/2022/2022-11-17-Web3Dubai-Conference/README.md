@@ -1,6 +1,6 @@
 ---
-title: Live Future Club Event
-description: event was held at Live Future Club by Scopernia. People were gathering together to share their thoughts about crypto. Scopernia expressed that they are looking at launching a web3 portal called Imagine3.
+title: Mixin and MixPay Participated Web3Dubai Conference
+description: The Web3Dubai Developer Conference successfully took place in Le Meridien Dubai Hotel & Conference center from November 17 to 18. Mixin and its eco-partner, MixPay, participated in the conference as sponsors. We exchanged friendly views of the current market with many developers who participated in the forum.
 editLink: false
 sidebar: false
 lastUpdated: false
