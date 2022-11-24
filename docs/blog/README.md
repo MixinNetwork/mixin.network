@@ -11,6 +11,8 @@ contributors: false
 
 ## 2022
 
+- [Mixin Network Monthly Report — No.44](./2022/mixin-network-monthly-report-no-44/)
+- [Mixin Network Establishes Strategic Partnership With Starcoin](./2022/mixin-network-establishes-strategic-partnership-with-starcoin/)
 - [Mixin Network Monthly Report — No.43](./2022/mixin-network-monthly-report-no-43/)
 - [Mixin Network Monthly Report — No.42](./2022/mixin-network-monthly-report-no-42/)
 - [Mixin Network Monthly Report No.41](./2022/mixin-network-monthly-report-no-41/)

@@ -73,7 +73,7 @@ contributors: false
 - 08–03–2022
   The Dingguagua brand is upgraded to Quill, which supports multilingual content distribution: [https://quill.im](https://quill.im)
 - 08–16–2022
-  Transaction details page of explorer Mixin.one/snapshot has added links to Mixin’s third-party blockchain explorers: Blockchair and ViewBlock, shows as: [https://mixin.one/snapshots/8c18bee1-3578-42e2-81af-e657cfb96ff8](https://mixin.one/snapshots/8c18bee1-3578-42e2-81af-e657cfb96ff8)
+  Transaction details page of explorer Mixin.one/snapshot has added links to Mixin's third-party blockchain explorers: Blockchair and ViewBlock, shows as: [https://mixin.one/snapshots/8c18bee1-3578-42e2-81af-e657cfb96ff8](https://mixin.one/snapshots/8c18bee1-3578-42e2-81af-e657cfb96ff8)
 - 08–17–2022
   [https://app.4swap.org](https://app.4swap.org) officially supports MetaMask users
 - 08–17–2022

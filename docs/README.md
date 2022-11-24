@@ -7,6 +7,11 @@ article: false
 lastUpdated: false
 contributors: false
 events:
+  - title: OOKC & Mixin Crypto After Party
+    url: https://mixin.network/news/ookc-and-mixin-crypto-after-party/
+    date: 2022/10/14
+    category: Event
+    image: "https://mixin.network/assets/eventpic.edc3839d.jpg"
   - title: Live Future Club Event
     url: https://mixin.network/news/live-future-club-event/
     date: 2022/09/15

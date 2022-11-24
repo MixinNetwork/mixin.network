@@ -74,7 +74,7 @@ contributors: false
 - 09–05–2022
 OptionDance supports MetaMask wallet.
 - 09–10–2022
-Mixin Network held an offline meetup with the theme “Trident, MVM, MixPay Updates and Bot Usage” in Dubai.
+Mixin Network held an offline meetup with the theme "Trident, MVM, MixPay Updates and Bot Usage" in Dubai.
 - 09–11–2022
 MVM passed the audit from SlowMist: [https://github.com/MixinNetwork/audits](https://github.com/MixinNetwork/audits)
 - 09–26–2022
@@ -82,7 +82,7 @@ The mainnet released version of 0.14.0, which adopts a new data encoding format,
 - 09–27–2022
 According to the statistics of the main network, the total number of CNB transactions exceeds 150 million, and the number of USDT transactions is 75 million.
 - 09–28–2022
-Data shows that Mixin Messenger’s voice service was recently used by more than 30,000 people.
+Data shows that Mixin Messenger's voice service was recently used by more than 30,000 people.
 - 09–30–2022
 Blockchain Explorer, ViewBlock officially supports Mixin: [https://v2.viewblock.io/mixin](https://v2.viewblock.io/mixin)
   

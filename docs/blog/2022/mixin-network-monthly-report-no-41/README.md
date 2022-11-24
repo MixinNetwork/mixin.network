@@ -68,7 +68,7 @@ contributors: false
 
 ### [Trident](https://thetrident.one)
 
-- Trident’s main API documentation has been updated: [https://docs.thetrident.one/api/intro/](https://docs.thetrident.one/api/intro/ "Trident API")
+- Trident's main API documentation has been updated: [https://docs.thetrident.one/api/intro/](https://docs.thetrident.one/api/intro/ "Trident API")
 - Adding site-wide activity page
 - Activities on the collection page can be filtered by type
 - Adjustment of NFT hidden logic
@@ -83,11 +83,11 @@ contributors: false
 - 07–09–2022
   The MVM faucet has been online: [https://catkin.pando.im/](https://catkin.pando.im/ "Pando Catkin"), and MetaMask users can log in and claim for it.
 - 07–15–2022
-  Mixin global ambassador conducted an AMA event in Sinso Network’s Telegram community.
+  Mixin global ambassador conducted an AMA event in Sinso Network's Telegram community.
 - 07–19–2022
   Mixin partners with TapX and joined its ecosystem: [https://tapx.link/mixin/](https://tapx.link/mixin/ "TapX Link")
 - 07–30–2022
-  The Mixin team’s first offline meetup in Kuala Lumpur Malaysia was held at the HWG Investment Bank.
+  The Mixin team's first offline meetup in Kuala Lumpur Malaysia was held at the HWG Investment Bank.
   
 ## About Mixin Network
 

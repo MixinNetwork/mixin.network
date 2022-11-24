@@ -14,7 +14,7 @@ contributors: false
 
 On 17th June, an informative AMA was successfully conducted by Nervos and Mixin Network with the topic of DApp for Billions of Internet Users. Williams, the advocate of Nervos was invited to share his expertise on how Nervos could help blockchain users to get access to blockchain applications at ease.
 
-Mixin joined Nervos ecosystem and integrated Nervos into its multi-chain network ecosystem in March 2020 and helps with its ecosystem development. Mixin Network will continually work closely with Nervos and explore deeper collaboration to further expand each other’s community and prosper the blockchain ecosystem.
+Mixin joined Nervos ecosystem and integrated Nervos into its multi-chain network ecosystem in March 2020 and helps with its ecosystem development. Mixin Network will continually work closely with Nervos and explore deeper collaboration to further expand each other's community and prosper the blockchain ecosystem.
 
 Users are welcome to join our vibrant communities on Mixin Network, meet all the cryptocurrency friends, get the latest news about Nervos and Mixin, and get benefits from the secure and scalable blockchain infrastructure.
 
