@@ -1,5 +1,5 @@
 ---
-title: The introduction of Mixin Network
+title: The Introduction of Mixin Network
 description: Mixin is a free, lightning-fast, and decentralized network for transferring digital assets. This article will help you to know the basic knowledges of Mixin Network.
 editLink: false
 sidebar: false
@@ -7,9 +7,9 @@ lastUpdated: false
 contributors: false
 ---
 
-# The introduction of Mixin Network
+# The Introduction of Mixin Network
 
-## Short brief
+## Short Brief
 Mixin is a free, lightning-fast, and decentralized network for transferring digital assets. It helps the existing distributed ledgers, such as BTC, ETH, and EOS, to obtain billions of TPS, sub-second confirmation, zero transfer costs, enhanced privacy, and unlimited scalability.
 ## Basic info
 * Start Date: October 2017
@@ -22,7 +22,7 @@ Mixin is a free, lightning-fast, and decentralized network for transferring digi
 * Safety reinforce: Trusted Execution Environment (TEE)
 * Cross-chain technology: Sidechain
 
-## Public Chain Features
+## Network Features
 ### Multiple security
 PoS decentralized network, TEE hardware reinforcement, and tens of thousands of light nodes supervise the whole nodes to prevent doing evil.
 ### Ultra-high concurrency
@@ -31,11 +31,11 @@ It can be directly applied to large commercial applications, and its performance
 User transfer is free with no cost, which can meet the commercial application scenarios such as small payment and daily consumption.
 ### Real-time transfers
 At present, it takes only 300 milliseconds for 32 nodes to complete the verification and signature of a transfer, and there are no risks such as transaction rollback and double-spending.
-### Support diverse chains
-Now supports 41 main chains such as Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum, Ethereum Classic, Dogecoin, Litecoin, Zcash, Dash, Tezos, Namecoin, NEM, Stellar, Ripple, EOS, Polkadot, Monero, NEAR, Horizen, Avalanche, Arweave, Akash, Algorand, Kusama, Solana, Filecoin, Binance Chain, Cosmos, Handshake, Decred, etc., and more than 100,000 tokens.
+### Support diverse blockchains
+Now supports 41 blockchains such as Bitcoin, Bitcoin Cash, Bitcoin SV, Ethereum, Ethereum Classic, Dogecoin, Litecoin, Zcash, Dash, Tezos, Namecoin, NEM, Stellar, Ripple, EOS, Polkadot, Monero, NEAR, Horizen, Avalanche, Arweave, Akash, Algorand, Kusama, Solana, Filecoin, Binance Chain, Cosmos, Handshake, Decred, etc., and more than 100,000 tokens.
 ### Easy Management
-A single account manages multi-chain assets, dramatically simplifies the difficulty of asset management for users, and supports new public chains by default.
-### Co-management by multi-Signature 
+A single account manages multi-chain assets, dramatically simplifies the difficulty of asset management for users, and supports new blockchains by default.
+### Co-management by multi-Signature
 Support up to 255 people to co-manage multi-signature assets, suitable for teams and families to jointly manage large amounts of assets, also suitable for B2C and C2C platforms to co-manage funds, and the platform cannot misappropriate the funds of users and merchants.
 ### Transaction privacy
 Only two parties know the transaction, and the full nodes can't identify the two sides of the transaction, which means that the specific two sides of the transaction can't be deduced from the transaction itself.
@@ -44,14 +44,14 @@ While the dual-key structure ensures asset anonymity, users can actively provide
 ### Eco-friendly
 No license requires easy access, stable service, and an affordable cost. The standard REST API interface allows developers to quickly implement products and services in any familiar language with low learning costs. Most importantly, developing applications based on Mixin is expected to be as affordable as using AWS cloud services with excellent performance and moderate prices.
 ### Network Stability
-Most public chains on the market have a fatal flaw - node network security is heavily influenced by the price of the coin, and when the price of the coin falls below the cost price, the nodes start to decrease, thus threatening the network security. In contrast, Mixin's nodes achieve long-term stable profitability by charging separate Dapp API call fees, similar to AWS cloud services, ensuring the entire network's safe and stable continuous operation. It is also a must-have feature for commercial-grade public chains.
+Most blockchains on the market have a fatal flaw - node network security is heavily influenced by the price of the coin, and when the price of the coin falls below the cost price, the nodes start to decrease, thus threatening the network security. In contrast, Mixin's nodes achieve long-term stable profitability by charging separate Dapp API call fees, similar to AWS cloud services, ensuring the entire network's safe and stable continuous operation. It is also a must-have feature for commercial-grade blockchains.
 ## Core technologies
 ### Cross-chain ledger
 The sidechain synchronizes and listens to all Mixin-related transactions from the main chain. All external deposits, withdrawals, and internal transfers are recorded in a decentralized distributed ledger. In contrast, the main chain assets are transferred to a multi-signature address jointly managed by all nodes. Each record contains the following information: asset type (e.g., Bitcoin, Ethereum, etc.), transfer amount, etc., and is tamper-proof and traceable. Mixin has no coin/token issuance, so there are no mainnet tokens, and no assets come out of thin air.
 ![Cross-chain](./crosschain.png)
 The Mixin cross-chain solution is somewhat similar to an exchange but with decentralized nodes that jointly manage assets, with open-sourced and transparent code and data, and a focus on one thing - transfer.
 ### Directed Acyclic Graph Technology (DAG)
-Mixin adopts DAG as the underlying data structure model. Unlike other DAG public chains (e.g., IOTA, Bytaball, etc.), Mixin has no central authority node. The data does not need to wait for the final confirmation from the central authority node. It ensures efficient asynchronous operation by limiting the time of referencing data and guarantees the correctness of consensus results by Asynchronous BFT. It can be simply understood that each full node of Mixin is a chain with complete data, but the order of the data is different, and eventually all can derive the same result:
+Mixin adopts DAG as the underlying data structure model. Unlike other DAG blockchains (e.g., IOTA, Bytaball, etc.), Mixin has no central authority node. The data does not need to wait for the final confirmation from the central authority node. It ensures efficient asynchronous operation by limiting the time of referencing data and guarantees the correctness of consensus results by Asynchronous BFT. It can be simply understood that each full node of Mixin is a chain with complete data, but the order of the data is different, and eventually all can derive the same result:
 ![DAG](./DAG.png)
 ### Trusted Execution Environment (TEE)
 Mixin uses Intel SGX as the TEE implementation to further enhance security. All full nodes must run in a Trusted Execution Environment, ensuring that the "coda for the full node running" is "the code it claims to be running." No one can change the running code in the trusted execution environment without being aware of it.
@@ -92,7 +92,7 @@ As of May 2022, about 329,871 XIN remains in the mining pool. Currently, 89.8767
 * [ExinSwap](https://mixin.one/codes/d1790a2e-da04-429c-b289-5ecac43863a2)
 ## Dapps and ecosystems
 ### [Mixin Messenger](https://mixin.one/messenger)
-The first dapp is based on Mixin Network, a messenger powered by Signal protocol, protects privacy by end-to-end encryption, and supports cryptocurrency wallet features. It’s simple to manage assets with a 6-digit PIN and your phone number. Because more and more projects and community developers enroll in the Mixin ecosystem, each Mixin user can trade any assets that Mixin Network supports in one-step, with no delay, no much costs. It’s available on both [App Store](https://itunes.apple.com/us/app/id1322324266) and [Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger).
+The first dapp is based on Mixin Network, a messenger powered by Signal protocol, protects privacy by end-to-end encryption, and supports cryptocurrency wallet features. It's simple to manage assets with a 6-digit PIN and your phone number. Because more and more projects and community developers enroll in the Mixin ecosystem, each Mixin user can trade any assets that Mixin Network supports in one-step, with no delay, no much costs. It's available on both [App Store](https://itunes.apple.com/us/app/id1322324266) and [Google Play Store](https://play.google.com/store/apps/details?id=one.mixin.messenger).
 ### [MixPay](https://mixpay.me/)
 MixPay simplifies and improves Web3 Payments with the power of Mixin Network. Accept any crypto with on-the-fly conversion.
 ### [Poolin](https://poolin.com/)

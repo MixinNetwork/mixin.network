@@ -1,13 +1,13 @@
 ---
-title: Support public chain Ripple
-description: Mixin Network now supports the 3rd public chain Ripple, the ticker is XRP.
+title: Support blockchain Ripple
+description: Mixin Network now supports the 3rd blockchain Ripple, the ticker is XRP.
 editLink: false
 sidebar: false
 lastUpdated: false
 contributors: false
 ---
 
-Mixin Network now supports the 3rd public chain Ripple, the ticker is XRP, the official website is https://ripple.com/.
+Mixin Network now supports the 3rd blockchain Ripple, the ticker is XRP, the official website is https://ripple.com/.
 
 Ripple is the leading provider of crypto-enabled solutions for businesses. The mission is to build breakthrough crypto solutions for a world without economic borders.
 

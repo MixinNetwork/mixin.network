@@ -65,7 +65,7 @@ All Pando products have been running stably during the extreme market situation 
 
 ### Exin
 
-- ExinOne newly adds “Flash Exchange” Function
+- ExinOne newly adds "Flash Exchange" Function
 - ExinPool supports Akash validator nodes
 
 ## Others
@@ -73,7 +73,7 @@ All Pando products have been running stably during the extreme market situation 
 - 01–11–2022
   The official Hellobtc Chinese community based on Mixin is officially opened. Lucky coin and double-energy sign-in activities were launched. Welcome to join the group: [https://hellobtc.mixinbots.com](https://hellobtc.mixinbots.com)
 - 01–19–2022
-  Tristan Jose, COO of Polkadot ecosystem project Integritee Network, held an AMA event in Integritee Chinese group with the topic “How does Integritee unleash the value of sensitive data?”.
+  Tristan Jose, COO of Polkadot ecosystem project Integritee Network, held an AMA event in Integritee Chinese group with the topic "How does Integritee unleash the value of sensitive data?".
 - 01–19–2022
   The simulation game with exquisite pictures that uses Mixin pay is in the internal test and soon will be on the public test.
 - 01–21–2022
@@ -87,7 +87,7 @@ All Pando products have been running stably during the extreme market situation 
 - 01–26–2022
   The natural transaction volume of the mainnet has exceeded 1 million in the last 24 hours, and the user experience is smooth and without getting any stuck.
 - 01–29–2022
-  The activity of “Collecting Cards for XIN Year” was officially launched. With all cards, BTC rewards can be exchanged.
+  The activity of "Collecting Cards for XIN Year" was officially launched. With all cards, BTC rewards can be exchanged.
 - 01–31–2022
   MVM 0.2.0 testnet is launched. For MVM 0.1.0, minor modification is required when migrating smart contracts from Ethereum to MVM, while for MVM 0.2.0, no modification is required, further lowering the migration threshold.
 - 01–31–2022
@@ -95,11 +95,11 @@ All Pando products have been running stably during the extreme market situation 
 
 ## Progress Summary
 
-- The total assets of the Mixin Network are growing steadily, and the performance and stability of the mainnet have been further improved. The number of public chain support has reached 41.
+- The total assets of the Mixin Network are growing steadily, and the performance and stability of the mainnet have been further improved. The number of blockchain support has reached 41.
 - In the development of Mixin Messenger, important functions such as bot encryption, playlists, message merge and forwarding, screen lock, pin message in chat sessions, NFT, and emoji store have been launched, and a newly designed and developed desktop client has also been released. In addition, multiple blockchain projects and KOLs opened their official super communities in Mixin which covers functions like communication, transactions, information, events, etc., and activities such as live streaming, airdrop, lucky coin rain, regular investment, lucky draw, and trading competition are continuously held.
 - Mixin decentralized finance represented by Pando has begun to take shape, and financial infrastructure such as trading, mortgage coinage, lending, stablecoins, financial management, options, staking, etc. is becoming more and more complete.
 - The Japanese market is steadily advancing with compliance routes under the leadership of the Links team. It has now operated multiple themed communities and has reached in-depth cooperation with CoinPost, JPYC, and other teams. In the near future, users will be able to play Mixin-based high-quality games.
-- Compatible multi-chain smart contract solution and platform MVM was released. Developers can directly deploy smart contracts of public chains such as Ethereum and EOS to Mixin, without paying attention to the underlying MTG node network, while enjoying the free, high-speed, and no gas fee network of Mixin.
+- Compatible multi-chain smart contract solution and platform MVM was released. Developers can directly deploy smart contracts of blockchains such as Ethereum and EOS to Mixin, without paying attention to the underlying MTG node network, while enjoying the free, high-speed, and no gas fee network of Mixin.
 - The NFT ecosystem has been supported, and we look forward to the explosion of various content and products based on NFT, such as malls, avatars, articles, etc. in the new year.
 
 In general, 2021 is the first year of MiFi. Various decentralized financial infrastructures are gradually progressing and form a certain scale, and have been able to maturely deal with all kinds of extreme market conditions. For 2022, MVM, TIP and NFT will be prospering with both technology and products development. Thank you all for the continuous support along the way!

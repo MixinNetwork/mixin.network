@@ -16,7 +16,7 @@ zkTube Labs is pleased to announce a strategic partnership with Mixin Network. B
 
 It utilizes zero-knowledge proof to offer solutions to the problems and issues of expansion, data availability, privacy for Ethereum, and all data is synchronized and stored on the [zkTube mainnet](https://zktube.io/). zkTube is poised to become the best Layer 2 environment for payments with no more than 0.01 cents per transaction, and TPS up to 3000+. It offers great value for people. Soon, it will be a point for financial institutions to move to Ethereum, to provide a more friendly payment system worldwide.
 
-zkTube’s global community includes 60,000 members from Australia, Arabia, Russia, Vietnam, China, and South Korea.
+zkTube's global community includes 60,000 members from Australia, Arabia, Russia, Vietnam, China, and South Korea.
 
 Mixin Network is a simple UTXO transaction network, focused on transaction functionalities and privacy protection, which is composed of a single theoretically permanent Kernel, many dynamic Domains and different multipurpose Domain Extensions, to formulate an extended star topology. Kernel has a simple logic, it can achieve almost unlimited concurrency performance.
 
@@ -28,7 +28,7 @@ Users are welcome to join the vibrant communities of zkTube and Mixin Network, m
 
 ## About zkTube
 
-zkTube is a project built and developed on Layer 2 based on the PLONK algorithm protocol using ZK-Rollup technology. It can improve scalability by transferring batches of transactions to a single transaction. Its essence is to compress the user state on the chain and store it in a Merkle tree and transfer the user state change to the chain while ensuring the user state change process’s correctness through a Zero-Knowledge proof mechanism. The cost of directly processing user state changes on the chain is relatively high, but only using the smart contract on the chain to verify the correctness of a zero-knowledge proof is relatively low. In addition, the required remittance information is transmitted to the contract along with the certificate, which is convenient for users to verify accounts.
+zkTube is a project built and developed on Layer 2 based on the PLONK algorithm protocol using ZK-Rollup technology. It can improve scalability by transferring batches of transactions to a single transaction. Its essence is to compress the user state on the chain and store it in a Merkle tree and transfer the user state change to the chain while ensuring the user state change process's correctness through a Zero-Knowledge proof mechanism. The cost of directly processing user state changes on the chain is relatively high, but only using the smart contract on the chain to verify the correctness of a zero-knowledge proof is relatively low. In addition, the required remittance information is transmitted to the contract along with the certificate, which is convenient for users to verify accounts.
 
 zkTube aims to become an indispensable Layer 2 environment builder and Layer 2 solution provider in Web3.0. The realization of the asset migration from Layer 1 to Layer 2 continuously iterates the technology, builds the underlying technical framework Lego for developers, and reduces development costs.
 

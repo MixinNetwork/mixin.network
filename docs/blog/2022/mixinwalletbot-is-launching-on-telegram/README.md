@@ -16,7 +16,7 @@ Mixin team developed a Telegram Messenger bot — — [MixinWalletBot](https://t
 - Easy-to-use
   Users manage assets with a 6-digit [PIN](https://tip.id/)
 - Diverse
-  Mixin has already supported 41 public chains, and you can manage all assets with one wallet.
+  Mixin has already supported 41 blockchains, and you can manage all assets with one wallet.
 - Free & Instant
   The transactions between MixinWalletBot users and Mixin users are free and instant.
 - Security

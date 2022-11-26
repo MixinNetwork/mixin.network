@@ -15,7 +15,7 @@ We are announcing a new Mixin Messenger desktop version open source, we use Flut
 ![mixin-desktop](./mixin-desktop.png)
 
 ## Flutter
-When we plan to develop a desktop app for Windows, Linux and macOS, we choose Electron before, but as you know the Electron app is too big and costs much memory. So we looking for other cross-platform solutions, Flutter is an open source framework for building multi-platform applications. Our team paid attention to flutter very early. When it’s support desktop, we think it’s time to try Flutter to build our new Mixin Messenger desktop app.
+When we plan to develop a desktop app for Windows, Linux and macOS, we choose Electron before, but as you know the Electron app is too big and costs much memory. So we looking for other cross-platform solutions, Flutter is an open source framework for building multi-platform applications. Our team paid attention to flutter very early. When it's support desktop, we think it's time to try Flutter to build our new Mixin Messenger desktop app.
 
 Mixin Messenger is an open source end-to-end encryption messenger that uses signal protocol focused on safety and private message. For this purpose, We implement Signal Protocol on dart [https://github.com/MixinNetwork/libsignal_protocol_dart](https://github.com/MixinNetwork/libsignal_protocol_dart). And some plugins like drag files, paste images and files, open WebView on desktop. You can find the plugins on [https://github.com/MixinNetwork/flutter-plugins](https://github.com/MixinNetwork/flutter-plugins) or [https://pub.dev/publishers/mixin.dev/packages](https://pub.dev/publishers/mixin.dev/packages)
 

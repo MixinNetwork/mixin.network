@@ -1,13 +1,13 @@
 ---
-title: Support public chain Starcoin
-description: Mixin Network now supports the 44th public chain Starcoin.
+title: Support blockchain Starcoin
+description: Mixin Network now supports the 44th blockchain Starcoin.
 editLink: false
 sidebar: false
 lastUpdated: false
 contributors: false
 ---
 
-Mixin Network now supports the 44th public chain Starcoin, the token ticker is STC, the official website is https://starcoin.org/en/.
+Mixin Network now supports the 44th blockchain Starcoin, the token ticker is STC, the official website is https://starcoin.org/en/.
 
 Starcoin is a proof-of-work blockchain that enables secure smart contracts based on Move to power services in Web 3.0.
 

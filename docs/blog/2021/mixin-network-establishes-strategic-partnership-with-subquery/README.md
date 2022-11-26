@@ -14,7 +14,7 @@ contributors: false
 
 Mixin Network is glad to announce a strategic partnership with SubQuery. SubQuery is a decentralized data aggregation, indexing & querying layer between Layer-1 blockchains and decentralized applications (DApps). Currently focused on Polkadot and Substrate projects, this data-as-a-service allows developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
-Together, both parties will work together to grow and engage SubQuery’s community in China through Mixin Messenger. Through this partnership, Mixin Network will work closely with SubQuery in market promotion, network construction, and global community expansion. This will include bringing more developers to the SubQuery network and also give common users a chance to access and use the multiple decentralized applications on the Mixin Network.
+Together, both parties will work together to grow and engage SubQuery's community in China through Mixin Messenger. Through this partnership, Mixin Network will work closely with SubQuery in market promotion, network construction, and global community expansion. This will include bringing more developers to the SubQuery network and also give common users a chance to access and use the multiple decentralized applications on the Mixin Network.
 
 SubQuery is working with Mixin Messenger to provide core data on assets and transactions in the growing Polkadot/Kusama ecosystem. Through the common API model that SubQuery has designed, Mixin will easily be able to onboard new parachain tokens.
 

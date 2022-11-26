@@ -32,7 +32,7 @@ Follow below simple steps to trade your JPYC with Mixin Messenger — all on you
 **Step 3**: Add Bot (4swap OR MixSwap)
 
 - Search for ID: 7000103537 or 7000103767
-- Tap “+ Add Bot”
+- Tap "+ Add Bot"
 - Then transaction
 
 ![searchid](./searchid.png)
@@ -43,7 +43,7 @@ Follow below simple steps to trade your JPYC with Mixin Messenger — all on you
   **4swap is Similar to Uniswap & MixSwap is Similar to 1inch**
   
 ## Note:
-1. If you don’t see the “Add Bot” button, then you may already have added it. Tap the four squares icon from the main screen, tap the bot, then continue.
+1. If you don't see the "Add Bot" button, then you may already have added it. Tap the four squares icon from the main screen, tap the bot, then continue.
 
 2. You can directly [Deposit JPYC on Mixin Messenger](https://mixinmessenger.zendesk.com/hc/en-us/articles/360018789931For"depositjpyc").
 

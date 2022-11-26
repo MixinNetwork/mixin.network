@@ -61,7 +61,7 @@ contributors: false
 ### Exin
 
 - The lending system of ExinOne has been upgraded to support selling collateral to settle loans
-- ExinOne has launched the “Markets” module
+- ExinOne has launched the "Markets" module
 
 ## Others
 
@@ -78,7 +78,7 @@ contributors: false
 - 03–31–2022
   The official version of Trident, one of Mixin NFT Markets, has officially launched at 7000104475 with website: [https://thetrident.one](https://thetrident.one)
 - 03–31–2022
-  The vegetable growing game “ポチッと Farm” that supports Mixin recharge is officially launched (7000104498), with Japanese language support only.
+  The vegetable growing game "ポチッと Farm" that supports Mixin recharge is officially launched (7000104498), with Japanese language support only.
 
 ## About Mixin Network
 
