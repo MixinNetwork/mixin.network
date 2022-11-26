@@ -7,12 +7,16 @@ lastUpdated: false
 contributors: false
 article: false
 featured_images:
+  - https://mixin.network/assets/web3end.9a5029e8.jpg
   - https://mixin.network/assets/eventpic.edc3839d.jpg
   - https://mixin.network/assets/live-future.cb22555d.png
   - https://mixin.network/assets/speaker-pic.78ebb202.png
   - https://mixin.network/assets/live-painting.44304660.png
   - https://mixin.network/assets/team-pic.24861b6c.png
 news:
+  - title: Mixin and MixPay Participated Web3Dubai Conference
+    url: https://mixin.network/news/2022/2022-11-17-Web3Dubai-Conference/
+    date: 2022/10/17
   - title: OOKC & Mixin Crypto After Party
     url: https://mixin.network/news/ookc-and-mixin-crypto-after-party/
     date: 2022/10/14
