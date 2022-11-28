@@ -84,7 +84,7 @@ According to the statistics of the main network, the total number of CNB transac
 - 09–28–2022
 Data shows that Mixin Messenger's voice service was recently used by more than 30,000 people.
 - 09–30–2022
-Blockchain Explorer, ViewBlock officially supports Mixin: [https://v2.viewblock.io/mixin](https://v2.viewblock.io/mixin)
+Blockchain Explorer, ViewBlock officially supports Mixin: [https://viewblock.io/mixin](https://viewblock.io/mixin)
   
 ## About Mixin Network
 
