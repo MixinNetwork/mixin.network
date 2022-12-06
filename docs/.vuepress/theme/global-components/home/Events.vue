@@ -105,9 +105,9 @@ export default {
     width: 3800px;
     display: flex;
     padding-left: 48px;
-    animation-name: move;
-    animation-duration: 120s;
-    animation-iteration-count: infinite;
+    // animation-name: move;
+    // animation-duration: 120s;
+    // animation-iteration-count: infinite;
   }
 }
 
