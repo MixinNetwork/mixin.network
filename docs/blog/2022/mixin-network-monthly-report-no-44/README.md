@@ -43,11 +43,7 @@ contributors: false
 
 - Release the official version of TIP
 - Support positioning to the message location by long pressing on the chat picture
-<<<<<<< HEAD
-- The public chain that has stopped running or is rarely used displays a reminder that recharge is not supported, and transfers and withdrawals are not affected
-=======
 - The blockchain that has stopped running or is rarely used displays a reminder that recharge is not supported, and transfers and withdrawals are not affected
->>>>>>> 9cf9a818424149d117e6c25c4a77e63a857b0666
 - iOS 16 supports long-pressing the chat picture to recognize text
 - Support withdrawal fees without using mainnet tokens, such as eUSD
 - Fixed the problem that new mobile phone number blocks in some regions do not support login
@@ -62,11 +58,7 @@ contributors: false
 
 - Checkout Page optimization, newly support for Solana Pay
 - Support pUSD pricing, payment and settlement
-<<<<<<< HEAD
-- Cooperation with “.bit”, “MyCointool”, “WOM”, “SUI world”, and “APTOS world”
-=======
 - Cooperation with ".bit", "MyCointool", "WOM", "SUI world", and "APTOS world"
->>>>>>> 9cf9a818424149d117e6c25c4a77e63a857b0666
 
 ### [Quill](https://quill.im/)
 
@@ -75,15 +67,9 @@ contributors: false
 ## Others
 
 - 10–06–2022
-<<<<<<< HEAD
-Mixin Network now supports the 42nd public chain XDC Network.
-- 10–10–2022
-Mixin supports MobileCoin’s ecological stable currency eUSD the first time. Different from other non-mainnet tokens, eUSD transfer fees use eUSD instead of the mainnet token MOB.
-=======
 Mixin Network now supports the 42nd blockchain XDC Network.
 - 10–10–2022
 Mixin supports MobileCoin's ecological stable currency eUSD the first time. Different from other non-mainnet tokens, eUSD transfer fees use eUSD instead of the mainnet token MOB.
->>>>>>> 9cf9a818424149d117e6c25c4a77e63a857b0666
 - 10–13–2022
 The BigONE team released the Mixin trading bot, which supports limit price, market price and trigger orders, and supports 9 currency transactions such as ETH, BTC, SOL, and MOB.
 - 10–14–2022
@@ -91,21 +77,12 @@ OOKC and Mixin co-held the first Crypto After Party in Dubai with more than 100 
 - 10–17–2022
 The content of mixin.one has been updated, adding MVM, TIP, MTG modules.
 - 10–20–2022
-<<<<<<< HEAD
-Mixin Network now supports the 43rd public chain Aptos.
-- 10–23–2022
-MVM passes IOActive’s audit:
-[https://github.com/MixinNetwork/audits/blob/main/mixin-virtual-machine-ioactive.pdf](https://github.com/MixinNetwork/audits/blob/main/mixin-virtual-machine-ioactive.pdf)
-- 10–27–2022
-Mixin Network now supports the 44th public chain Starcoin.
-=======
 Mixin Network now supports the 43rd blockchain Aptos.
 - 10–23–2022
 MVM passes IOActive's audit:
 [https://github.com/MixinNetwork/audits/blob/main/mixin-virtual-machine-ioactive.pdf](https://github.com/MixinNetwork/audits/blob/main/mixin-virtual-machine-ioactive.pdf)
 - 10–27–2022
 Mixin Network now supports the 44th blockchain Starcoin.
->>>>>>> 9cf9a818424149d117e6c25c4a77e63a857b0666
   
 ## About Mixin Network
 
