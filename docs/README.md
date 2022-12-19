@@ -11,7 +11,7 @@ events:
     url: https://mixin.network/news/2022-11-21-Mixin-at-DPMC/
     date: 2022/11/21
     category: Event
-    image: "https://mixin.network/assets/mixincomtech.d245d31e.jpg"
+    image: "https://mixin.network/assets/mixincomtech.3f247921.jpg"
   - title: Mixin and MixPay Participated Web3Dubai Conference
     url: https://mixin.network/news/2022/2022-11-17-Web3Dubai-Conference/
     date: 2022/11/17
