@@ -11,7 +11,7 @@ contributors: false
 
 ![banner](./banner.png)
 
-June 19, 2022: Mixin Network and Yotta co-organized a meet-up at Yotta's meeting room at Marina Plaza. Yotta, our new friend, invited us to co-held the event, including MixPay, and offered a venue. On that day, they talk about the Web3 payment in different dimensions.
+June 18, 2022: Mixin Network and Yotta co-organized a meet-up at Yotta's meeting room at Marina Plaza. Yotta, our new friend, invited us to co-held the event, including MixPay, and offered a venue. On that day, they talk about the Web3 payment in different dimensions.
 
 ![meetup](./3rdmeetup.jpeg)
 
