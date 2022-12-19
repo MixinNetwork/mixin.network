@@ -23,6 +23,8 @@ contributors: false
 - [OOKC & Mixin Crypto After Party](./2022/ookc-and-mixin-crypto-after-party/)
 - [1st Meetup with Mixin and Its Eco-friends in Malaysia](./2022/1st-meetup-with-mixin-and-its-eco-friends-in-malaysia/)
 - [Mixin Network Crypto Meetup](./2022/mixin-network-crypto-meetup/)
+- [3rd Meetup with MixPay and Yotta](./2022/2022-06-18-3rd-meetup-dubai/)
+- [1st Meet-up at Dubai: Mixin Networking Crypto lftar Meet-up](./2022/2022-04-20-1st-meetup/)
 
 ## 2021
 
