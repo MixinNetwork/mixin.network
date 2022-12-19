@@ -21,9 +21,8 @@ contributors: false
 - [Mixin Meet-up: CAW (Coffee and Women) Live Painting](./2022/mixin-meet-up-caw-coffee-and-women-live-painting/)
 - [Mixin Network Meet-up: MVM, MixPay Updates and Bot Usage](./2022/mixin-network-meet-up-mvm-mixpay-updates-and-bot-usage/)
 - [OOKC & Mixin Crypto After Party](./2022/ookc-and-mixin-crypto-after-party/)
-
-
-
+- [1st Meetup with Mixin and Its Eco-friends in Malaysia](./2022/1st-meetup-with-mixin-and-its-eco-friends-in-malaysia/)
+- [Mixin Network Crypto Meetup](./2022/mixin-network-crypto-meetup/)
 
 ## 2021
 
