@@ -30,8 +30,20 @@ import NetworkHero from './theme/global-components/network/Hero.vue'
 import NetworkExplorers from './theme/global-components/network/Explorers.vue'
 import NetworkNodes from './theme/global-components/network/Nodes.vue'
 
+import ArticleArchive from './theme/global-components/article/Archive.vue';
+
+import Blog from "./theme/layouts/Blog.vue";
+import News from "./theme/layouts/News.vue";
+import Layout from "./theme/layouts/Layout.vue";
 
 export default defineClientConfig({
+  // we provide some blog layouts
+  layouts: {
+    Blog,
+    News,
+    Layout,
+  },
+
   enhance({ app, router, siteData }) {
     app.component('home-slogan', HomeSlogan);
     app.component('home-features', HomeFeatures);
@@ -61,6 +73,8 @@ export default defineClientConfig({
     app.component('network-hero', NetworkHero);
     app.component('network-explorers', NetworkExplorers);
     app.component('network-nodes', NetworkNodes);
+
+    app.component('article-archive', ArticleArchive);
   },
   setup() {
     // onMounted(() => {

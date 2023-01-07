@@ -28,7 +28,7 @@
 </template>
 
 <script>
-import { useThemeData } from "@vuepress/plugin-theme-data/lib/client";
+import { useThemeData } from "@vuepress/plugin-theme-data/client";
 import { usePageFrontmatter } from "@vuepress/client";
 
 export default {

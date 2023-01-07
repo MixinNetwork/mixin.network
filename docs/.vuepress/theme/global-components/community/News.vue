@@ -8,21 +8,21 @@
         class="news-item flex items-center text-left mx-0 md:mx-4"
         v-for="(item, ix) in items"
         :key="`news-item-${ix}`"
-        :href="item.url"
+        :href="item.path"
       >
         <div
           class="news-item-thumb mr-4"
-          :class="item.image ? 'image' : itemsTag"
+          :class="item.info.cover ? 'image' : itemsTag"
           :style="
-            item.image ? { 'background-image': `url('${item.image}')` } : {}
+            item.info.cover ? { 'background-image': `url('${item.info.cover}')` } : {}
           "
         ></div>
         <div class="news-item-content">
           <h3 class="news-item-title text-sm md:text-lg font-bold">
-            {{ item.title }}
+            {{ item.info.title }}
           </h3>
           <div class="news-item-meta text-sm opacity-60">
-            {{ item.date }}
+            {{ new Date(item.info.date).toLocaleDateString() }}
           </div>
         </div>
       </a>
@@ -35,43 +35,39 @@
 
 <script>
 import i18n from "../../utils/i18n";
-
-import { usePageFrontmatter } from "@vuepress/client";
+import { useBlogType } from "vuepress-plugin-blog2/client";
 
 export default {
   name: "CommunityNews",
 
   props: ["title", "itemsTag"],
 
-  data() {
-    return {
-      items: [],
-    };
-  },
-
   methods: {
     $t: i18n.$t,
   },
 
   computed: {
+    items() {
+      const news = useBlogType(this.itemsTag)
+      let items = news?.value?.items || [];
+      if (items.length > 6) {
+        items = items.slice(0, 6);
+      }
+      return items;
+    },
+
     url() {
       const base = i18n.getLangBase();
       if (this.itemsTag === "news") {
         return "/news";
-        // @TODO disable the view all link for essays, need better way to direct to locale essays list
-        // } else if (this.itemsTag === "essays") {
-        //   return `${base}essays`;
+      } else if (this.itemsTag === "blog") {
+        return `/blog`;
       }
       return "";
     },
   },
 
   mounted() {
-    const frontmatter = usePageFrontmatter().value;
-    this.items = frontmatter[this.itemsTag].map((x) => {
-      x.image = x.image || null;
-      return x;
-    });
   },
 };
 </script>

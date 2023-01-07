@@ -1,4 +1,4 @@
-import { useThemeLocaleData, useThemeData } from "@vuepress/plugin-theme-data/lib/client";
+import { useThemeLocaleData, useThemeData } from "@vuepress/plugin-theme-data/client";
 
 var defaultMsg = null;
 

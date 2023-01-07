@@ -8,56 +8,65 @@
     </h2>
     <div class="events-wrapper mt-10 md:mt-20">
       <div class="events-inner">
-        <div class="events" :style="eventsStyle">
-          <div
-            class="event text-left"
-            :class="evCls(ev, ix)"
-            :style="{
-              'z-index': ix,
-              'background-image': ev.image ? 'url(' + ev.image + ')' : '',
-            }"
-            v-for="(ev, ix) in events"
-            :key="`ev-${ix}`"
-          >
-            <div class="event-content">
-              <div class="event-date text-sm font-bold">{{ ev.date }}</div>
-              <div class="event-category-wrapper text-xs font-bold white--text">
-                <span class="event-category">{{ ev.category }}</span>
+        <client-only>
+          <div class="events" :style="eventsStyle">
+            <div
+              class="event text-left"
+              :class="evCls(item, ix)"
+              :style="{
+                'z-index': ix,
+                'background-image': getBgImg(item.info.cover),
+              }"
+              v-for="(item, ix) in items"
+              :key="`item-${ix}`"
+              @click="gotoPath(item.path)"
+            >
+              <div class="event-content">
+                <div class="event-date text-sm font-bold">
+                  {{ new Date(item.info.date).toLocaleDateString() }}
+                </div>
+                <div class="event-category-wrapper text-xs font-bold white--text">
+                  <span class="event-category">{{ item.info.category[0] || 'Event' }}</span>
+                </div>
+                <h3 class="event-title text-base font-bold">
+                  {{ item.info.title }}
+                </h3>
               </div>
-              <h3 class="event-title text-base font-bold">
-                {{ ev.title }}
-              </h3>
             </div>
           </div>
-        </div>
+        </client-only>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import { useBlogType } from "vuepress-plugin-blog2/client";
 import { usePageFrontmatter } from "@vuepress/client";
 import i18n from "../../utils/i18n";
 
 export default {
   name: "HomeEvents",
 
-  data() {
-    return {
-      events: [],
-    };
-  },
-
   computed: {
     eventsStyle() {
       let style = { width: "100vw" };
-      if (this.events?.length) {
-        style.width = `${this.events.length * 300}px`;
-        if (document.body.clientWidth > this.events.length * 300) {
+      if (this.items?.length) {
+        style.width = `${this.items.length * 300}px`;
+        if (document.body.clientWidth > this.items.length * 300) {
           style.animationName = "none";
         }
       }
       return style;
+    },
+
+    items() {
+      const news = useBlogType("news")
+      let items = news?.value?.items || [];
+      if (items.length > 20) {
+        items = items.slice(0, 20);
+      }
+      return items;
     },
   },
 
@@ -66,18 +75,29 @@ export default {
 
     evCls(ev, ix) {
       const ret = [];
-      if (ev.image) {
+      if (ev.info.cover && !ev.info.cover.endsWith("default-article-cover.png")) {
         ret.push("image");
       }
       const cls = ["first", "second", "thrid", "fourth"];
       ret.push(cls[ix % 4]);
       return ret.join(" ");
     },
+
+    gotoPath(path) {
+      this.$router.push(path);
+    },
+
+    getBgImg(url) {
+      if (url.endsWith("default-article-cover.png")) {
+        url = ''
+      }
+      return url ? 'url(' + url + ')' : ''
+    }
   },
 
   mounted() {
-    const frontmatter = usePageFrontmatter().value;
-    this.events = frontmatter.events;
+    // const frontmatter = usePageFrontmatter().value;
+    // this.events = frontmatter.events;
   },
 };
 </script>
@@ -105,9 +125,6 @@ export default {
     width: 3800px;
     display: flex;
     padding-left: 48px;
-    // animation-name: move;
-    // animation-duration: 120s;
-    // animation-iteration-count: infinite;
   }
 }
 
@@ -120,7 +137,9 @@ export default {
   overflow: hidden;
   position: relative;
   background-size: cover;
+  cursor: pointer;
   &.first {
+    background-image: none;
     transform: translateY(80px);
     background: radial-gradient(
         24.87% 72.57% at 0% 12.63%,

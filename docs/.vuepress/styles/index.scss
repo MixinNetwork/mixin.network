@@ -91,6 +91,16 @@
       color: #000;
     }
 
+    &.dark-mist {
+      background: #2d2d38;
+      color: white;
+    }
+
+    &.mist {
+      background: #ededed;
+      color: black;
+    }
+
     span {
       height: 20px;
       vertical-align: middle;
