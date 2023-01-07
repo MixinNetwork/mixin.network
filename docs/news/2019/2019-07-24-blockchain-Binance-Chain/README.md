@@ -3,7 +3,7 @@ title: Support blockchain Binance Chain
 description: Mixin Network now supports the 21st blockchain Binance Chain.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-07-24
 contributors: false
 ---
 

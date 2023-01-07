@@ -3,7 +3,7 @@ title: Support blockchain Nervos
 description: Mixin Network now supports the 27th blockchain Nervos.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-03-09
 contributors: false
 ---
 

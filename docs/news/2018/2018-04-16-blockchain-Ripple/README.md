@@ -3,7 +3,7 @@ title: Support blockchain Ripple
 description: Mixin Network now supports the 3rd blockchain Ripple, the ticker is XRP.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-04-16
 contributors: false
 ---
 

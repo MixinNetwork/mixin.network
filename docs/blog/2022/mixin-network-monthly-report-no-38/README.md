@@ -3,9 +3,8 @@ title: Mixin Network Monthly Report No. 38
 description: The statistics of popular assets in Mixin Network are listed. Ecosystem development, with Mixin Messenger, Pando, exin, Mixpay, Trident and other AMA crypto events and partnerships. Mixin ecosystem NFT airdrop month; the official listing on Coingecko of 4swap is of great significance to the Mixin ecosystem.
 editLink: false
 sidebar: false
-lastUpdated: 2022/05/06
+date: 2022-05-06
 contributors: false
-
 ---
 
 # Mixin Network Monthly Report — No. 38

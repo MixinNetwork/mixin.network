@@ -3,9 +3,8 @@ title: Bake N More, the First Cafe in Dubai to Accept Crypto Payment-Powered by 
 description: a Dubai-based Café, is the most recent business in the city to accept digital currency as payment. The contemporary café's open-source payment platform is handled by Mixin Network which allows customers to pay for their purchases with Bitcoin, Ethereum, Tether and 3 other major cryptocurrencies.
 editLink: false
 sidebar: false
-lastUpdated: 2022/04/07
+date: 2022-04-07
 contributors: false
-
 ---
 
 # Bake N More, the First Cafe in Dubai to Accept Crypto Payment-Powered by Mixin

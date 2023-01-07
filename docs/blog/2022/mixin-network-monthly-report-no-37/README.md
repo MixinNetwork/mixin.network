@@ -3,9 +3,8 @@ title: Mixin Network Monthly Report No. 37
 description: The statistics of popular assets in Mixin Network are listed. Ecosystem development, with Mixin Messenger, Pando, exin, Mixpay, Trident and other AMA crypto events and partnerships.  Mixin Network partners with YottaChain International Holding and Emirates Draw to provide access for Crypto Holders and other news.
 editLink: false
 sidebar: false
-lastUpdated: 2022/04/07
+date: 2022-04-07
 contributors: false
-
 ---
 
 # Mixin Network Monthly Report — No. 37

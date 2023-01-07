@@ -3,7 +3,7 @@ title: OOKC & Mixin Crypto After Party
 description: During Future Blockchain Summit FBS Week, an excellent Crypto After Party was co-held by Mixin Network and OOKC Labs in Dubai, United Arab Emirates.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-10-14
 contributors: false
 ---
 

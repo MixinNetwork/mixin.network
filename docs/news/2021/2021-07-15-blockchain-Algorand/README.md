@@ -3,7 +3,7 @@ title: Support blockchain Algorand
 description: Mixin Network now supports the 37th blockchain Algorand.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2021-07-15
 contributors: false
 ---
 

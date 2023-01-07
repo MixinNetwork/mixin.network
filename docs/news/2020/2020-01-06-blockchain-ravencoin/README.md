@@ -3,7 +3,7 @@ title: Support blockchain Ravencoin
 description: Mixin Network now supports the 24th blockchain Ravencoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-01-06
 contributors: false
 ---
 

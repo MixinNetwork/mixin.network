@@ -3,7 +3,7 @@ title: Support blockchain Monero
 description: Mixin Network now supports the 22nd blockchain Monero.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-08-27
 contributors: false
 ---
 

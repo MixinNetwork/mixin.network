@@ -3,9 +3,8 @@ title: Mixin Network Established Strategic Partnership With Saito
 description: Mixin Network is excited to announce a strategic partnership with Saito. Mixin will integrate Saito into its multi-chain network ecosystem and also bring its extensive community into the Saito ecosystem.
 editLink: false
 sidebar: false
-lastUpdated: 2021/06/10
+date: 2021-06-10
 contributors: false
-
 ---
 
 # Mixin Network Established Strategic Partnership With Saito

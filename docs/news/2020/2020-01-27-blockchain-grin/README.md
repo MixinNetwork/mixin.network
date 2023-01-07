@@ -3,7 +3,7 @@ title: Support blockchain Grin
 description: Mixin Network now supports the 25th blockchain Grin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-01-27
 contributors: false
 ---
 

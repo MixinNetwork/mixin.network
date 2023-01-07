@@ -3,9 +3,8 @@ title: Nervos and Mixin Network AMA Recap
 description: An informative AMA was successfully conducted by Nervos and Mixin Network with the topic of DApp for Billions of Internet Users. Williams, the advocate of Nervos was invited to share his expertise on how Nervos could help blockchain users to get access to blockchain applications at ease.
 editLink: false
 sidebar: false
-lastUpdated: 2021/06/24
+date: 2021-06-24
 contributors: false
-
 ---
 
 # Nervos and Mixin Network AMA Recap

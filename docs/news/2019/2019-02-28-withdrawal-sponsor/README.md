@@ -3,7 +3,7 @@ title: Join HackerOne's bug bounty program
 description: Mixin has officially joined the famous vulnerability coordination and bug bounty platform in the world, HackerOne.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-02-28
 contributors: false
 ---
 

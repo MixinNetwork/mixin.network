@@ -3,7 +3,7 @@ title: Support blockchain Bitcoin SV
 description: Mixin Network now supports the 19th blockchain Bitcoin SV.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-07-13
 contributors: false
 ---
 

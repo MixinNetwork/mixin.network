@@ -3,9 +3,8 @@ title: Mixin Network Monthly Report No. 35
 description: Mixin mainnet has been running for 1069 days. The statistics of popular assets in Mixin Network are listed. Ecosystem development, with Mixin Messenger, Pando, exin and other AMA crypto events. The NFT ecosystem has been supported. Compatible multi-chain smart contract solution and platform MVM was released. Various decentralized financial infrastructures are gradually progressing and form a certain scale.
 editLink: false
 sidebar: false
-lastUpdated: 2022/02/09
+date: 2022-02-09
 contributors: false
-
 ---
 
 # Mixin Network Monthly Report — No. 35

@@ -3,7 +3,7 @@ title: Support blockchain Polkadot
 description: Mixin Network now supports the 32nd blockchain Polkadot.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-11-06
 contributors: false
 ---
 

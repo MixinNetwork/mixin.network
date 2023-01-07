@@ -3,7 +3,7 @@ title: Support blockchain Namecoin
 description: Mixin Network now supports the 29th blockchain Namecoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-08-29
 contributors: false
 ---
 

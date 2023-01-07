@@ -3,9 +3,8 @@ title: Announcing Mixin Flutter Desktop Open Source
 description: a new Mixin Messenger desktop version open source launched, using Flutter to build a new cross-platform version app. Mixin Messenger is an open source end-to-end encryption messenger that uses signal protocol focused on safety and private message. 
 editLink: false
 sidebar: false
-lastUpdated: 2022/02/17
+date: 2022-02-17
 contributors: false
-
 ---
 
 # Announcing Mixin Flutter Desktop Open Source

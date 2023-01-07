@@ -3,7 +3,7 @@ title: Support blockchain Dash
 description: Mixin Network now supports the 9th blockchain Dash.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-07-24
 contributors: false
 ---
 

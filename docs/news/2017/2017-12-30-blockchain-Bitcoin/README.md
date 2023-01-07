@@ -3,7 +3,7 @@ title: Support blockchain Bitcoin
 description: Mixin Network now supports the 2nd blockchain Bitcoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2017-12-30
 contributors: false
 ---
 

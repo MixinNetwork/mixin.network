@@ -3,7 +3,7 @@ title: Support blockchain Avalanche
 description: Mixin Network now supports the 39th blockchain Avalanche.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2021-09-06
 contributors: false
 ---
 

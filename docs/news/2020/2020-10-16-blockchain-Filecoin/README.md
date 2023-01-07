@@ -3,7 +3,7 @@ title: Support blockchain Filecoin
 description: Mixin Network now supports the 31st blockchain Filecoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-10-16
 contributors: false
 ---
 

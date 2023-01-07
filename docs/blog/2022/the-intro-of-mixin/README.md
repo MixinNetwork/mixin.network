@@ -3,7 +3,7 @@ title: The Introduction of Mixin Network
 description: Mixin is a free, lightning-fast, and decentralized network for transferring digital assets. This article will help you to know the basic knowledges of Mixin Network.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-06-01
 contributors: false
 ---
 

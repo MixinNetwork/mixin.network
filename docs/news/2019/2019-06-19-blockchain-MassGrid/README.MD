@@ -3,7 +3,7 @@ title: Support blockchain MassGrid
 description: Mixin Network now supports the 16th blockchain MassGrid.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-06-19
 contributors: false
 ---
 

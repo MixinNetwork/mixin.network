@@ -3,9 +3,10 @@ title: Mixin Network Monthly Report No. 45
 description: Mixin Mainnet has been running for 1373 days. The statistics of popular assets are listed. Ecosystem development, with MVM Bridge, Pando, Mixpay, Quill and other news and events are listed.
 editLink: false
 sidebar: false
-lastUpdated: 2022/12/06
+date: 2022-12-06
 contributors: false
 ---
+
 # Mixin Network Monthly Report — No. 45
 
 ![monthly-report](./monthly-45.png)

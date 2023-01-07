@@ -3,7 +3,7 @@ title: Live Future Club Event
 description: event was held at Live Future Club by Scopernia. People were gathering together to share their thoughts about crypto. Scopernia expressed that they are looking at launching a web3 portal called Imagine3.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-09-15
 contributors: false
 ---
 

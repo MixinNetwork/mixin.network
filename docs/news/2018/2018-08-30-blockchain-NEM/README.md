@@ -3,7 +3,7 @@ title: Support blockchain NEM
 description: Mixin Network now supports the 12nd blockchain NEM.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-08-30
 contributors: false
 ---
 

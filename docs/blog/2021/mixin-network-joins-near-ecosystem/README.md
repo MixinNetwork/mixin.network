@@ -3,9 +3,8 @@ title: Mixin Network Joins NEAR Ecosystem
 description: Mixin Network has joined NEAR's ecosystem as a scalable layer 2 solution. Through simple, secure, and scalable technology, millions are empowered to invent and explore new experiences. Business, creativity, and community are being reimagined for a more sustainable and inclusive future.
 editLink: false
 sidebar: false
-lastUpdated: 2021/11/03
+date: 2021-11-03
 contributors: false
-
 ---
 
 # Mixin Network Joins NEAR Ecosystem

@@ -3,7 +3,7 @@ title: Support blockchain Bitcoin Cash
 description: Mixin Network now supports the 4th blockchain Bitcoin Cash.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-04-20
 contributors: false
 ---
 

@@ -3,9 +3,8 @@ title: Mixin Network Partners with YottaChain International Holding and Emirates
 description: Mixin Network builds partnership with YottaChain International Holding Limited, specializing in the decentralization of data storage solutions, to support Emirates Draw, the socially responsible UAE-based organization, to allow crypto holders across the globe an opportunity to participate in Emirates Draw. Crypto users who wish to participate in Emirates Draw could access the dAPP section in Mixin Crypto Wallets.
 editLink: false
 sidebar: false
-lastUpdated: 2022/03/09
+date: 2022-03-09
 contributors: false
-
 ---
 
 # Mixin Network Partners with YottaChain International Holding and Emirates Draw to Provide Access for Crypto Holders

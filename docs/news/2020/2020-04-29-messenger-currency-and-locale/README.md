@@ -3,7 +3,7 @@ title: Mixin Messenger bot supports returning currency and locale
 description: Since the version 0.24.0, Mixin Messenger supports returning the current currency and locale.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-04-29
 contributors: false
 ---
 

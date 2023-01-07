@@ -3,7 +3,7 @@ title: Support blockchain Cosmos
 description: Mixin Network now supports the 18th blockchain Cosmos.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-07-13
 contributors: false
 ---
 

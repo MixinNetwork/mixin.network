@@ -3,7 +3,7 @@ title: Withdrawal fee subsidy activity
 description: From now on, all Dapp developers are entitled to a full withdrawal fee subsidy.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-02-28
 contributors: false
 ---
 

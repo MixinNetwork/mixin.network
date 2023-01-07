@@ -3,9 +3,8 @@ title: Mixin Joins Avalanche Validator Ecosystem to Provide Staking Services to 
 description: Mixin Network has integrated with Avalanche and started a strategic partnership with them. Exin will join the Avalanche validator node ecosystem to provide secure and trusted staking and node services to the community.
 editLink: false
 sidebar: false
-lastUpdated: 2021/09/15
+date: 2021-09-15
 contributors: false
-
 ---
 
 # Mixin Joins Avalanche Validator Ecosystem to Provide Staking Services to Users

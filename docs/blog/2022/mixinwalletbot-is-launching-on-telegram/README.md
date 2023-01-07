@@ -3,9 +3,8 @@ title: MixinWalletBot is Launching on Telegram
 description: MixinWalletBot, it could help Telegram users to store and transfer cryptocurrencies, with properties of easy to use, diverse, free&instant, security.
 editLink: false
 sidebar: false
-lastUpdated: 2022/07/13
+date: 2022-07-13
 contributors: false
-
 ---
 
 # MixinWalletBot is launching on Telegram
