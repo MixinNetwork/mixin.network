@@ -68,6 +68,7 @@
     padding: 0.5em 2em;
     position: relative;
     color: rgba(42, 53, 64, 0.7);
+    border-left: none !important;
     &:before,
     &:after {
       font-family: "Times New Roman", Times, serif;

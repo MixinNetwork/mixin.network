@@ -5,11 +5,14 @@ editLink: false
 sidebar: false
 date: 2022-11-21
 contributors: false
+date: 2022-11-21
 ---
 
 # Mixin Network was exhibited at Dubai Precious Metals Conference
 ![rollup](./mixincomtech.jpg)
+
 Mixin Network's key strategic partner, ComTech Gold, has been invited to participate in Dubai Precious Metals Conference. During this period, Mixin Network's roll-up was placed in ComTech's booth and attracted much attention from attendees. We appreciate the support from ComTech GOLD.
+
 ![rollup2](./mixincomtech2.jpeg)
 
 ## About Mixin Network

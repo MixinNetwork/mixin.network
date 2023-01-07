@@ -5,6 +5,7 @@ editLink: false
 sidebar: false
 date: 2022-04-07
 contributors: false
+date: 2023-01-07
 ---
 
 # Bake N More, the First Cafe in Dubai to Accept Crypto Payment-Powered by Mixin
