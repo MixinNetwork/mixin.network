@@ -3,7 +3,7 @@ title: Support blockchain Kusama
 description: Mixin Network now supports the 34th blockchain Kusama.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2021-03-21
 contributors: false
 ---
 

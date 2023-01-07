@@ -3,7 +3,7 @@ title: Support blockchain BitShares
 description: Mixin Network now supports the 23rd blockchain BitShares.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-08-27
 contributors: false
 ---
 

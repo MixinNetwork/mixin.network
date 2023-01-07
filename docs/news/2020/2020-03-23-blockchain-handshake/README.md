@@ -3,7 +3,7 @@ title: Support blockchain Handshake
 description: Mixin Network now supports the 28th blockchain Handshake.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-03-23
 contributors: false
 ---
 

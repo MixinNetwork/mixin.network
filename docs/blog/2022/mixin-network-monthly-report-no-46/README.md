@@ -3,9 +3,10 @@ title: Mixin Network Monthly Report No. 46
 description: Mixin Mainnet has been running. The statistics of popular assets are listed. Ecosystem development, with MVM Bridge, Pando, Mixpay, Quill and other news and events are listed. Polygon, BSC, and TON support.
 editLink: false
 sidebar: false
-lastUpdated: 2023/1/6
+date: 2023-01-06
 contributors: false
 ---
+
 # Mixin Network Monthly Report — No. 46
 
 ![monthly-report](./monthly-46.png)

@@ -3,7 +3,7 @@ title: Support blockchain Decred
 description: Mixin Network now supports the 20th blockchain Decred.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-07-20
 contributors: false
 ---
 

@@ -3,9 +3,8 @@ title: Mixin Network Establishes Strategic Partnership With SubQuery
 description: SubQuery is working with Mixin Messenger to provide core data on assets and transactions in the growing Polkadot/Kusama ecosystem. Mixin Network will work closely with SubQuery in market promotion, network construction, and global community expansion. 
 editLink: false
 sidebar: false
-lastUpdated: 2021/09/22
+date: 2021-09-22
 contributors: false
-
 ---
 
 # Mixin Network Establishes Strategic Partnership With SubQuery

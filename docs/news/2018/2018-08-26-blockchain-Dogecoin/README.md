@@ -3,7 +3,7 @@ title: Support blockchain Dogecoin
 description: Mixin Network now supports the 11st blockchain Dogecoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-08-26
 contributors: false
 ---
 

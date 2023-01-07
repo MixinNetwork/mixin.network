@@ -3,7 +3,7 @@ title: Support blockchain Siacoin
 description: Mixin Network now supports the 7th blockchain Siacoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-04-24
 contributors: false
 ---
 

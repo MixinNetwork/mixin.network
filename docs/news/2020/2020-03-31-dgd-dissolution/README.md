@@ -3,7 +3,7 @@ title: Mixin supports DGD dissolution plan
 description: Mixin supports the dissolution plan initiated by the DigixDao (DGD) community.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-03-31
 contributors: false
 ---
 

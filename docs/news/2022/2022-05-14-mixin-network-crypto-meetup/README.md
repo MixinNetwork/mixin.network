@@ -3,7 +3,7 @@ title: Mixin Network Crypto Meetup
 description: Mixin Network held a crypto meetup together with Bake N More. In the event, Meng Chan Shu from Mixin Network gave his views on the crypto. Crypto Dragonis, Founder of Brava NFT, also shared insights about Brava project and opportunities in the Web3 space. 
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-05-14
 contributors: false
 ---
 

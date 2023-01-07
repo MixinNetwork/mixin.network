@@ -3,9 +3,8 @@ title: Trade JPYC With Mixin Messenger!
 description: JPYC is a JPY-pegged stablecoin, legally dealt as a Prepaid Payment Instrument in Japan. The JPYC/USDC trading pair has been listed by the community on Mixin. Users can now use Mixin Messenger to trade JPYC. There will be no KYC required with the decentralized swapping bots and no gas fee.
 editLink: false
 sidebar: false
-lastUpdated: 2021/11/15
+date: 2021-11-15
 contributors: false
-
 ---
 
 # Trade JPYC With Mixin Messenger!

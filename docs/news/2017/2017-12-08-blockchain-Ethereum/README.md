@@ -3,7 +3,7 @@ title: Support blockchain Ethereum
 description: Mixin Network now supports the 1st blockchain Ethereum.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2017-12-08
 contributors: false
 ---
 

@@ -3,9 +3,10 @@ title: Mixin Network monthly report No. 41
 description: Mixin Mainnet has been running for 1250 days. The statistics of popular assets are listed. Ecosystem development, with Pando, exin, Mixpay, Trident and other events and partnerships.
 editLink: false
 sidebar: false
-lastUpdated: 2022/08/05
+date: 2022-08-05
 contributors: false
 ---
+
 # Mixin Network Monthly Report — No. 41
 
 ![monthly-report](./monthly-41.jpeg)

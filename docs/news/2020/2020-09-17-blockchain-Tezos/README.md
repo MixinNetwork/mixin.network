@@ -3,7 +3,7 @@ title: Support blockchain Tezos
 description: Mixin Network now supports the 30th blockchain Tezos.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-09-17
 contributors: false
 ---
 

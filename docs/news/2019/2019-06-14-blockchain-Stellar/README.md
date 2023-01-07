@@ -3,7 +3,7 @@ title: Support blockchain Stellar
 description: Mixin Network now supports the 15th blockchain Stellar.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-06-14
 contributors: false
 ---
 

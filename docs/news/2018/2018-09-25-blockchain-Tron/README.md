@@ -3,7 +3,7 @@ title: Support blockchain Tron
 description: Mixin Network now supports the 13rd blockchain Tron.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-09-25
 contributors: false
 ---
 

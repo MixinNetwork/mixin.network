@@ -3,7 +3,7 @@ title: Mixin Messenger supports to pin the bot on home page
 description: Mixin Messenger has supported to pin the bot on the home page since the version 0.24.0.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-04-27
 contributors: false
 ---
 

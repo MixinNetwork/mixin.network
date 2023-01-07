@@ -3,7 +3,7 @@ title: Mixin and MixPay Participated Web3Dubai Conference
 description: The Web3Dubai Developer Conference successfully took place in Le Meridien Dubai Hotel & Conference center from November 17 to 18. Mixin and its eco-partner, MixPay, participated in the conference as sponsors. We exchanged friendly views of the current market with many developers who participated in the forum.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-11-17
 contributors: false
 ---
 

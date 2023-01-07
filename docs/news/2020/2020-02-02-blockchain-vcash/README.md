@@ -3,7 +3,7 @@ title: Support blockchain VCash
 description: Mixin Network now supports the 26th blockchain VCash.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-02-02
 contributors: false
 ---
 

@@ -3,7 +3,7 @@ title: Support blockchain Akash Network
 description: Mixin Network now supports the 38th blockchain Akash Network.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2021-09-05
 contributors: false
 ---
 

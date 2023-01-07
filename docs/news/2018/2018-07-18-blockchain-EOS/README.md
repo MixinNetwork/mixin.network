@@ -3,7 +3,7 @@ title: Support blockchain EOS
 description: Mixin Network now supports the 8th blockchain EOS.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-07-18
 contributors: false
 ---
 

@@ -3,9 +3,8 @@ title: Mixin Network Monthly Report No. 40
 description: Top 100 assets of Mixin Network reach a total market value of $932,421,786. The statistics of popular assets are listed. Ecosystem development, with Mixin Messenger, Pando, exin, Mixpay, Trident and other events and partnerships.
 editLink: false
 sidebar: false
-lastUpdated: 2022/07/06
+date: 2022-07-06
 contributors: false
-
 ---
 
 # Mixin Network Monthly Report — No. 40

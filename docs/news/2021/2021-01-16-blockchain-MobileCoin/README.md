@@ -3,7 +3,7 @@ title: Support blockchain MobileCoin
 description: Mixin Network now supports the 33rd blockchain MobileCoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2021-01-16
 contributors: false
 ---
 

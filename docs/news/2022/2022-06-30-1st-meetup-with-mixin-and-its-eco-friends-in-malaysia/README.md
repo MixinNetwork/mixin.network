@@ -3,7 +3,7 @@ title: 1st Meetup with Mixin and Its Eco-friends in Malaysia
 description: The Mixin team's first offline meetup in Kuala Lumpur Malaysia was held successfully at the HWG Investment Bank.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-07-30
 contributors: false
 ---
 

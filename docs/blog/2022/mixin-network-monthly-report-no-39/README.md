@@ -3,9 +3,8 @@ title: Mixin Network Monthly Report No. 39
 description: The Mainnet has been running for 1188 days. The statistics of popular assets are listed. Ecosystem development, with Mixin Messenger, Pando, exin, Mixpay, Trident and other AMA crypto events and partnerships.
 editLink: false
 sidebar: false
-lastUpdated: 2022/06/03
+date: 2022-06-03
 contributors: false
-
 ---
 
 # Mixin Network Monthly Report — No. 39

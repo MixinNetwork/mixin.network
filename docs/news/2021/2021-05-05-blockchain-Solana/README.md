@@ -3,7 +3,7 @@ title: Support blockchain Solana
 description: Mixin Network now supports the 35th blockchain Solana.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2021-05-05
 contributors: false
 ---
 

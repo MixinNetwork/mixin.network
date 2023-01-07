@@ -3,7 +3,7 @@ title: Support blockchain Zcash
 description: Mixin Network now supports the 10th blockchain Zcash.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-08-05
 contributors: false
 ---
 

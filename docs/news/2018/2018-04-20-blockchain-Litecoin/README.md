@@ -3,7 +3,7 @@ title: Support blockchain Litecoin
 description: Mixin Network now supports the 5th blockchain Litecoin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-04-20
 contributors: false
 ---
 

@@ -3,9 +3,8 @@ title: MixPay, Crypto Payment Platform Powered by Mixin Network
 description: a decentralized crypto payment service platform built on Mixin Network. MixPay makes it easy to spend and accept cryptos as a secure payment platform in Web3. MixPay supports three modes of settlement, individual, developer, and multi-signature account.
 editLink: false
 sidebar: false
-lastUpdated: 2022/06/22
+date: 2022-06-22
 contributors: false
-
 ---
 
 # MixPay, Crypto Payment Platform Powered by Mixin Network

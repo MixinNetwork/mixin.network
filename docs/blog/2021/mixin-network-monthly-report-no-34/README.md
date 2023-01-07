@@ -3,9 +3,8 @@ title: Mixin Network Monthly Report No. 34
 description: The Mainnet has been running for 1037 days. The statistics of popular assets are listed. Ecosystem development, with Mixin Messenger, Pando, exin and other AMA crypto events. To celebrate the fourth anniversary of Mixin, an independent data website has been launched.
 editLink: false
 sidebar: false
-lastUpdated: 2022/01/06
+date: 2022-01-06
 contributors: false
-
 ---
 
 # Mixin Network Monthly Report — No. 34

@@ -3,7 +3,7 @@ title: Blockchair starts to support Mixin Network explorer
 description: Blockchair developed a very comprehensive third-party explorer for Mixin.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2020-04-21
 contributors: false
 ---
 

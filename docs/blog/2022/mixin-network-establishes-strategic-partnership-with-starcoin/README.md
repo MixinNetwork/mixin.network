@@ -3,9 +3,8 @@ title: Mixin Network Establishes Strategic Partnership With Starcoin
 description: Mixin Network is glad to announce a strategic partnership with Starcoin. Mixin Network and Starcoin will work closely to explore opportunities to integrate their networks in ways that benefit users, including more cross-chain perspectives.
 editLink: false
 sidebar: false
-lastUpdated: 2022/10/27
+date: 2022-10-27
 contributors: false
-
 ---
 
 # Mixin Network Establishes Strategic Partnership With Starcoin

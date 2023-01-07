@@ -3,7 +3,7 @@ title: Support blockchain Ethereum Classic
 description: Mixin Network now supports the 6th blockchain Ethereum Classic.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-04-21
 contributors: false
 ---
 

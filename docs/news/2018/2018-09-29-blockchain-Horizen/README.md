@@ -3,7 +3,7 @@ title: Support blockchain Horizen
 description: Mixin Network now supports the 14th blockchain Horizen.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2018-09-29
 contributors: false
 ---
 

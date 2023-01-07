@@ -3,7 +3,7 @@ title: Support blockchain Bytom
 description: Mixin Network now supports the 17th blockchain Bytom.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2019-07-05
 contributors: false
 ---
 

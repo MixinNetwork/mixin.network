@@ -3,9 +3,8 @@ title: zkTube Labs Establishes Strategic Partnership With Mixin Network
 description: zkTube Labs is pleased to announce a strategic partnership with Mixin Network. Through the partnership, the two parties will conduct in-depth collaboration in market promotion, network construction, and community expansion across the globe. 
 editLink: false
 sidebar: false
-lastUpdated: 2021/07/29
+date: 2021-07-29
 contributors: false
-
 ---
 
 # zkTube Labs Establishes Strategic Partnership With Mixin Network
