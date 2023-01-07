@@ -5,7 +5,6 @@ editLink: false
 sidebar: false
 date: 2022-02-17
 contributors: false
-date: 2023-01-01
 ---
 
 # Announcing Mixin Flutter Desktop Open Source

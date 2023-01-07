@@ -5,7 +5,6 @@ editLink: false
 sidebar: false
 date: 2022-11-21
 contributors: false
-date: 2022-11-21
 ---
 
 # Mixin Network was exhibited at Dubai Precious Metals Conference
