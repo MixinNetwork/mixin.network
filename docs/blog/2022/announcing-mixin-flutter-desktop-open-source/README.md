@@ -4,6 +4,7 @@ description: a new Mixin Messenger desktop version open source launched, using F
 editLink: false
 sidebar: false
 date: 2022-02-17
+cover: https://mixin.network/assets/mixin-desktop-099bfd9d.png
 contributors: false
 ---
 

@@ -4,6 +4,7 @@ description: Mixin Mainnet has been running. The statistics of popular assets ar
 editLink: false
 sidebar: false
 date: 2023-01-06
+cover: https://mixin.network/assets/monthly-46-ce09d7d6.png
 contributors: false
 ---
 

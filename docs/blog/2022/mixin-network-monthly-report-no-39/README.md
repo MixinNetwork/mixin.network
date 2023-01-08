@@ -4,6 +4,7 @@ description: The Mainnet has been running for 1188 days. The statistics of popul
 editLink: false
 sidebar: false
 date: 2022-06-03
+cover: https://mixin.network/assets/monthly-39-f4bc51f5.png
 contributors: false
 ---
 

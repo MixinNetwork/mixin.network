@@ -4,6 +4,7 @@ description: a Dubai-based Café, is the most recent business in the city to acc
 editLink: false
 sidebar: false
 date: 2022-04-07
+cover: https://mixin.network/assets/partnership-ded7e3e8.png
 contributors: false
 ---
 

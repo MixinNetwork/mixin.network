@@ -4,6 +4,7 @@ description: The statistics of popular assets in Mixin Network are listed. Ecosy
 editLink: false
 sidebar: false
 date: 2022-05-06
+cover: https://mixin.network/assets/monthly-38-b566fc50.png
 contributors: false
 ---
 

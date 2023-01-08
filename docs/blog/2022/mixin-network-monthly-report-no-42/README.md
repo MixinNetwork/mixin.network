@@ -4,6 +4,7 @@ description: Mixin Mainnet has been running for 1281 days. The statistics of pop
 editLink: false
 sidebar: false
 date: 2022-09-07
+cover: https://mixin.network/assets/monthly-42-26ca9cb1.png
 contributors: false
 ---
 

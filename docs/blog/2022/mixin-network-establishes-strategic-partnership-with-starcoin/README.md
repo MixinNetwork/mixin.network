@@ -4,6 +4,7 @@ description: Mixin Network is glad to announce a strategic partnership with Star
 editLink: false
 sidebar: false
 date: 2022-10-27
+cover: https://mixin.network/assets/starcoinmixin-68fb17c9.png
 contributors: false
 ---
 
