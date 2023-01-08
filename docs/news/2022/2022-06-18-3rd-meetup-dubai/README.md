@@ -3,7 +3,7 @@ title: "3rd Meet-up with MixPay and Yotta"
 description: offline meet-up held by Mixin Network and Yotta.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-06-18
 contributors: false
 ---
 

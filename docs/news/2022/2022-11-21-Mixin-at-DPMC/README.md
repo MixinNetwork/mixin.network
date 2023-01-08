@@ -1,9 +1,10 @@
 ---
-title: Live Future Club Event
+title: Mixin Network was exhibited at Dubai Precious Metals Conference
 description: event was held at Live Future Club by Scopernia. People were gathering together to share their thoughts about crypto. Scopernia expressed that they are looking at launching a web3 portal called Imagine3.
 editLink: false
 sidebar: false
 date: 2022-11-21
+cover: https://mixin.network/assets/mixincomtech-3f247921.jpg
 contributors: false
 ---
 

@@ -4,6 +4,7 @@ description: MVM, MixPay Updates and Bot Usage demonstrations was held successfu
 editLink: false
 sidebar: false
 date: 2022-09-10
+cover: https://mixin.network/assets/mvm-mixpay-9f985ed4.jpg
 contributors: false
 ---
 

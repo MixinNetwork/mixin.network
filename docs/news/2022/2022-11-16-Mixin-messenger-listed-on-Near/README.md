@@ -1,9 +1,10 @@
 ---
-title: Live Future Club Event
+title: Mixin Messenger has been listed on Near ecosystem
 description: event was held at Live Future Club by Scopernia. People were gathering together to share their thoughts about crypto. Scopernia expressed that they are looking at launching a web3 portal called Imagine3.
 editLink: false
 sidebar: false
 date: 2022-11-16
+cover: https://mixin.network/assets/neareco-365ad932.jpeg
 contributors: false
 ---
 
