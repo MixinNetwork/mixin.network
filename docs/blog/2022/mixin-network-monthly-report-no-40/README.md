@@ -4,6 +4,7 @@ description: Top 100 assets of Mixin Network reach a total market value of $932,
 editLink: false
 sidebar: false
 date: 2022-07-06
+cover: https://mixin.network/assets/monthly-40-e9efbb7c.jpeg
 contributors: false
 ---
 

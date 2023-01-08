@@ -4,6 +4,7 @@ description: a decentralized crypto payment service platform built on Mixin Netw
 editLink: false
 sidebar: false
 date: 2022-06-22
+cover: https://mixin.network/assets/mixpay-dc5d9847.png
 contributors: false
 ---
 

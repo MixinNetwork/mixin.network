@@ -4,6 +4,7 @@ description: MixinWalletBot, it could help Telegram users to store and transfer 
 editLink: false
 sidebar: false
 date: 2022-07-13
+cover: https://mixin.network/assets/wallet-bot-246d3545.png
 contributors: false
 ---
 

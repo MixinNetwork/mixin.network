@@ -4,6 +4,7 @@ description: Mixin Network builds partnership with YottaChain International Hold
 editLink: false
 sidebar: false
 date: 2022-03-09
+cover: https://mixin.network/assets/yottachainpartnership-7389135c.png
 contributors: false
 ---
 
