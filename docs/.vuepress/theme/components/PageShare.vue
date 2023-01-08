@@ -19,8 +19,9 @@ export default {
   methods: {
     share: function (ev, protocol) {
       const f = ((protocol) => {
-        const twUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(this.url)}&ref=twitbtn&text=${encodeURIComponent(this.text + " #Pando")}`
-        const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(this.url)}&t=${encodeURIComponent(this.text)}`
+        const text = `${this.text} @Mixin_Network #MixinNetwork `;
+        const twUrl = `https://twitter.com/intent/tweet?url=${encodeURIComponent(this.url)}&ref=twitbtn&text=${encodeURIComponent(text)}`
+        const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(this.url)}&t=${encodeURIComponent(text)}`
         const urls = {
           twitter: twUrl,
           facebook: fbUrl,
