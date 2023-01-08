@@ -4,6 +4,7 @@ description: During Future Blockchain Summit FBS Week, an excellent Crypto After
 editLink: false
 sidebar: false
 date: 2022-10-14
+cover: https://mixin.network/assets/afterparty-14387217.jpg
 contributors: false
 ---
 

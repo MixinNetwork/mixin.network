@@ -4,6 +4,7 @@ description: event was held at Live Future Club by Scopernia. People were gather
 editLink: false
 sidebar: false
 date: 2022-09-15
+cover: https://mixin.network/assets/live-future-cb22555d.png
 contributors: false
 ---
 

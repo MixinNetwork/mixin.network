@@ -4,6 +4,7 @@ description: Mixin Network held a crypto meetup together with Bake N More. In th
 editLink: false
 sidebar: false
 date: 2022-05-14
+cover: https://mixin.network/assets/crypto-meetup-08940bfd.jpg
 contributors: false
 ---
 

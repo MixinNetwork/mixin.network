@@ -4,6 +4,7 @@ description: The Web3Dubai Developer Conference successfully took place in Le Me
 editLink: false
 sidebar: false
 date: 2022-11-17
+cover: https://mixin.network/assets/day1-3-2e0bcc6a.jpg
 contributors: false
 ---
 

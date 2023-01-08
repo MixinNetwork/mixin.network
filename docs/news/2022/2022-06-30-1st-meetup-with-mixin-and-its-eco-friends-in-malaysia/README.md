@@ -4,6 +4,7 @@ description: The Mixin team's first offline meetup in Kuala Lumpur Malaysia was 
 editLink: false
 sidebar: false
 date: 2022-07-30
+cover: https://mixin.network/assets/meetup-in-malaysia-ef77442f.jpg
 contributors: false
 ---
 

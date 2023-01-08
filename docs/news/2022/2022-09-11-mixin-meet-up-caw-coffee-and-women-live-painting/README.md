@@ -4,6 +4,7 @@ description: offline meet-up CAW (Coffee and Women) Live Painting event was suce
 editLink: false
 sidebar: false
 date: 2022-09-11
+cover: https://mixin.network/assets/live-painting-44304660.png
 contributors: false
 ---
 

@@ -3,7 +3,7 @@ title: "Mixin Networking Crypto lftar Meet-up"
 description: offline meet-up held by Mixin Network and Bake N More.
 editLink: false
 sidebar: false
-lastUpdated: false
+date: 2022-04-20
 contributors: false
 ---
 
