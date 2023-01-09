@@ -4,6 +4,7 @@ description: offline meet-up held by Mixin Network and Bake N More.
 editLink: false
 sidebar: false
 date: 2022-04-20
+cover: https://mixin.network/assets/banner-1c898850.png
 contributors: false
 ---
 

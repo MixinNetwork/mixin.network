@@ -7,7 +7,11 @@ date: 2022-10-27
 contributors: false
 ---
 
-Mixin Network now supports the 44th blockchain Starcoin, the token ticker is STC, the official website is https://starcoin.org/en/.
+Mixin Network now supports the 44th blockchain 
+
+![stc-support](./stc-support.png)
+
+Starcoin, the token ticker is STC, the official website is https://starcoin.org/en/.
 
 Starcoin is a proof-of-work blockchain that enables secure smart contracts based on Move to power services in Web 3.0.
 

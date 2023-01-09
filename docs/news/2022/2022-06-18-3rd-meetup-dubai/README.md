@@ -4,6 +4,7 @@ description: offline meet-up held by Mixin Network and Yotta.
 editLink: false
 sidebar: false
 date: 2022-06-18
+cover: https://mixin.network/assets/banner-0ed3a950.png
 contributors: false
 ---
 

@@ -7,6 +7,8 @@ date: 2022-10-20
 contributors: false
 ---
 
+![apt-support](./apt-support.png)
+
 Mixin Network now supports the 43rd blockchain Aptos, the token ticker is APT, the official website is https://aptosfoundation.org/.
 
 Aptos is a Layer 1 blockchain created for safe development, and built with user experience as a core focus.
