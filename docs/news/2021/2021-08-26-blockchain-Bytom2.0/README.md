@@ -4,6 +4,7 @@ description: Mixin Network now supports the 37th blockchain Bytom2.0.
 editLink: false
 sidebar: false
 date: 2021-08-26
+cover: https://mixin.network/assets/bytom-support-71c765ca.png
 contributors: false
 ---
 

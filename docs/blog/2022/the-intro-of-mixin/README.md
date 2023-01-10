@@ -4,6 +4,7 @@ description: Mixin is a free, lightning-fast, and decentralized network for tran
 editLink: false
 sidebar: false
 date: 2022-06-01
+cover: https://mixin.network/assets/mixin-network-e881b5e8.png
 contributors: false
 ---
 

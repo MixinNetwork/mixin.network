@@ -4,6 +4,7 @@ description: Mixin Network now supports the 41st blockchain NEAR Protocol.
 editLink: false
 sidebar: false
 date: 2021-11-02
+cover: https://mixin.network/assets/near-support-066896b3.png
 contributors: false
 ---
 

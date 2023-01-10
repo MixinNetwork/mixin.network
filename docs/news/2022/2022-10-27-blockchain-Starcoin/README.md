@@ -4,6 +4,7 @@ description: Mixin Network now supports the 44th blockchain Starcoin.
 editLink: false
 sidebar: false
 date: 2022-10-27
+cover: https://mixin.network/assets/stc-support-49965c13.png
 contributors: false
 ---
 

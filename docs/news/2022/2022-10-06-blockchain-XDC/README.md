@@ -4,6 +4,7 @@ description: Mixin Network now supports the 42nd blockchain XDC Network.
 editLink: false
 sidebar: false
 date: 2022-10-06
+cover: https://mixin.network/assets/xdc-support-86f36cf1.png
 contributors: false
 ---
 
