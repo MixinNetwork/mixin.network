@@ -4,6 +4,7 @@ description: Mixin Network now supports the 36th blockchain Arweave.
 editLink: false
 sidebar: false
 date: 2021-05-15
+cover: https://mixin.network/assets/arweave-294895b3.png
 contributors: false
 ---
 

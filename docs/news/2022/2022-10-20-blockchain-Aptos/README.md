@@ -4,6 +4,7 @@ description: Mixin Network now supports the 43rd blockchain Aptos.
 editLink: false
 sidebar: false
 date: 2022-10-20
+cover: https://mixin.network/assets/apt-support-2ac07d1e.png
 contributors: false
 ---
 

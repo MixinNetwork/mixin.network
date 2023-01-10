@@ -4,6 +4,7 @@ description: JPYC is a JPY-pegged stablecoin, legally dealt as a Prepaid Payment
 editLink: false
 sidebar: false
 date: 2021-11-15
+cover: https://mixin.network/assets/trade-jpyc-ec90d78e.png
 contributors: false
 ---
 
