@@ -9,6 +9,8 @@ contributors: false
 
 # The Introduction of Mixin Network
 
+![mixin-network](./mixin-network.png)
+
 ## Short Brief
 Mixin is a free, lightning-fast, and decentralized network for transferring digital assets. It helps the existing distributed ledgers, such as BTC, ETH, and EOS, to obtain billions of TPS, sub-second confirmation, zero transfer costs, enhanced privacy, and unlimited scalability.
 ## Basic info
