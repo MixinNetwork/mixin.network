@@ -1,0 +1,21 @@
+{
+  "id": "7000104341",
+  "mixin_id": "7000104341",
+  "client_id": "65334040-1fd0-4142-98ce-4fbd0e81aaab",
+  "launch_url": "http://mixchat.one/",
+  "intro_url": "http://mixchat.one/",
+  "developer": {
+    "name": "MumuWu",
+    "url": "https://github.com/vwumumu"
+  },
+  "name": {
+    "en": "MixChat",
+    "zh": "MixChat"
+  },
+  "text": {
+    "en": ["A conversational robot powered by ChatGPT and aggregating various information."],
+    "zh": ["支持ChatGPT及聚合各类信息的对话式机器人"]
+  },
+  "category": "Tool",
+  "languages": ["zh"]
+}
