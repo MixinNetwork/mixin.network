@@ -2,8 +2,8 @@
   "id": "7000104341",
   "mixin_id": "7000104341",
   "client_id": "65334040-1fd0-4142-98ce-4fbd0e81aaab",
-  "launch_url": "http://mixchat.one/",
-  "intro_url": "http://mixchat.one/",
+  "launch_url": "https://vwumumu.github.io/mixchat-docs/docs/intro/",
+  "intro_url": "https://vwumumu.github.io/mixchat-docs/docs/intro/",
   "developer": {
     "name": "MumuWu",
     "url": "https://github.com/vwumumu"
