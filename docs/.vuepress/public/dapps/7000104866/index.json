@@ -1,0 +1,18 @@
+{
+  "id": "7000104866",
+  "client_id": "5c96d930-a946-4d59-9291-256626d61713",
+  "launch_url": "http://8.210.197.144/caip/index.html",
+  "intro_url": "https://quill.im/articles/4ff0d9b8-bcc7-4d14-ad15-bf2a516e7dc9",
+  "developer": {
+    "name": "比热",
+    "url": "https://mixin.one/codes/2f862a81-1b56-4979-88e9-1df772d1454f"
+  },
+  "name": {
+    "en": "LOTO7"
+  },
+  "text": {
+    "en": ["Japanese national lottery LOTO7 purchasing robot. It is another kind, but more interesting fixed period investment. Let us suddenly become rich together. "]
+  },
+  "category": "other",
+  "languages": ["en", "ja", "zh"]
+}
