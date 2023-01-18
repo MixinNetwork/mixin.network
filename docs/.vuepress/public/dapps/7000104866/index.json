@@ -1,7 +1,7 @@
 {
   "id": "7000104866",
   "client_id": "5c96d930-a946-4d59-9291-256626d61713",
-  "launch_url": "http://8.210.197.144/caip/index.html",
+  "launch_url": "https://api.loto7.cyou/caip/index.html",
   "intro_url": "https://quill.im/articles/4ff0d9b8-bcc7-4d14-ad15-bf2a516e7dc9",
   "developer": {
     "name": "比热",
@@ -11,7 +11,13 @@
     "en": "LOTO7"
   },
   "text": {
-    "en": ["1種の日本の国民の宝くじloto7ロボットを代理購入して、宝くじであなたの異なる種類の必ず投げる旅を開いて、私達にいっしょに突然豊かになるようにしましょう","一款日本国民彩票loto7代购机器人，用彩票开启你的另类定投之旅，让我们一起突然变富吧","Japanese national lottery LOTO7 purchasing robot. It is another kind, but more interesting fixed period investment. Let us suddenly become rich together. "]
+    "ja": ["1種の日本の国民の宝くじloto7ロボットを代理購入して、宝くじであなたの異なる種類の必ず投げる旅を開いて、私達にいっしょに突然豊かになるようにしましょう"]
+  },
+   "text": {
+    "en": ["Japanese national lottery LOTO7 purchasing robot. It is another kind, but more interesting fixed period investment. Let us suddenly become rich together. "]
+  },
+   "text": {
+    "zh": ["一款日本国民彩票loto7代购机器人，用彩票开启你的另类定投之旅，让我们一起突然变富吧"]
   },
   "category": "other",
   "languages": ["en", "ja", "zh"]
