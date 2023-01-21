@@ -1,0 +1,20 @@
+{
+  "id": "7000104764",
+  "client_id": "6bb4ad86-0eb7-48f2-87b8-43ba24568b30",
+  "launch_url": "https://mixinbot.tooonly.com/10000/launch",
+  "intro_url": "https://mixinbot.tooonly.com/10000/home",
+  "developer": {
+    "name": "tooonly",
+    "url": "https://github.com/tooonly"
+  },
+  "name": {
+    "en": "Quit Mixin",
+    "zh": "退出登录"
+  },
+  "text": {
+    "zh": ["给我发个消息，我将帮助你退出Mixin Messenger."],
+    "en": ["Send me a message and I will help you quit Mixin Messenger"]
+  },
+  "category": "tools",
+  "languages": ["zh","en"]
+}
