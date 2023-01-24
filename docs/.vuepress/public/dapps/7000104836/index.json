@@ -1,0 +1,21 @@
+{
+  "id": "7000104836",
+  "mixin_id": "7000104836",
+  "client_id": "ceec3083-a058-47b0-8f77-b9582d244688",
+  "launch_url": "https://mifiswap.imlidian.com",
+  "intro_url": "https://mifiswap.org",
+  "developer": {
+    "name": "Bubiji Team",
+    "url": "https://github.com/bubiji/"
+  },
+  "name": {
+    "en": "Mifiswap",
+    "zh": "Mifiswap"
+  },
+  "text": {
+    "zh": ["MifiSwap通过拆单策略，帮你换取更多数字货币"],
+    "en": ["More Orders More Coins"]
+  },
+  "category": "exchange",
+  "languages": [ "en", "zh"]
+}
