@@ -71,7 +71,7 @@ contributors: false
 
 ### Others
 - **Jan 03, 2023** The first Chinese artist who won the Japan Art Museum Award published the limited edition of Golden Rabbit NFT in Trident; all works have sold out quickly.
-- **Jan 06, 2023** The Telegram wallet Bot MixinBot has been recommended among the TON communities as [it has supported the TON Network](https://t.me/toncoin/709).
+- **Jan 06, 2023** The Telegram wallet Bot [MixinBot](https://t.me/MixinBot) has been recommended among the TON communities as [it has supported the TON Network](https://t.me/toncoin/709).
 - **Jan 13. 2023** Trader Escapist made her frist live video on Mixin.
 - **Jan 18, 2023** BigONE Trading Bot (7000104779) goes live on grid trading.
 - **Jan 20, 2023** Mixin Safe completed its first BTC transaction. The system covers three key technologies: multiple signatures, MPC multi-party calculation, and transaction timelock. It requires five identities: Kernel, Holder, Signer, Accountant, and Observer to enroll together.
