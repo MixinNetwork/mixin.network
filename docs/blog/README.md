@@ -9,6 +9,10 @@ contributors: false
 
 # Mixin Network Blog
 
+## 2023
+- [Mixin Network Monthly Report - No.47](./2023/mixin-network-monthly-report-no-47/)
+- [Mixin Network Monthly Report - No.46](./2023/mixin-network-monthly-report-no-46/)
+
 ## 2022
 
 - [Mixin Network Monthly Report — No.46](./2022/mixin-network-monthly-report-no-46/)
