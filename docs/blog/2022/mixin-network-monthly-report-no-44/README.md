@@ -37,6 +37,7 @@ contributors: false
 | DOGE       | 72,118,533(-564,544)   | 819,614   |
 | UNI        | 987,079(+15,474)       | 69,236    |
 | RUM        | 3,836,102(+285)        | 4,289     |
+
   **The above data was collected around 20:00 (UTC+4) on October 31, 2022**
 
 ## Mixin Dapps

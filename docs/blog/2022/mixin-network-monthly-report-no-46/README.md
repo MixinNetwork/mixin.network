@@ -38,6 +38,7 @@ contributors: false
 | UNI         | 1,049,114        | 81,419    |
 | RUM         | 3,844,969        | 8,643     |
 | USDT(TRC20) | 3,733,231        | 38,098    |
+
   **The above data was collected around 12:00 (UTC+4) on Jan. 01, 2023**
 
 ## Mixin Dapps
