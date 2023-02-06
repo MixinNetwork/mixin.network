@@ -34,7 +34,7 @@ contributors: false
 | UNI	     | 1,063,490 (+48,104)	            | 14,375   |
 | RUM        | 3,847,142 (+2,173)	            | 6,243   |
 | DOT        | 579,128 (+10,698)            	| 100,847    |
-  **The above data was collected around 20:00(UTC+4) on Feb 2, 2023.**
+ **The above data was collected around 20:00(UTC+4) on Feb 2, 2023.**
 
 ## Mixin Dapps
 
