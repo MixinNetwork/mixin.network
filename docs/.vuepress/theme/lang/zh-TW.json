@@ -91,7 +91,7 @@
   "network.nodes.create.btn": "了解更多",
   "network.nodes.join.title": "加入節點的方式",
   "network.nodes.join.way_1.title": "Big.One",
-  "network.nodes.join.way_1.em": "https://big.one/tw/mixin",
+  "network.nodes.join.way_1.em": "https://big.one/mixin",
   "network.nodes.join.way_1.desc": "BigONE共建Mixin節點生態系統，與您合作創建XIN節點。",
   "messenger.features.title": "更多功能。",
   "messenger.features.encrypted": "全部消息已加密。",
