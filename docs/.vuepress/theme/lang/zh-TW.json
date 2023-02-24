@@ -78,7 +78,7 @@
   "network.explorers.mvm.title": "MVM 區塊瀏覽器",
   "network.explorers.mvm.desc": "用於MVM的區塊瀏覽器",
   "network.explorers.space.title": "Mixin 空間",
-  "network.explorers.space.desc": "一個分析主網節點的區塊瀏覽器",
+  "network.explorers.space.desc": "",
   "network.explorers.node.title": "節點分析器",
   "network.explorers.node.desc": "一個分析主網節點的區塊瀏覽器",
   "network.explorers.snapshots.title": "快照區塊瀏覽器",
