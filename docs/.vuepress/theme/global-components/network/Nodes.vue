@@ -30,7 +30,7 @@
             {{ $t("network.nodes.join.title") }}
           </h3>
           <div class="approaches">
-            <a class="approach" href="https://big.one/tw/mixin">
+            <a class="approach" href="https://big.one/mixin">
               <div class="approach-num">1</div>
               <div class="approach-content">
                 <h4 class="approach-title">
