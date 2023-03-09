@@ -5,6 +5,7 @@
   "author": "Lyric <5h3ll3x@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "vuepress dev docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
