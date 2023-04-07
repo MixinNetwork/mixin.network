@@ -8,7 +8,7 @@ contributors: false
 article: false
 ---
 
-<comm-slogan :prefix="[ '暗号通貨ウォレットが必要ですか?', '誰かにメッセージを送りたいですか？', 'すべて Mixin Messenger で。' ]" suffix="今すぐダウンロード" icon="/images/icons/icon-download-blue.svg"/>
+<comm-slogan :prefix="[ '暗号通貨ウォレットが必要ですか?', '誰かにメッセージを送りたいですか？', 'すべて Mixin Messenger で。' ]" suffix="今すぐダウンロード" icon="/images/icons/icon-download-blue.svg" url="#download"/>
 
 <messenger-hero />
 
