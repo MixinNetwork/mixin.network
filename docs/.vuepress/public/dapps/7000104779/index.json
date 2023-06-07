@@ -1,0 +1,22 @@
+{
+  "id": "7000104779",
+  "mixin_id": "7000104779",
+  "client_id": "55c9d8c6-a0f5-41bf-8e7f-55810d6f743e",
+  "launch_url": "https://jakiro.b1.zone",
+  "intro_url": "https://bigone.com",
+  "developer": {
+    "name": "BigONE",
+    "url": "https://bigone.com/"
+  },
+  "name": {
+    "ja": "Trading Bot",
+    "en": "Trading Bot",
+    "zh": "Trading Bot"
+  },
+  "text": {
+    "en": ["Trading bot is a fast trading product specially provided for Mixin users. This product has more personalized revenue statistics and richer order types. Easily trade token on BigONE without registration."],
+    "zh": ["Trading Bot 为 Mixin 用户提供了更便捷的现货交易、更个性的收益统计、更丰富的订单类型和自动化低买高卖的网格交易量化策略。无需注册即可轻松交易 BigONE 上的币种。"]
+  },
+  "category": "exchange",
+  "languages": ["en", "zh"]
+}
