@@ -79,6 +79,7 @@
   "dev.featured.document": "Document",
   "dev.featured.references": "References",
   "dev.tutorials": "Tutorials",
+  "dev.third_party": "3rd-party Development Documents",
 
   "network.title": "Explore transactions, nodes, and activities taking palce on Mixin.",
   "network.stat.asset": "Assets",

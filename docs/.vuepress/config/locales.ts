@@ -25,7 +25,7 @@ export function genLocales() {
         { text: locale.messages['nav.ecosystem'], link: `${locale.base}dapps` },
         { text: locale.messages['nav.developers'], link: `${locale.base}developers` },
         { text: locale.messages['nav.network'], link: `${locale.base}network` },
-        { text: locale.messages['nav.messenger'], link: `${locale.base}messenger` },
+        { text: locale.messages['nav.messenger'], link: `https://mixin.one/messenger` },
         { text: locale.messages['nav.community'],
           children: [
             { text: locale.messages['nav.community.index'], link: `/community` },

@@ -1,20 +1,31 @@
 <template>
   <div class="text-center pt-8 pb-8 md:pb-20">
     <h2 class="tutorials-sec-title text-2xl md:text-4xl font-bold mb-20">
-      {{ $t("dev.tutorial") }}
+      {{ $t("dev.third_party") }}
     </h2>
     <div class="tutorials grid gap-0 grid-cols-1 md:grid-cols-2">
       <a
         class="tutorial flex items-center text-left mx-0 md:mx-4"
-        v-for="(tut, ix) in tutorials"
-        :key="`tut-${ix}`"
-        :href="tut.url"
+        href="https://developers.pando.im"
+        title="Pando Developer Documentation"
       >
         <div class="tutorial-icon mr-4">
           <span class="icon-doc-blue"></span>
         </div>
         <h3 class="tutorial-title text-base font-bold">
-          {{ tut.title }}
+          Pando Developer Documentation
+        </h3>
+      </a>
+      <a
+        class="tutorial flex items-center text-left mx-0 md:mx-4"
+        href="https://docs-option-dance.pages.dev"
+        title="OptionDance Developer Documentation"
+      >
+        <div class="tutorial-icon mr-4">
+          <span class="icon-doc-blue"></span>
+        </div>
+        <h3 class="tutorial-title text-base font-bold">
+          OptionDance Developer Documentation
         </h3>
       </a>
     </div>

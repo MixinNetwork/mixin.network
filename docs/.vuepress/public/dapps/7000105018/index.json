@@ -1,0 +1,28 @@
+{
+  "id": "7000105018",
+  "client_id": "44a80608-8512-45e8-8797-e75d801f413d",
+  "launch_url": "https://app.pando.im",
+  "intro_url": "https://pando.im",
+  "developer": {
+    "name": "Pando",
+    "url": "https://pando.im"
+  },
+  "name": {
+    "en": "Pando",
+    "zh": "Pando",
+    "ja": "Pando"
+  },
+  "text": {
+    "en": [
+      "Pando is a set of comprehensive easy-to-use Decentralized finance(DeFi) protocols, built with blockchain-based technology."
+    ],
+    "zh": [
+      "Pando 是一套全面且易于使用的去中心化金融 (DeFi) 协议，采用基于区块链的技术构建"
+    ],
+    "ja": [
+      "Pando は、ブロックチェーンベースのテクノロジーで構築された、包括的で使いやすい分散型金融 (DeFi) プロトコルのセットです。"
+    ]
+  },
+  "category": "defi",
+  "languages": ["en", "ja", "zh", "de", "es", "ko"]
+}
