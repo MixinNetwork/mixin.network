@@ -1,0 +1,23 @@
+{
+    "id": "7000104845",
+    "client_id": "2a7ec210-6f16-4466-9c50-436052839d3a",
+    "launch_url": "https://feed.base.one",
+    "intro_url": "https://feed.base.one",
+    "developer": {
+      "name": "小助手",
+      "url": "https://feed.base.one/users/0xdc84CA5ABC221CF93B1D66EFadBd045468b4f5b3"
+    },
+    "name": {
+      "en": "Rum Feed Web",
+      "ja": "Rum Feed Web",
+      "zh": "Rum 微博广场"
+    },
+    "text": {
+      "en": ["Decentralized social platform similar to Twitter based on the Rum Network"],
+      "ja": ["Rumネットワークを基盤とした分散型のTwitter風ソーシャルプラットフォーム"],
+       "zh": ["基于 Rum Network 的去中心化的内容发布社交平台"]
+    },
+    "category": "social",
+    "languages": ["en", "ja", "zh"]
+  }
+  
