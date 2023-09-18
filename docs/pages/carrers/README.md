@@ -1,5 +1,5 @@
 ---
-title: Carrers
+title: Careers
 description: 
 sidebar: false
 ---
