@@ -1,6 +1,6 @@
 ---
-title: 当前 Mixin 主网和其他周边服务的恢复情况
-description: 当前 Mixin 主网和其他周边服务的恢复情况
+title: Service statuses of Mixin Network, and the products and protocols in its ecosystem 
+description: Service statuses of Mixin Network, and the products and protocols in its ecosystem 
 editLink: false
 sidebar: false
 article: true
@@ -8,89 +8,105 @@ lastUpdated: false
 contributors: false
 ---
 
-## 当前 Mixin 主网和其他周边服务的恢复情况
+## Service status of Mixin Network, and the products and protocols in its ecosystem 
 
-### Mixin 
+Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article. 
+阅读本文中文版，请前往[此处](https://mixin.network/zh/recovery/)。
 
-**Mixin 新主网钱包**
+### Mixin Network 
 
-- 涉及功能：转账与储值
-- 当前状态：
-  - ✅ 可以将大部分旧钱包中的资产，**单向迁移**到新钱包
-  - ⏸️ 新主网充值和提现功能**暂停**
-  - ❌ 旧主网提现功能**停止**，⏸️ 充值功能**暂停**，（这里要补充，什么样的提现会生效，什么样的充值会生效）
-- 备注：升级 1.0 版本 Mixin Messenger 以后，进入右下角钱包，点击最上面的蓝条，才能进行手工迁移。
+**Mixin Wallet**
+
+- Functions in question: transaction, withdrawal and deposit 
+- Current status:
+  - ✅ The New Mixin Mainnet has been launched. Users can migrate most types of their crypto assets in the wallets from the old Mixin Mainnet to the  new Mainnet **uni-directionally** but not reversely. 
+  - ⏸️ Withdrawals and deposits on the new Mixin Network are still suspended. The functions will be resumed soon.
+  - ⏸️ Deposits on the old Mixin Network are suspended. 
+    - If you have made deposits to Mixin Network using MVM bridge or Fennec wallet after the network suspended deposits and haven't received the deposits yet, please fill the form https://forms.gle/zFAwfggvd442WaJ68 and join [Mixin customer support group](https://t.me/mvmbridge) on Telegram to report the issue.
+  - ❌ Withdrawals on the old Mixin Network has been permanently disabled. To withdraw, please migrate your assets to the new Mixin Network and wait for the resumption of the withdrawal function. 
+- Notes: you need to upgrade your Mixin Messenger app to the 1.0 version or above to be able to migrate your assets. To migrate, first enter Mixin wallet by clicking on the "wallet" icon on the bottom left of the screen, then click on the blue banner on the top of the page. You can also migrate by adding Safe Network Migration (Mixin ID: 7999194743) and clicking on bot icon to continue. 
 
 ### Pando
 
-> 关于 Pando各协议及产品目前运行状态及使用常见问题指引 的详情请参考：[这篇文章](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3)
+> For the operational statuses of Pando protocols and products, and the frequently asked requestions regarding Pando services, please check [this article](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3) (writen in Chinese).  
 
 **Pando Swap**
 
-- 涉及功能：Swap 交易、挂单交易、流动性管理
-- 当前状态：
-  - ✅ 可添加和提取流动性
-  - ⏸️ 其他所有功能**暂停**。
-- 计划：未来在新、旧主网分别重启，提供交易，暂无确切的重启时间。
-- 备注：建议提取所有包含 USDT、BTC、ETH、BOX 的流动性资产。其他流动性资产可不提取。操作方式请参考[这篇文章](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3)。
+- Functions in question: Swap trading, limit order trading, liquidity management (including adding and removing liquidity) 
+- Current status:
+  - ✅ Liquidity management function including adding and removing liquidity has been resumed. 
+  - ⏸️ Trading is still suspended. 
+- Future plans: 
+  - Pando Swap will be operated **independently** on both the new and old Mixin Networks in the future. Trading function will be available on both networks but the exact timetable is yet to be announced. 
+- Notes: it's recommended that all liquidity involving USDT (ERC20), BTC, ETH and/or BOX be removed now to prevent losses resulting from changes in asset prices once the trading function resumes. For liquidity not involving the above mentioned cryptocurrencies, no action is needed at the moment. For details, please check [this article](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3).  
 
 **Pando Leaf**
 
-- 涉及功能：铸币、还款、提取质押物
-- 当前状态：
-  - ✅ 只能**全额还款**；**无债务**的情况下可以提取质押物；
-  - ⏸️ **暂停**计息和清算。
-- 计划：
-  - 未来在新、旧主网分别重启。
-  - 其中新主网提供完整 Leaf 功能，旧主网 Leaf 会关闭铸币，但是允许部分还款和提现，暂无确切的重启时间。
-  - 提供 pUSD 双向桥，可以从新主网转换 pUSD 到旧主网。
-- 备注：建议提取 sETH-BTC 质押物，其他金库可以不操作
+- Functions in question: stablecoin minting, loan repayment, collateral redemption 
+- Current status: 
+  - ✅ Loan repayment must be made in one installment; partial repayment is temperarily not supported.   
+  - ✅ Collateral can be redeemed only when loans are **100% paid off**. 
+  - ⏸️ Debt interest accural and liquidation are both suspended. 
+- Future plans:
+  - Pando Leaf will be operated **independently** on both the new and old Mixin Networks in the future.   
+  - Leaf on the new Mixin Network will have the full set of functions while the Leaf on the old network will only allow for loan repayment and collateral redemption but discontinue the stablecoin minting function. The exact timetable is yet to be announced.
+  - A two-way pUSD bridge will be provided where users can transfer pUSD between the old Mixin Network and the new one. 
+- Notes: it's recommended that the collateral sETH-BTC be redeemed as it's the liquidity provider token of the liquidity pair ETH/BTC in Pando Swap and the reason for withdrawing its liquidity is mentioned in the above Pando Swap section. For all other types of collateral, no action is needed at the moment. 
 
 **Pando Rings**
 
-- 涉及功能：提供资金、质押、借款、还款、提取质押物
-- 当前状态：
-  - ✅ 只能**全额还款**；**无债务**的情况下可以提取 LP-Token 质押物；
-  - ⏸️ **暂停**计息和清算。
-- 计划：
-  - 未来在旧主网重启。
-  - 旧主网 Rings 会关闭借款，但是允许部分还款和提现，暂无确切的重启时间。
-- 备注：建议提取所有包含 USDT、BTC、ETH、BOX 的 LP-Token 质押物。
+- Functions in question: supplying assets, pledging assets, borrowing assets, repaying loans, and redeeming assets
+- Current status: 
+  - ✅ Collateral that are LP tokens (Liquidity Provider Token) can be redeemed only when loans are **100% paid off**. (Redemption of other types of collateral is not resumed yet.)
+  - ⏸️ Debt interest accural and liquidation are both suspended. 
+- Future plans:
+  - Rings will resume operation on the old Mixin Network (but not yet have plans to operate on the new network).
+  - Rings on the old network will discontinue asset borrowing, but allow for partial loan repayment and asset redemption.  The exact timetable is yet to be announced.
+- Notes: it's recommended that the all **LP-Token** collateral (non-LP-Token collateral are not included) involving USDT (ERC20), BTC, ETH and/or BOX be redeemed for the reason mentioned in the Pando Swap section. 
 
-**XIN 节点**
+**Shares in the XIN Node**
 
-- 涉及功能：购买和赎回 XIN 节点份额
-- 当前状态：
-  - ✅ **开放**购买和赎回，但是由于新主网迁移，⏸️ **暂停**发放收益。
-- 计划：会自动迁移到新主网。
-- 备注：不需要额外操作，未来会自动迁移到新主网。
+- Functions in question: buying and redeeming shares of XIN Node
+- Current status:
+  - ✅  both buying and redeeming shares of XIN Node are available  
+  - ⏸️ Profit distribution is currently suspended due to the Mixin network migration. The profits will be paid retroactively when the migration is finished. 
+- Future plans:
+  - Users' purchased shares will be automatically migrated to the new Mixin Network. 
+- Notes: no action is not needed on the users' end. 
 
-**BOX 资深理财**
+**BOX Exclusive Wealth Management**
 
-- 涉及功能：购买和赎回 资深 BOX 理财份额
-- 当前状态：⏸️ **暂停**购买和赎回。
-- 计划：会自动迁移到新主网。
-- 备注：不需要额外操作，未来会自动迁移到新主网，并且开放赎回和买入，并且发放对应的 Mixin 债券。
+- Functions in question: buying and redeeming shares of BOX Exclusive Wealth Management Product 
+- Current status:
+  - ⏸️ both buying and redeeming shares are suspened. 
+- Future plans:
+  - Users' purchased shares will be automatically migrated to the new Mixin Network. 
+- Notes: no action is needed on the users' end. All shares will be automatically migrated to the new Mixin Network. After the migration, buying and redeeming of shares will be resumed and users with shares will receive corresponding Mixin bonds in accordance with the amount of tokens they hold. 
 
 **B.watch**
 
-- 涉及功能：购买和赎回 BOX 成分
-- 当前状态：⏸️ **暂停**购买和赎回。
-- 备注：不需要额外操作，未来会自动迁移到新主网，并且开放赎回和买入。
+- Functions in question: buying and redeeming underlying crypto assets of BOX
+- Current status:
+  - ⏸️ both the buying and redeeming of the assets are suspended.
+- Notes: no action is needed on the users' end. The service will be automatically migrated to the new Mixin Network. Once the migration is concluded, the buying and redeeming of the underlying assets of BOX will be resumed. 
 
 **BEE.holdings**
 
-- 涉及功能：购买和赎回 BEE 成分
-- 当前状态：⏸️ **暂停**购买和赎回。具体方案尚未确定。
-- 备注：不需要额外操作。
+- Functions in question: buying and redeeming underlying crypto assets of BEE 
+- Current status:
+  - ⏸️ both the buying and redeeming of the assets are suspended.
+- Notes: no action is needed on the users' end. Plan for migration is yet to be announced. 
 
 ### Exin 
 
-- 涉及功能：Swap 交易、挂单交易、定投、借贷；
-- 当前状态：所有功能在旧系统内均可用，相关交易请使用 USDT-TRC20，目前暂不支持新系统资产交易，展示的钱包为旧系统钱包；
-- 计划：力争 11 月内迁移至新系统内，用户无需操作，相关资产迁移会自动完成。
+- Functions in question: Swap trading, limit order trading, regular investment, and loans
+- Current status:
+  - All services are available now in the old Mixin Network. 
+  - Only USDT(TRC20) is supported in trading. 
+  - New network is not yet suppprted for all its services. 
+  - Users' Exin wallet only show the assets on the old Mixin Network.
 
 ### Big.ONE
 
-待补充
+(To be added)
 
