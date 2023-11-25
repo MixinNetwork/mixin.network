@@ -57,7 +57,7 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 
 - Functions in question: supplying assets, pledging assets, borrowing assets, repaying loans, and redeeming assets
 - Current status: 
-  - ✅ Collateral that are LP tokens (Liquidity Provider Token) can be redeemed only when loans are **100% paid off**. (Redemption of other types of collateral is not resumed yet.)
+  - ✅ Collateral can be redeemed only when loans are **100% paid off**. (Redemption of other types of collateral is not resumed yet.)
   - ⏸️ Debt interest accural and liquidation are both suspended. 
 - Future plans:
   - Rings will resume operation on the old Mixin Network (but not yet have plans to operate on the new network).
