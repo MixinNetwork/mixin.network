@@ -106,7 +106,35 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
   - New network is not yet suppprted for all its services. 
   - Users' Exin wallet only show the assets on the old Mixin Network.
 
-### Big.ONE
 
-(To be added)
+### BigONE
+
+- Functions in question: Transfer
+- Current status:
+  - The old network USDT corresponds to USDT (ERC20), BTC and ETH cannot be transferred, and others remain normal.
+- Future plans: The old network remains in its current state, and the new network supports all fund transfers.
+- Notes: The transfer operation will increase the distinction between the old and new networks.
+
+**BigONE Earn Bot**
+
+- Functions in question: Existing products are automatically migrated to the new mainnet, and assets have been withdrawn for exchange.
+- Current status:
+  - The current bot corresponds to the old network.
+  - Fixed and flexible deposits of BTC, ETH, and USDT are suspended, and current withdrawals of BTC, ETH, and USDT are suspended.
+- Future plans: Automatic migration to new network, old network is no longer supported.
+- Notes: Existing products are automatically migrated, no operation is required. The assets that have been withdrawn need to be manually exchanged.
+
+**BigONE Trading Bot**
+
+- Functions in question: In/out transfers
+- Current status:
+  - The current bot corresponds to the Mixin old network.
+  - The ERC20 USDT, BTC, and ETH in the original trading account are recorded as MixinUSDT, MixinBTC, and MixinETH respectively. They can be transferred out to the old network, but cannot be transferred back to the trading account after the transfer. 
+  - TRC20 USDT in the old network can be transferred to the trading account.
+  - USDT corresponds to TRC20 USDT.
+  - The new BTC and ETH obtained from the transaction are undamaged tokens and cannot be transferred out for the time being.
+- Future plans:
+  - Assets in the trading account are automatically migrated to the new network, and the old network is no longer supported.
+  - After migration, USDT will correspond to the new network ERC20 USDT.
+- Notes: Pending orders are automatically canceled during migration, and all assets and quantitative strategies are automatically migrated, no operation is required.
 
