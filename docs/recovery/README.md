@@ -46,22 +46,24 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 - Current status: 
   - ✅ Loan repayment must be made in one installment; partial repayment is temperarily not supported.   
   - ✅ Collateral can be redeemed only when loans are **100% paid off**. 
+  - ✅ For users who need pUSD on the old Mixin Network to repay Leaf pUSD debts: you can exchange stablecoins on the new Mixin Network into pUSD on the old Mixin Network using the [pUSD bridge]( https://app.pando.im/swap/pusd) 
   - ⏸️ Debt interest accural and liquidation are both suspended. 
 - Future plans:
   - Pando Leaf will be operated **independently** on both the new and old Mixin Networks in the future.   
   - Leaf on the new Mixin Network will have the full set of functions while the Leaf on the old network will only allow for loan repayment and collateral redemption but discontinue the stablecoin minting function. The exact timetable is yet to be announced.
-  - A two-way pUSD bridge will be provided where users can transfer pUSD between the old Mixin Network and the new one. 
+  - The reversion derection of the pUSD bridge will also be supported so that users can transfer pUSD between the old Mixin Network and the new one. 
 - Notes: it's recommended that the collateral sETH-BTC be redeemed as it's the liquidity provider token of the liquidity pair ETH/BTC in Pando Swap and the reason for withdrawing its liquidity is mentioned in the above Pando Swap section. For all other types of collateral, no action is needed at the moment. 
 
 **Pando Rings**
 
 - Functions in question: supplying assets, pledging assets, borrowing assets, repaying loans, and redeeming assets
 - Current status: 
-  - ✅ Collateral can be redeemed only when loans are **100% paid off**. (Redemption of other types of collateral is not resumed yet.)
+  - ✅ Collateral can be redeemed only when loans are **100% paid off**. Redemption of all types of collateral has been resumed.
+  - ✅ For users who need pUSD on the old Mixin Network to repay Rings pUSD debts: you can exchange stablecoins on the new Mixin Network into pUSD on the old Mixin Network using the [pUSD bridge]( https://app.pando.im/swap/pusd) 
   - ⏸️ Debt interest accural and liquidation are both suspended. 
 - Future plans:
   - Rings will resume operation on the old Mixin Network (but not yet have plans to operate on the new network).
-  - Rings on the old network will discontinue asset borrowing, but allow for partial loan repayment and asset redemption.  The exact timetable is yet to be announced.
+  - Rings on the old network will discontinue asset borrowing, but allow for partial loan repayment. The exact timetable is yet to be announced.
 - Notes: it's recommended that the all **LP-Token** collateral (non-LP-Token collateral are not included) involving USDT (ERC20), BTC, ETH and/or BOX be redeemed for the reason mentioned in the Pando Swap section. 
 
 **Shares in the XIN Node**
