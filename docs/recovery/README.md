@@ -46,7 +46,7 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 - Current status: 
   - ✅ Loan repayment must be made in one installment; partial repayment is temperarily not supported.   
   - ✅ Collateral can be redeemed only when loans are **100% paid off**. 
-  - ✅ For users who need pUSD on the old Mixin Network to repay Leaf pUSD debts: you can exchange stablecoins on the new Mixin Network into pUSD on the old Mixin Network using the [pUSD bridge]( https://app.pando.im/swap/pusd) 
+  - ✅ For users who need pUSD on the old Mixin Network to repay Leaf pUSD debts: you can exchange stablecoins on the new Mixin Network into pUSD on the old Mixin Network using the [pUSD bridge](https://app.pando.im/swap/pusd)
   - ⏸️ Debt interest accural and liquidation are both suspended. 
 - Future plans:
   - Pando Leaf will be operated **independently** on both the new and old Mixin Networks in the future.   
