@@ -140,3 +140,11 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
   - After migration, USDT will correspond to the new network ERC20 USDT.
 - Notes: Pending orders are automatically canceled during migration, and all assets and quantitative strategies are automatically migrated, no operation is required.
 
+### MVG Finance
+
+- Functions in question: deposit and withdrawal 
+- Current status:
+  - Deposit and Withdrawal Services Temporarily Paused: As part of our ongoing efforts to migrate to the new safe network, both deposit and withdrawal functions remain suspended. We kindly request users to refrain from initiating new deposits or withdrawals until the migration process is completed.
+  - Your asset is safe: All deposits made after the September 23, 2023 hack are secure. Withdrawals made during the hack period are refunded. For any further questions please feel free to contact us through telegram or discord.
+- Future plans: Once the API & SDK become available for integration, we plan to migrate the bridge to the new safe network. Subsequently, the v2 version will undergo thorough deployment and testing, incorporating the Mixin Virtual Machine on the new network.
+- Notes: Your assets remain secure and unaffected. We strongly advise against depositing or withdrawing until the migration process concludes successfully. No further actions required.
