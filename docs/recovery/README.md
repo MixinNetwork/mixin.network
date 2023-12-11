@@ -20,11 +20,14 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 - Functions in question: transaction, withdrawal and deposit 
 - Current status:
   - ✅ The New Mixin Mainnet has been launched. Users can migrate most types of their crypto assets in the wallets from the old Mixin Mainnet to the  new Mainnet **uni-directionally** but not reversely. 
-  - ⏸️ Withdrawals and deposits on the new Mixin Network are still suspended. The functions will be resumed soon.
+  - ✅ Tokens supported for recharge on the new mainnet:
+    - BTC, ETH, XRP, EOS, TRX, various versions of USDT, LTC
+  - ✅ Tokens supported for withdrawals on New Main:
+    - TRX, USDT-TRC20
   - ⏸️ Deposits on the old Mixin Network are suspended. 
     - If you have made deposits to Mixin Network using MVM bridge or Fennec wallet after the network suspended deposits and haven't received the deposits yet, please fill the form https://forms.gle/zFAwfggvd442WaJ68 and join [Mixin customer support group](https://t.me/mvmbridge) on Telegram to report the issue.
   - ❌ Withdrawals on the old Mixin Network has been permanently disabled. To withdraw, please migrate your assets to the new Mixin Network and wait for the resumption of the withdrawal function. 
-- Notes: you need to upgrade your Mixin Messenger app to the 1.0 version or above to be able to migrate your assets. To migrate, first enter Mixin wallet by clicking on the "wallet" icon on the bottom left of the screen, then click on the blue banner on the top of the page. You can also migrate by adding Safe Network Migration (Mixin ID: 7999194743) and clicking on bot icon to continue. 
+- Notes: you need to upgrade your Mixin Messenger app to the 1.1 version or above to be able to migrate your assets. To migrate, first enter Mixin wallet by clicking on the "wallet" icon on the bottom left of the screen, then click on the blue banner on the top of the page. You can also migrate by adding Safe Network Migration (Mixin ID: 7999194743) and clicking on bot icon to continue. 
 
 ### Pando
 
@@ -101,13 +104,33 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 
 ### Exin 
 
+**ExinOne**
+
 - Functions in question: Swap trading, limit order trading, regular investment, and loans
 - Current status:
-  - All services are available now in the old Mixin Network. 
-  - Only USDT(TRC20) is supported in trading. 
-  - New network is not yet suppprted for all its services. 
-  - Users' Exin wallet only show the assets on the old Mixin Network.
+  - All services are available now in the new Mixin Network. 
+  - The wallet ExinOne shows is the old network wallet
+- Future plans: Show new network's wallet in 2023-12-15
+- Notes: See [docs](https://support.exinone.com/docs/Instructions/faq)
 
+**ExinPool**
+
+- Functions in question: Staking
+- Current status: We are in the process of migrating to a new system and are currently suspending joining & retrieving assets outside of XIN.
+- Future plans: Migration to the new system and full restoration of functionalities is expected within 2023.
+
+**ExinSwap**
+
+- Functions in question: Swap
+- Current status: 
+  - Suspension of trading. 
+  - Support for exit liquidity.
+
+**MixSwap**
+
+- Functions in question: Swap
+- Current status: 
+  - Suspension of trading. 
 
 ### BigONE
 
