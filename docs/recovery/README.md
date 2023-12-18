@@ -47,15 +47,16 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 
 - Functions in question: stablecoin minting, loan repayment, collateral redemption 
 - Current status: 
-  - ✅ Loan repayment must be made in one installment; partial repayment is temperarily not supported.   
-  - ✅ Collateral can be redeemed only when loans are **100% paid off**. 
+  - ✅ Except for ETH, sETH-BTC, XIN and MOB vaults, all other vaults on Pando Leaf (legacy Mixin Network) have resumed interest accural and liquidation.
+  - ✅ Except for ETH、sETH-BTC、XIN 和 MOB vaults, all other vaults on Pando Leaf (legacy Mixin Network) have resumed partial loan repayment and partial asset redemption.
+  - ⏸️ For ETH、sETH-BTC、XIN 和 MOB vaults, debt interest accural and liquidation are both still suspended. For these four types of vault, repayment must be made in one installment - partial repayment is temperarily not supported.   
+  - ✅ For ETH、sETH-BTC、XIN 和 MOB vaults, collateral can be redeemed only when loans are **100% paid off**. 
   - ✅ For users who need pUSD on the old Mixin Network to repay Leaf pUSD debts: you can exchange stablecoins on the new Mixin Network into pUSD on the old Mixin Network using the [pUSD bridge](https://app.pando.im/swap/pusd)
-  - ⏸️ Debt interest accural and liquidation are both suspended. 
 - Future plans:
   - Pando Leaf will be operated **independently** on both the new and old Mixin Networks in the future.   
   - Leaf on the new Mixin Network will have the full set of functions while the Leaf on the old network will only allow for loan repayment and collateral redemption but discontinue the stablecoin minting function. The exact timetable is yet to be announced.
   - The reversion derection of the pUSD bridge will also be supported so that users can transfer pUSD between the old Mixin Network and the new one. 
-- Notes: it's recommended that the collateral sETH-BTC be redeemed as it's the liquidity provider token of the liquidity pair ETH/BTC in Pando Swap and the reason for withdrawing its liquidity is mentioned in the above Pando Swap section. For all other types of collateral, no action is needed at the moment. 
+- Notes: it's recommended that if you worry about collateral liquidation of your vaults except for ETH、sETH-BTC、XIN 和 MOB types, full or partial repayment of debt be made to put collateral/debt ratio at a safer level.
 
 **Pando Rings**
 
