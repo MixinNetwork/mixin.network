@@ -110,15 +110,14 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 - Functions in question: Swap trading, limit order trading, regular investment, and loans
 - Current status:
   - All services are available now in the new Mixin Network. 
-  - The wallet ExinOne shows is the old network wallet
-- Future plans: Show new network's wallet in 2023-12-15
+- Future plans: Will show the EPC account's transactions soon.
 - Notes: See [docs](https://support.exinone.com/docs/Instructions/faq)
 
 **ExinPool**
 
 - Functions in question: Staking
-- Current status: We are in the process of migrating to a new system and are currently suspending joining & retrieving assets outside of XIN.
-- Future plans: Migration to the new system and full restoration of functionalities is expected within 2023.
+- Current status: Migrated to the new system, all node join & exit functions have been restored. 
+- Future plans: TRX, MATIC and ETH have been reissued, and other nodes will be reissued one after another.
 
 **ExinSwap**
 
