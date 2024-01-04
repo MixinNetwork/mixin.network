@@ -74,20 +74,18 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 
 - Functions in question: buying and redeeming shares of XIN Node
 - Current status:
-  - ✅  both buying and redeeming shares of XIN Node are available  
-  - ⏸️ Profit distribution is currently suspended due to the Mixin network migration. The profits will be paid retroactively when the migration is finished. 
-- Future plans:
-  - Users' purchased shares will be automatically migrated to the new Mixin Network. 
+  - ✅ Both buying and redeeming shares of XIN Node are available 
+  - ✅ All users' purchased shares have been automatically migrated to the new Mixin Network 
+  - ⏸️ Profit distribution is still suspended due to the Mixin network migration. The profits will be paid retroactively when the migration is finished.  
 - Notes: no action is not needed on the users' end. 
 
 **BOX Exclusive Wealth Management**
 
 - Functions in question: buying and redeeming shares of BOX Exclusive Wealth Management Product 
 - Current status:
-  - ⏸️ both buying and redeeming shares are suspened. 
-- Future plans:
-  - Users' purchased shares will be automatically migrated to the new Mixin Network. 
-- Notes: no action is needed on the users' end. All shares will be automatically migrated to the new Mixin Network. After the migration, buying and redeeming of shares will be resumed and users with shares will receive corresponding Mixin bonds in accordance with the amount of tokens they hold. 
+  - ✅ Both buying and redeeming shares are available 
+  - ✅ All users' purchased shares have been automatically migrated to the new Mixin Network 
+  - ✅ The profits during the suspension period have been distributed retroactively to users' wallets
 
 **B.watch**
 
