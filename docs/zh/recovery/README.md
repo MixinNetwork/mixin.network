@@ -41,8 +41,8 @@ contributors: false
         10. Ripple XRP
   - ❌ 旧主网提现功能**停止**，⏸️ 充值功能**暂停**，请勿充值资产到旧系统。
 - 备注：升级 1.1 版本 Mixin Messenger 以后，进入右下角钱包，点击最上面的蓝条，才能进行手工迁移。
-- Mixin 资产[迁移教程](https://support.mixin.one/zh/article/5aac5l2v5oqk6lwe5lqn5luo5pen6zkx5yyf6lb56e76iez5paw6zkx5yyf77yf-my2a1e/)
-- MDT [债券介绍](https://support.mixin.one/zh/article/mdt-w0b7ju/)
+  - Mixin 资产[迁移教程](https://support.mixin.one/zh/article/5aac5l2v5oqk6lwe5lqn5luo5pen6zkx5yyf6lb56e76iez5paw6zkx5yyf77yf-my2a1e/)
+  - MDT [债券介绍](https://support.mixin.one/zh/article/mdt-w0b7ju/)
 
 ### Pando
 

@@ -32,7 +32,7 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
       9. all assets on the TRON chain such as USDT-TRC20, TRX, etc. 10.
       10. MobileCoin recharge, including MOB and eUSD. 
 
-  - Mixin has already opened some assets withdrawals:
+  - ✅ Mixin has already opened some assets withdrawals:
       1. Bitcoin BTC
       2. All assets on the TRON chain, such as TRX, USDT, etc.
       3. Litecoin LTC
