@@ -17,12 +17,32 @@ contributors: false
 - 涉及功能：转账与储值
 - 当前状态：
   - ✅ 可以将大部分旧钱包中的资产，**单向迁移**到新钱包
-  - ✅ 新主网支持充值的代币：
-    - BTC、ETH、XRP、EOS、TRX、各版本 USDT、LTC
-  - ✅ 新主网支持提币的代币：
-    - TRX、USDT-TRC20
-  - ❌ 旧主网提现功能**停止**，⏸️ 充值功能**暂停**
+  - ✅ 现在 Mixin 已经支持充值的有：
+        1. Bitcoin BTC
+        2. Ethereum 链上的所有资产
+        3. Polygon 链上的所有资产
+        4. BSC 链上的所有资产
+        5. Litecoin LTC
+        6. EOS 链上所有的资产
+        7. Ripple XRP
+        8. Dogecoin DOGE
+        9. TRON 链上的所有资产如 USDT-TRC20，TRX 等
+        10. MobileCoin 的充值，包括 MOB 和 eUSD 
+  - ✅ 现在 Mixin 已经开放提现的有：
+        1. Bitcoin BTC
+        2. TRON 链上的所有资产，比如 TRX，USDT 等
+        3. Litecoin LTC
+        4. Dogecoin DOGE
+        5. Polygon 链上的所有资产，比如 MATIC，USDT，USDC 等等 
+        6. Ethereum 链上的所有资产，比如 ETH，USDT-ERC20 等等
+        7. MobileCoin 的资产 MOB 和 eUSD
+        8. BSC 链上的所有资产，比如 BNB，USDT，USDC 等等
+        9. EOS 链上的所有资产，比如 EOS，USDT，IQ 等等
+        10. Ripple XRP
+  - ❌ 旧主网提现功能**停止**，⏸️ 充值功能**暂停**，请勿充值资产到旧系统。
 - 备注：升级 1.1 版本 Mixin Messenger 以后，进入右下角钱包，点击最上面的蓝条，才能进行手工迁移。
+  - Mixin 资产[迁移教程](https://support.mixin.one/zh/article/5aac5l2v5oqk6lwe5lqn5luo5pen6zkx5yyf6lb56e76iez5paw6zkx5yyf77yf-my2a1e/)
+  - MDT [债券介绍](https://support.mixin.one/zh/article/mdt-w0b7ju/)
 
 ### Pando
 
@@ -100,16 +120,16 @@ contributors: false
 - 当前状态：
   - ✅ 已迁移至新系统；
   - ✅ 支持在新系统内交易、挂单、定投；
-  - ExinOne 的钱包模块介绍了如何查看新旧系统的钱包，未来将展示新系统钱包资产
-- 计划：EPC 账户资产展示将在不久后恢复
+  - ExinOne 的钱包模块介绍了如何查看新旧系统的钱包，未来将展示新系统钱包资产。
+- 计划：EPC 账户资产展示将在不久后恢复。
 - 备注：更多细节请[查阅文档](https://support.exinone.com/zh-CN/docs/Instructions/faq)
 
 
 **ExinPool**
 
 - 涉及功能：Staking
-- 当前状态：已迁移至新系统，所有节点加入 & 退出功能均已恢复。
-- 计划：已补发 TRX、MATIC、ETH 历史收益，其它节点收益也将陆续补发。
+- 当前状态：✅ 已迁移至新系统，所有节点加入 & 退出功能均已恢复。
+- 计划：✅ 已补发 TRX、MATIC、ETH、AXS、AVAX、AKT、ZEN 的历史收益，其它节点收益也将陆续补发。
 
 **ExinSwap**
 

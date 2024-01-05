@@ -20,10 +20,30 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 - Functions in question: transaction, withdrawal and deposit 
 - Current status:
   - ✅ The New Mixin Mainnet has been launched. Users can migrate most types of their crypto assets in the wallets from the old Mixin Mainnet to the  new Mainnet **uni-directionally** but not reversely. 
-  - ✅ Tokens supported for recharge on the new mainnet:
-    - BTC, ETH, XRP, EOS, TRX, various versions of USDT, LTC
-  - ✅ Tokens supported for withdrawals on New Main:
-    - TRX, USDT-TRC20
+  - ✅ Mixin now supports the following assets deposit:
+      1. Bitcoin BTC
+      2. All assets on Ethereum chain
+      3. All assets on Polygon chain
+      4. All assets on the BSC chain
+      5. Litecoin LTC
+      6. All assets on the EOS chain
+      7. Ripple XRP
+      8. Dogecoin DOGE
+      9. All assets on the TRON chain such as USDT-TRC20, TRX, etc. 10.
+      10. MobileCoin recharge, including MOB and eUSD. 
+
+  - ✅ Mixin has already opened some assets withdrawals:
+      1. Bitcoin BTC
+      2. All assets on the TRON chain, such as TRX, USDT, etc.
+      3. Litecoin LTC
+      4. Dogecoin DOGE
+      5. All assets on Polygon chain, such as MATIC, USDT, USDC, etc. 6. 
+      6. All assets on the Ethereum chain, such as ETH, USDT-ERC20, and so on
+      7. MobileCoin's assets MOB and eUSD
+      8. All assets on the BSC chain, such as BNB, USDT, USDC, etc.
+      9. All assets on the EOS chain, such as EOS, USDT, IQ, etc.
+      10. Ripple XRP
+
   - ⏸️ Deposits on the old Mixin Network are suspended. 
     - If you have made deposits to Mixin Network using MVM bridge or Fennec wallet after the network suspended deposits and haven't received the deposits yet, please fill the form https://forms.gle/zFAwfggvd442WaJ68 and join [Mixin customer support group](https://t.me/mvmbridge) on Telegram to report the issue.
   - ❌ Withdrawals on the old Mixin Network has been permanently disabled. To withdraw, please migrate your assets to the new Mixin Network and wait for the resumption of the withdrawal function. 
@@ -107,15 +127,15 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 
 - Functions in question: Swap trading, limit order trading, regular investment, and loans
 - Current status:
-  - All services are available now in the new Mixin Network. 
+  - ✅ All services are available now in the new Mixin Network. 
 - Future plans: Will show the EPC account's transactions soon.
 - Notes: See [docs](https://support.exinone.com/docs/Instructions/faq)
 
 **ExinPool**
 
 - Functions in question: Staking
-- Current status: Migrated to the new system, all node join & exit functions have been restored. 
-- Future plans: TRX, MATIC and ETH have been reissued, and other nodes will be reissued one after another.
+- Current status: ✅ Migrated to the new system, all node join & exit functions have been restored. 
+- Future plans: TRX、MATIC、ETH、AXS、AVAX、AKT、ZEN have been reissued, and other nodes will be reissued one after another.
 
 **ExinSwap**
 
