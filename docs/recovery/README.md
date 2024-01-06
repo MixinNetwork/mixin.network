@@ -56,12 +56,14 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 **Pando Swap**
 
 - Functions in question: Swap trading, limit order trading, liquidity management (including adding and removing liquidity) 
-- Current status:
+- Current status(old mainnet version):
   - ✅ Liquidity management function including adding and removing liquidity has been resumed. 
-  - ⏸️ Trading is still suspended. 
+  - ⏸️ Trading is still suspended.
+- Current status(new mainnet version):
+  - ✅ Service restarted, all functions work
+  - ‼️ Liquidity is low, be careful when trading.
 - Future plans: 
-  - Pando Swap will be operated **independently** on both the new and old Mixin Networks in the future. Trading function will be available on both networks but the exact timetable is yet to be announced. 
-- Notes: it's recommended that all liquidity involving USDT (ERC20), BTC, ETH and/or BOX be removed now to prevent losses resulting from changes in asset prices once the trading function resumes. For liquidity not involving the above mentioned cryptocurrencies, no action is needed at the moment. For details, please check [this article](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3).  
+- Notes: it's recommended that all liquidity from old mainnet version involving USDT (ERC20), BTC, ETH and/or BOX be removed now to prevent losses resulting from changes in asset prices once the trading function resumes. For liquidity not involving the above mentioned cryptocurrencies, no action is needed at the moment. For details, please check [this article](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3).  
 
 **Pando Leaf**
 
