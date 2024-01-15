@@ -66,7 +66,7 @@ contributors: false
   - ✅ 除 ETH、sETH-BTC、XIN 和 MOB 金库以外，旧主网 Leaf 上其他所有金库恢复部分还款和部分赎回功能
   - ✅ 除 ETH、sETH-BTC、XIN 和 MOB 金库, 旧主网 Leaf 上其他所有金库恢复计息和清算
   - ✅ 可以通过 [pUSD 桥](https://app.pando.im/swap/pusd)（Mixin新主网到旧主网方向）将新主网中的稳定币按 1:1 比例转化为旧主网上的 pUSD，用户偿还 Leaf 中的 pUSD 债务
-  - ✅ 旧主网版本还款：可访问 https://app-legacy.pando.im/leaf/vaults 或者搜索 @7000105018 切换到旧主网
+  - ✅ 旧主网版本还款：可访问 [https://app-legacy.pando.im/leaf/vaults](https://app-legacy.pando.im/leaf/vaults) 或者搜索 @7000105018 切换到旧主网
   - ⏸️ 对于 ETH、sETH-BTC、XIN 和 MOB 金库，**依然暂停计息和清算，只能全额还款**，且仅支持**无债务**的情况下提取质押物
 - 计划：
   - 未来在新主网单独重启。
