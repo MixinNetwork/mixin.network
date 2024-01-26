@@ -114,8 +114,7 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 
 - Functions in question: buying and redeeming underlying crypto assets of BOX
 - Current status:
-  - ⏸️ both the buying and redeeming of the assets are suspended.
-- Notes: no action is needed on the users' end. The service will be automatically migrated to the new Mixin Network. Once the migration is concluded, the buying and redeeming of the underlying assets of BOX will be resumed. 
+  - ✅ both the buying and redeeming of the assets are resume.
 
 **BEE.holdings**
 
