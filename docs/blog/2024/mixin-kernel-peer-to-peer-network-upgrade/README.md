@@ -4,7 +4,7 @@ description: Mixin Kernel v0.18 Stealth Phasmids is released, and brings a new p
 editLink: false
 sidebar: false
 date: 2024-02-14
-cover:
+cover: https://mixin.network/assets/kernel-4a26a06a.jpeg
 lastUpdated: 2024/02/14
 contributors: false
 ---
@@ -15,9 +15,9 @@ contributors: false
 
 Today Mixin Kernel [v0.18 Stealth Phasmids](https://github.com/MixinNetwork/mixin/releases/tag/v0.18.0) is released, and brings a new peer to peer network layer that improves security and privacy of the signer node.
 
-With the new P2P network layer, the signer node is not needed to be exposed to the public internet, and we recommend all signer nodes block all connections on all UDP/TCP ports through their firewalls.
+With the new P2P network layer, the signer node is not needed to be exposed to the public internet, and we recommend all signer nodes block connections on all UDP/TCP ports through their firewalls.
 
-To upgrade to the new network layer, all signer nodes need to do a small modification to their `confit.toml` file as below:
+To upgrade to the new network layer, all signer nodes need to do a small modification to their `config.toml` file as below:
 
 ```diff
 +[p2p]
