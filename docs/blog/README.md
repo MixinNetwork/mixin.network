@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: 
+description:
 editLink: false
 sidebar: false
 lastUpdated: false
@@ -8,6 +8,8 @@ contributors: false
 ---
 
 # Mixin Network Blog
+
+- [Mixin Kernel Peer to Peer Network Upgrade](./2024/mixin-kernel-peer-to-peer-network-upgrade/)
 
 ## 2023
 - [Mixin Network Monthly Report - No.54](./2023/mixin-network-monthly-report-no.54/)

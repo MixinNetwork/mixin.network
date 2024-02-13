@@ -3,9 +3,9 @@ title: Mixin Network Monthly Report No. 54
 description: Mixin Mainnet has been running for 1647 days. The statistics of popular assets are listed. Ecosystem development, with Mixin Safe, Pando, Mixpay, Quill and other news and events are listed.
 editLink: false
 sidebar: false
-date: 2023-09-011
-cover: 
-lastUpdated: 2023/09/011
+date: 2023-09-11
+cover:
+lastUpdated: 2023/09/11
 contributors: false
 ---
 # Mixin Network Monthly Report — No. 54
@@ -24,7 +24,7 @@ contributors: false
 
 | Assets     | Total Volume (changes) | Number of Monthly Transaction |
 |----------:|:----------------------:|:---------:|
-| BTC        | 9,327 (-217)                |	654,722 | 
+| BTC        | 9,327 (-217)                |	654,722 |
 | BOX	     | 86,291,087 (+395964,851)             | 313,740   |
 | ETH      	 | 84,812 (+170)          	| 186,274  |
 | USDC       | 2,796,732 (+51,914)         | 12,712   |
