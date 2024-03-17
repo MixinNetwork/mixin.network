@@ -53,15 +53,24 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 
 > For the operational statuses of Pando protocols and products, and the frequently asked requestions regarding Pando services, please check [this article](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3) (writen in Chinese).  
 
+- ✅ Swap: 完全恢复
+- ✅ XIN Nodes: 完全恢复
+- ✅ BOX Project: 完全恢复
+- ✅ B.watch: 完全恢复
+- 🚧 Leaf: 旧主网版本部分恢复
+- 🚧 Rings: 旧主网版本部分恢复
+- ⏸️ BEE.holdings: 暂停状态
+- ⏸️ Auto-Invest: 暂停状态
+
 **Pando Swap**
 
-- Functions in question: Swap trading, limit order trading, liquidity management (including adding and removing liquidity) 
-- Current status(old mainnet version):
-  - ✅ Liquidity management function including adding and removing liquidity has been resumed. 
-  - ⏸️ Trading is still suspended.
+- Functions in question: Swap trading, limit order trading, liquidity management (including adding and removing liquidity)
 - Current status(new mainnet version):
   - ✅ Service restarted, all functions work
   - ‼️ Liquidity is low, be careful when trading.
+- Current status(old mainnet version):
+  - ✅ Liquidity management function including adding and removing liquidity has been resumed. 
+  - ⏸️ Trading is suspended.
 - Future plans: 
 - Notes: it's recommended that all liquidity from old mainnet version involving USDT (ERC20), BTC, ETH and/or BOX be removed now to prevent losses resulting from changes in asset prices once the trading function resumes. For liquidity not involving the above mentioned cryptocurrencies, no action is needed at the moment. For details, please check [this article](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3).  
 
@@ -98,7 +107,6 @@ Here is the [Chinese version](https://mixin.network/zh/recovery/) of the article
 - Current status:
   - ✅ Both buying and redeeming shares of XIN Node are available 
   - ✅ All users' purchased shares have been automatically migrated to the new Mixin Network 
-  - ⏸️ Profit distribution is still suspended due to the Mixin network migration. The profits will be paid retroactively when the migration is finished.  
 - Notes: no action is not needed on the users' end. 
 
 **BOX Exclusive Wealth Management**
