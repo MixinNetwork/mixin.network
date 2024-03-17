@@ -48,7 +48,16 @@ contributors: false
 
 > 关于 Pando各协议及产品目前运行状态及使用常见问题指引 的详情请参考：[这篇文章](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3)
 
-**✅ Pando Swap**
+- ✅ Swap: 完全恢复
+- ✅ XIN 节点: 完全恢复
+- ✅ BOX 资深理财: 完全恢复
+- ✅ B.watch: 完全恢复
+- 🚧 Leaf: 旧主网版本部分恢复
+- 🚧 Rings: 旧主网版本部分恢复
+- ⏸️ BEE.holdings: 暂停状态
+- ⏸️ 定投: 暂停状态
+ 
+**Pando Swap**
 
 - 涉及功能：Swap 交易、挂单交易、流动性管理
 - 当前状态(新主网版):
@@ -59,7 +68,7 @@ contributors: false
   - ⏸️ 其他所有功能**暂停**。
 - 备注：建议提取旧主网版本中所有包含 USDT、BTC、ETH、BOX 的流动性资产。其他流动性资产可不提取。操作方式请参考[这篇文章](https://quill.im/39204791/53e5f9e6-76d8-46bd-b276-650e852ea5c3)。
 
-**🚗 Pando Leaf**
+**Pando Leaf**
 
 - 涉及功能：铸币、还款、提取质押物
 - 当前状态：
@@ -73,7 +82,7 @@ contributors: false
   - 提供 pUSD 双向桥，用户也可以将旧主网的 pUSD 兑换为新主网上的稳定币。
 - 备注：建议担心除 ETH、sETH-BTC、XIN 和 MOB 抵押物清算风险的用户尽快还款
 
-**🚗 Pando Rings**
+**Pando Rings**
 
 - 涉及功能：提供资金、质押、借款、还款、提取质押物
 - 当前状态：
@@ -85,7 +94,7 @@ contributors: false
   - 旧主网 Rings 会关闭借款，但是允许部分还款和提现，暂无确切的重启时间。
 - 备注：建议提取所有包含 USDT、BTC、ETH、BOX 的 LP-Token 质押物。
 
-**✅ XIN 节点**
+**XIN 节点**
 
 - 涉及功能：购买和赎回 XIN 节点份额
 - 当前状态：
@@ -93,7 +102,7 @@ contributors: false
   - ✅ 已迁移到新主网
 - 备注：不需要额外操作，将会补发暂停操作期间的理财收益
 
-**✅ BOX 资深理财**
+**BOX 资深理财**
 
 - 涉及功能：购买和赎回 资深 BOX 理财份额
 - 当前状态：
@@ -101,12 +110,12 @@ contributors: false
   - ✅ 已迁移到新主网
   - ✅ 已补发暂停操作期间的理财收益
 
-**✅ B.watch**
+**B.watch**
 
 - 涉及功能：购买和赎回 BOX 成分
 - 当前状态：✅ 已重新**开放**购买和赎回。
 
-**⏸️ BEE.holdings**
+**BEE.holdings**
 
 - 涉及功能：购买和赎回 BEE 成分
 - 当前状态：⏸️ **暂停**购买和赎回。具体方案尚未确定。
