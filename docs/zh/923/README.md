@@ -10,7 +10,7 @@ contributors: false
 
 # Mixin 923 黑客事件披露与进展
 
-（2024 年 3 月 12 日更新）
+（2024 年 4 月 09 日更新）
 
 ## 事件说明
 
@@ -99,16 +99,16 @@ Mixin Network 于 2023 年 9 月 23 日遭受了黑客攻击，本次攻击主�
 | Nervos           | ✅   | 20240215 |
 | Solana           | ✅   | 20240216 |
 | Toncoin          | ✅   | 20240310 |
-| Cosmos           | 🚗  |          |
-| Arweave          | 🚗  |          |
-| Aptos            | 🚗  |          |
-| NEAR             | 🚗  |          |
-| Avalanche        | 🚗  |          |
-| Akash            | 🚗  |          |
-| Algorand         | 🚗  |          |
-| Kusama           | 🚗  |          |
-| Stellar          | 🚗  |          |
-| NEM              | 🚗  |          |
-| Zcash            | 🚗  |          |
-| Ethereum Classic | 🚗  |          |
-| Ravencoin        | 🚗  |          |
+| Cosmos           | ✅   | 20240401 |
+| Akash            | ✅   | 20240401 |
+| Ravencoin        | ✅   | 20240401 |
+| Zcash            | ✅   | 20240403 |
+| Arweave          | 🚗   |          |
+| Aptos            | 🚗   |          |
+| NEAR             | 🚗   |          |
+| Avalanche        | 🚗   |          |
+| Algorand         | 🚗   |          |
+| Kusama           | 🚗   |          |
+| Stellar          | 🚗   |          |
+| NEM              | 🚗   |          |
+| Ethereum Classic | 🚗   |          |

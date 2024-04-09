@@ -10,7 +10,7 @@ contributors: false
 
 # Mixin 923 Hacker Incident Disclosure and Progress
 
-(Updated March 12, 2024)
+(Updated April 09, 2024)
 
 ## Incident Explanation
 
@@ -99,16 +99,16 @@ Currently, 16,143 individuals have registered their debts, of which 90% having c
 | Nervos           | ✅      | 20240215      |
 | Solana           | ✅      | 20240216      |
 | Toncoin          | ✅      | 20240310      |
-| Cosmos           | 🚗     |               |
+| Cosmos           | ✅      | 20240401      |
+| Akash            | ✅      | 20240401      |
+| Ravencoin        | ✅      | 20240401      |
+| Zcash            | ✅      | 20240403      |
 | Arweave          | 🚗     |               |
 | Aptos            | 🚗     |               |
 | NEAR             | 🚗     |               |
 | Avalanche        | 🚗     |               |
-| Akash            | 🚗     |               |
 | Algorand         | 🚗     |               |
 | Kusama           | 🚗     |               |
 | Stellar          | 🚗     |               |
 | NEM              | 🚗     |               |
-| Zcash            | 🚗     |               |
 | Ethereum Classic | 🚗     |               |
-| Ravencoin        | 🚗     |               |
